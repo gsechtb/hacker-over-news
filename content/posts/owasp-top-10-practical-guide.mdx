@@ -1,0 +1,71 @@
+---
+title: "The OWASP Top 10, Revisited: A Practical Guide for Engineers"
+description: "A working engineer's walkthrough of the OWASP Top 10 categories — what they actually look like in code, and the controls that stop them."
+date: "2026-02-10"
+author: "Issam Afifi"
+tags: ["web-security", "owasp", "appsec"]
+---
+
+The OWASP Top 10 gets cited constantly and read rarely. Most teams know it exists, fewer have sat down and mapped it against their own codebase. This is a practical pass through the list — not the official category text, but what each one actually looks like when you're staring at a pull request.
+
+## 1. Broken Access Control
+
+This is the most common finding in real audits, and it's rarely a missing `if` statement — it's an *inconsistent* one. A classic example: an API checks that a user owns a resource on the `GET` route but forgets the same check on `PATCH` or `DELETE`.
+
+```js
+// Checked on read, forgotten on write — classic IDOR
+app.get("/invoices/:id", requireOwnership, getInvoice);
+app.delete("/invoices/:id", deleteInvoice); // missing requireOwnership
+```
+
+The fix isn't "remember to add checks everywhere" — that doesn't scale. It's centralizing authorization in middleware or a policy layer (think OPA, CASL, or a thin internal library) so every route *has* to pass through the same gate, and a missing check fails closed rather than silently succeeding.
+
+## 2. Cryptographic Failures
+
+Less about "did you use AES" and more about key management, transport, and defaults. The failures that show up repeatedly:
+
+- TLS terminated at a load balancer, then plaintext HTTP for the rest of the internal hop, carrying session tokens.
+- Secrets baked into Docker images or committed to git history (`git log -p` still finds them years later).
+- Password hashing with a fast general-purpose hash (MD5, SHA-256 alone) instead of a purpose-built algorithm like **argon2id** or **bcrypt**.
+
+Rotate what leaked, don't just delete it from HEAD — history keeps it. Use a secrets manager (Vault, AWS Secrets Manager, Doppler) and treat `.env` files as a local-dev convenience, never a production control.
+
+## 3. Injection
+
+SQL injection is old news to most backend engineers, but injection as a class is broader than SQL: command injection via `exec()`, template injection in server-rendered views, LDAP injection in directory lookups, and increasingly, prompt injection in LLM-backed features that concatenate untrusted input into a model's instructions.
+
+The underlying fix is the same shape every time: **never build an interpreter's input by string concatenation with untrusted data.** Parameterized queries, allow-listed shell arguments (or no shell at all — use `execFile` over `exec`), and for LLM pipelines, a hard boundary between "instructions" and "data" with output handling that doesn't trust the model's text as a command.
+
+## 4. Insecure Design
+
+This one is uncomfortable because it's not a bug you patch — it's a property of the architecture. A password-reset flow that emails a reusable 6-digit code with no rate limit is insecurely *designed*, not insecurely *coded*; the code does exactly what it was asked to do.
+
+Threat modeling during design (see our [STRIDE walkthrough](/blog/threat-modeling-stride)) catches this class of issue before it's expensive to fix. The cheapest security bug is the one that never gets built.
+
+## 5. Security Misconfiguration
+
+Default credentials left on an admin panel, verbose stack traces in production responses, S3 buckets with public-read because someone was debugging at 2am and forgot to revert it. Misconfiguration is the category most amenable to automation: infrastructure-as-code with policy checks (Checkov, tfsec, OPA/Conftest) catches the majority of these before they ever reach production.
+
+## 6. Vulnerable and Outdated Components
+
+Your application code might be clean and your dependency tree might still be the attack surface. `npm audit`, `pip-audit`, Dependabot, and Renovate exist precisely because manually tracking transitive dependency CVEs doesn't scale past a handful of packages. See our piece on [securing CI/CD pipelines](/blog/securing-ci-cd-supply-chain) for how this intersects with supply-chain risk specifically.
+
+## 7. Identification and Authentication Failures
+
+Session tokens that don't expire, password policies that reward complexity over length, and — the big one in 2026 — the absence of phishing-resistant MFA. SMS and TOTP codes can be relayed in real time by an attacker running a proxy phishing kit. We cover why that matters and what to use instead in our [MFA deep dive](/blog/phishing-resistant-mfa-webauthn).
+
+## 8. Software and Data Integrity Failures
+
+This is the category that produced SolarWinds and the XZ Utils backdoor: trusting an update mechanism, a CI pipeline, or a package registry without verifying integrity. Signed commits, signed releases (Sigstore/cosign), and SLSA provenance attestations are no longer "nice to have" for anything with a meaningful user base.
+
+## 9. Security Logging and Monitoring Failures
+
+The quiet one. Most breaches aren't *prevented* by logging — they're *shortened*. The median time to detect a breach is still measured in months at organizations without centralized, alerting-capable logging. If your authentication failures, privilege escalations, and data exports aren't logged somewhere an analyst can query quickly, your incident response plan is theoretical.
+
+## 10. Server-Side Request Forgery (SSRF)
+
+Any feature that fetches a URL on the user's behalf — webhook validators, PDF-from-URL generators, image proxies, "import from link" buttons — is a potential SSRF vector into your internal network, including cloud metadata endpoints (`169.254.169.254`) that can hand over IAM credentials. Allow-list destination schemes and hosts, disable redirects by default, and never let the fetching service sit on the same network segment as anything sensitive.
+
+## Using this as a checklist, not a trophy
+
+The Top 10 is a floor, not a ceiling — it's the ten most *common* categories, not the ten most severe for your specific system. Treat it as a starting checklist for design review and dependency hygiene, then build a threat model on top of it that reflects what your application actually does and who actually wants to break it.

@@ -1,0 +1,50 @@
+---
+title: "Phishing-Resistant MFA: Why SMS and TOTP Aren't Enough Anymore"
+description: "Real-time phishing proxies defeat SMS and TOTP at scale. Here's how WebAuthn/FIDO2 and passkeys close that gap, and how to roll them out."
+date: "2026-03-18"
+author: "Issam Afifi"
+tags: ["authentication", "mfa", "zero-trust"]
+---
+
+For years, "turn on MFA" was the single highest-leverage piece of security advice you could give. It still is — but not all MFA is equal anymore, and attackers have caught up to the methods most organizations deployed first.
+
+## The problem: MFA that can be relayed
+
+SMS codes and TOTP (the six-digit codes from an authenticator app) share a weakness: they're **phishable**. A user who is tricked into entering a code on a fake login page isn't protected, because the code itself doesn't know or care which site it was typed into.
+
+Adversary-in-the-middle (AiTM) phishing kits — Evilginx and its many descendants — automate this. The kit sits between the victim and the real site, forwards the login form, captures the username, password, *and* the MFA code in real time, and replays them against the real service before the code expires. From the service's point of view, this looks like a normal login. The victim often doesn't notice anything wrong; they just logged in.
+
+This isn't a hypothetical. AiTM phishing has been behind a steady stream of business email compromise and cloud account takeover campaigns over the past several years, precisely because it defeats the MFA method most companies rolled out first.
+
+## Why WebAuthn/FIDO2 is different
+
+WebAuthn (the browser API) and FIDO2 (the broader standard, including passkeys) solve this with a different trust model: **origin binding**. When you register a credential, the browser cryptographically ties it to the exact origin (scheme + domain) you registered it on. When you authenticate, the browser — not the user, not a copy-pasted code — checks that the origin matches before it will even attempt a signature.
+
+A phishing proxy sitting on `accounts-login-verify.com` simply cannot get a valid WebAuthn assertion for `accounts.google.com`, no matter how convincing the page looks, because the browser itself refuses to play along. There's no code for the user to accidentally type into the wrong place — the human is removed from the part of the protocol that phishing exploits.
+
+The private key never leaves the authenticator (a hardware security key, a platform authenticator like Touch ID/Windows Hello, or a passkey synced via a password manager or OS keychain). The server only ever sees a public key and a signed challenge.
+
+## Passkeys vs. security keys vs. TOTP: a quick comparison
+
+| Method | Phishing-resistant | Setup friction | Recovery story |
+|---|---|---|---|
+| SMS OTP | No | Very low | Easy, but SIM-swappable |
+| TOTP app | No | Low | Manual backup codes |
+| Hardware security key (FIDO2) | Yes | Medium (buy + carry a key) | Needs a backup key |
+| Passkey (synced) | Yes | Low once set up | Synced via platform account |
+
+Hardware keys give you the strongest guarantee because the key material is bound to a physical device with no cloud sync path. Synced passkeys trade a small amount of that guarantee for much better usability and recovery — the private key is backed up (encrypted) to the user's Apple/Google/Microsoft account, so losing a phone doesn't mean losing access.
+
+For most organizations, **synced passkeys for the general workforce, hardware keys for high-privilege accounts** (admins, finance, anyone who can approve wire transfers) is the pragmatic split.
+
+## Rolling it out without breaking everyone's workflow
+
+1. **Start with your highest-risk population.** IT admins, executives, and anyone with standing access to production or financial systems should move first — they're the accounts attackers specifically target with AiTM kits.
+2. **Keep a phishing-resistant-only policy for sensitive actions**, even if you allow TOTP as a fallback elsewhere during transition. Conditional access policies (Entra ID, Okta, Duo) can require FIDO2 specifically for admin console access or VPN-less access to internal tools.
+3. **Plan recovery before you need it.** Lost-device flows are where rollouts fail in practice. Decide in advance: backup security keys, admin-assisted re-enrollment with identity verification, or a time-boxed TOTP fallback that's logged and alerted on.
+4. **Kill legacy auth paths.** Phishing-resistant MFA on the main login screen doesn't help if IMAP, legacy Exchange auth, or an old API endpoint still accepts a password alone. Audit for and disable legacy protocols that can't carry MFA at all.
+5. **Measure adoption, not just availability.** "We support passkeys" and "90% of employees have one enrolled" are very different security postures. Track enrollment like you'd track patch compliance.
+
+## The takeaway
+
+MFA fatigue and AiTM phishing are why "we have MFA" stopped being a sufficient answer around the industry. The question that matters now is *which* MFA, and whether it's bound to the origin or just a number a human can be tricked into handing over. WebAuthn/FIDO2 closes that specific, heavily-exploited gap — it's worth the rollout friction, especially for the accounts that would hurt the most to lose.

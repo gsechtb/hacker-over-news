@@ -17,6 +17,9 @@
 /.next/
 /out/
 
+# generated at build/dev time from content/posts — see scripts/build-search-index.mjs
+/public/search-index.json
+
 # production
 /build
 

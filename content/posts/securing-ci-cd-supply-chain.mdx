@@ -1,0 +1,50 @@
+---
+title: "Securing CI/CD Pipelines: Lessons from Recent Supply Chain Attacks"
+description: "SolarWinds, xz-utils, and dozens of compromised npm packages share a pattern. Here's how to harden your pipeline against the same class of attack."
+date: "2026-05-14"
+author: "Issam Afifi"
+tags: ["devops", "supply-chain", "appsec"]
+---
+
+Your application code can be clean, reviewed, and well-tested, and still ship a backdoor — because the thing that built, signed, and deployed it was compromised instead. That's the pattern behind the last several years' most consequential supply-chain incidents, and it's worth studying because the fix isn't "write better code," it's "trust your build system less."
+
+## Two incidents, one lesson
+
+**SolarWinds (2020).** Attackers compromised the build environment for SolarWinds' Orion software and inserted malicious code during the build process itself — not in the source repository. The signed, legitimate-looking binary that shipped to ~18,000 customers contained a backdoor that no code review of the source would have caught, because the source was clean. The build system was the attacker's actual target.
+
+**xz-utils (2024).** A multi-year social-engineering campaign resulted in a trusted maintainer role being handed to an attacker-controlled identity, who then introduced an obfuscated backdoor into build scripts (not the main source tree) that would have compromised SSH authentication on a huge number of Linux systems. It was caught by a developer who noticed a small, unexplained performance regression — not by any automated scan.
+
+Different mechanisms, same underlying failure mode: **the thing producing your artifact was trusted more than it should have been**, whether that's a build server, a maintainer's commit access, or a package registry.
+
+## Where CI/CD pipelines are actually vulnerable
+
+- **Pull request workflows that run with write secrets.** A `pull_request_target` trigger (GitHub Actions) that checks out and runs code from a fork, while still holding access to repository secrets, lets an external contributor's PR branch exfiltrate your deploy keys. This specific misconfiguration has been behind numerous real incidents.
+- **Unpinned third-party actions/dependencies.** `uses: some-action@v1` or `npm install` without a lockfile resolves to whatever that tag currently points to — which the maintainer (or someone who compromised their account) can change at any time. Pin to a commit SHA, not a mutable tag.
+- **Build servers with broad outbound network access and long-lived cloud credentials.** A compromised build step that can reach the internet and hold production AWS keys is a single point of failure for your entire cloud estate.
+- **Package registries with no provenance verification.** `npm install` trusts that the package you asked for is the package you got, with no cryptographic link back to the source commit that supposedly produced it — typosquatting and dependency confusion attacks exploit exactly this gap.
+
+## Concrete hardening steps
+
+**1. Pin dependencies to a hash, not a version.** Lockfiles (`package-lock.json`, `poetry.lock`, `Cargo.lock`) with integrity hashes mean a registry-level swap of a package's contents gets caught at install time, not silently accepted. Do the same for CI actions — pin to a commit SHA:
+
+```yaml
+# Fragile: a tag can be moved by anyone with write access to that repo
+- uses: some-org/some-action@v2
+
+# Better: immutable, auditable
+- uses: some-org/some-action@a1b2c3d4e5f6...
+```
+
+**2. Separate "build" from "deploy" credentials, and scope both tightly.** A CI job that compiles and tests code has no legitimate reason to hold production deploy credentials. Use OIDC federation (GitHub Actions' `id-token` to AWS/GCP/Azure) so short-lived, scoped credentials are issued per-job instead of long-lived secrets sitting in CI configuration indefinitely.
+
+**3. Never run untrusted code with secret access.** Workflows triggered by external pull requests should run without access to repository secrets by default (`pull_request`, not `pull_request_target`, unless you specifically understand the difference and need it). If a workflow needs both — e.g., to post a PR comment with results — split it into two jobs, with the privileged one triggered only after manual approval or on `workflow_run`.
+
+**4. Adopt build provenance.** SLSA provenance and tools like **Sigstore/cosign** let you cryptographically attest "this artifact was built by this specific CI job, from this specific commit" — so a consumer (or your own deploy step) can verify the artifact wasn't swapped somewhere between build and deployment. This directly addresses the SolarWinds pattern: a signed provenance attestation tied to the actual build job is much harder to forge than a code-signing certificate alone.
+
+**5. Automate dependency update review, but don't rubber-stamp it.** Dependabot and Renovate catch known CVEs quickly, which is valuable — but they don't catch a newly-introduced malicious package. Pair automated updates with a look at *who* publishes a new dependency version and *when* a maintainer handoff happened — the xz-utils backdoor was preceded by exactly that kind of handoff, visible in hindsight.
+
+**6. Limit blast radius of a compromised runner.** Self-hosted runners that persist state between jobs, or that share a network with production, turn a single compromised build into a much bigger problem. Ephemeral, isolated runners (spun up per job, destroyed after) limit what a compromised step can actually reach or leave behind.
+
+## The mental model shift
+
+Code review protects against bad code getting *written*. Supply-chain hardening protects against good code getting *replaced* somewhere between the repository and production. Both are necessary; most teams have invested heavily in the first and left the second almost entirely on defaults. The incidents above are what happens when that gap gets found.

@@ -1,26 +1,161 @@
 @import "tailwindcss";
+@plugin "@tailwindcss/typography";
 
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --background: #f7f9fb;
+  --surface: #ffffff;
+  --surface-muted: #eef2f6;
+  --border: #d9e1e8;
+  --foreground: #0b1016;
+  --muted: #51606e;
+  --accent: #0a7a53;
+  --accent-foreground: #ffffff;
+  --accent-soft: #e3f5ec;
+  --link: #0a7a53;
+  --code-bg: #0b1016;
+  --code-fg: #d9ffe8;
+  --severity-critical: #b3261e;
+  --severity-high: #c2410c;
+  --severity-medium: #a16207;
+  --severity-low: #0a7a53;
+}
+
+:root[data-theme="dark"] {
+  --background: #090c10;
+  --surface: #10151b;
+  --surface-muted: #151b22;
+  --border: #212b34;
+  --foreground: #e8eef3;
+  --muted: #8a9aa8;
+  --accent: #2ee6a6;
+  --accent-foreground: #061411;
+  --accent-soft: #0f2a22;
+  --link: #2ee6a6;
+  --code-bg: #060a0d;
+  --code-fg: #b6ffe0;
+  --severity-critical: #ff5a5f;
+  --severity-high: #ff9d4d;
+  --severity-medium: #ffd24d;
+  --severity-low: #2ee6a6;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --background: #090c10;
+    --surface: #10151b;
+    --surface-muted: #151b22;
+    --border: #212b34;
+    --foreground: #e8eef3;
+    --muted: #8a9aa8;
+    --accent: #2ee6a6;
+    --accent-foreground: #061411;
+    --accent-soft: #0f2a22;
+    --link: #2ee6a6;
+    --code-bg: #060a0d;
+    --code-fg: #b6ffe0;
+    --severity-critical: #ff5a5f;
+    --severity-high: #ff9d4d;
+    --severity-medium: #ffd24d;
+    --severity-low: #2ee6a6;
+  }
 }
 
 @theme inline {
   --color-background: var(--background);
+  --color-surface: var(--surface);
+  --color-surface-muted: var(--surface-muted);
+  --color-border: var(--border);
   --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+  --color-muted: var(--muted);
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-accent-soft: var(--accent-soft);
+  --font-sans: var(--font-inter);
+  --font-mono: var(--font-mono-stack);
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+@layer base {
+  * {
+    border-color: var(--border);
+  }
+
+  html {
+    color-scheme: light dark;
+    scroll-behavior: smooth;
+  }
+
+  body {
+    background: var(--background);
+    color: var(--foreground);
+    font-family: var(--font-inter), ui-sans-serif, system-ui, sans-serif;
+    transition: background-color 0.15s ease, color 0.15s ease;
+  }
+
+  ::selection {
+    background: var(--accent);
+    color: var(--accent-foreground);
+  }
+
+  a {
+    color: var(--link);
+  }
+
+  code, pre, kbd {
+    font-family: var(--font-mono-stack), ui-monospace, "SF Mono", Menlo, Consolas, monospace;
+  }
+
+  pre {
+    background: var(--code-bg) !important;
+    color: var(--code-fg);
+    border: 1px solid var(--border);
   }
 }
 
-body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+.prose {
+  --tw-prose-body: var(--foreground);
+  --tw-prose-headings: var(--foreground);
+  --tw-prose-links: var(--accent);
+  --tw-prose-bold: var(--foreground);
+  --tw-prose-counters: var(--muted);
+  --tw-prose-bullets: var(--muted);
+  --tw-prose-hr: var(--border);
+  --tw-prose-quotes: var(--foreground);
+  --tw-prose-quote-borders: var(--accent);
+  --tw-prose-captions: var(--muted);
+  --tw-prose-code: var(--foreground);
+  --tw-prose-pre-code: var(--code-fg);
+  --tw-prose-pre-bg: var(--code-bg);
+  --tw-prose-th-borders: var(--border);
+  --tw-prose-td-borders: var(--border);
+}
+
+.prose code::before,
+.prose code::after {
+  content: "";
+}
+
+.prose code {
+  background: var(--surface-muted);
+  padding: 0.15em 0.4em;
+  border-radius: 0.3em;
+  font-size: 0.875em;
+  border: 1px solid var(--border);
+}
+
+.prose pre code {
+  background: transparent;
+  border: none;
+  padding: 0;
+}
+
+.terminal-glow {
+  text-shadow: 0 0 18px color-mix(in srgb, var(--accent) 45%, transparent);
+}
+
+.grid-fade {
+  background-image:
+    linear-gradient(to bottom, transparent, var(--background) 85%),
+    linear-gradient(to right, color-mix(in srgb, var(--accent) 12%, transparent) 1px, transparent 1px),
+    linear-gradient(to bottom, color-mix(in srgb, var(--accent) 12%, transparent) 1px, transparent 1px);
+  background-size: 100% 100%, 40px 40px, 40px 40px;
 }

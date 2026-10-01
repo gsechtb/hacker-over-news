@@ -1,0 +1,59 @@
+---
+title: "A Practical Guide to Threat Modeling with STRIDE"
+description: "STRIDE turns 'think like an attacker' into a repeatable checklist. Here's how to run a threat modeling session that produces action items, not a binder."
+date: "2026-06-09"
+author: "Issam Afifi"
+tags: ["threat-modeling", "appsec"]
+---
+
+Threat modeling has a reputation problem: it sounds like a workshop that produces a diagram nobody looks at again. Done well, it's a one- to two-hour working session that produces a short, specific list of things to fix before you build, when fixing them is still cheap. STRIDE is the most widely used framework for structuring that session because it turns an open-ended question ("how could this be attacked?") into six concrete ones.
+
+## What STRIDE stands for
+
+| Letter | Threat category | The question to ask |
+|---|---|---|
+| **S** | Spoofing | Can someone pretend to be a user or system they're not? |
+| **T** | Tampering | Can someone modify data or code they shouldn't be able to? |
+| **R** | Repudiation | Can someone deny having done something, with no way to prove otherwise? |
+| **I** | Information Disclosure | Can someone see data they shouldn't? |
+| **D** | Denial of Service | Can someone make the system unavailable? |
+| **E** | Elevation of Privilege | Can someone gain more access than they were granted? |
+
+Each letter maps roughly to the security property it threatens: Spoofing breaks authentication, Tampering breaks integrity, Repudiation breaks non-repudiation/auditability, Information Disclosure breaks confidentiality, Denial of Service breaks availability, and Elevation of Privilege breaks authorization.
+
+## Running a session: the practical version
+
+**1. Draw the data flow, not the architecture diagram.** You need: external entities (users, third-party APIs), processes (your services), data stores (databases, caches, queues), and the trust boundaries between them — the lines where data crosses from one trust level to another (internet → your API, your API → database, your service → a third-party webhook). Most of the interesting threats live *on* those boundary lines, not inside a single box.
+
+**2. Walk every boundary-crossing arrow through all six letters.** This is mechanical by design — that's the point. Take the arrow from "user's browser" to "login API" and ask all six questions:
+
+- *Spoofing:* Could someone submit this request pretending to be a different user? (Session fixation, JWT with no signature verification.)
+- *Tampering:* Could someone modify the request in transit or modify a value the client controls but shouldn't? (Client-side role field, editable form field driving a privileged action.)
+- *Repudiation:* If this user does something malicious, do we have a log tying the action to them specifically? (Shared service accounts defeat this immediately.)
+- *Information Disclosure:* Does a failed login response leak whether the *username* exists? (User enumeration via timing or error-message differences.)
+- *Denial of Service:* Can this endpoint be hammered with requests cheaply, with no rate limit, to lock out legitimate users or exhaust a resource?
+- *Elevation of Privilege:* Could a successful login for a low-privilege user somehow grant access to admin-only routes due to a default role or missing check?
+
+Not every letter applies meaningfully to every arrow — that's fine. The goal is to force the question, not to manufacture a finding where there isn't one.
+
+**3. Score and triage, don't try to fix everything in the meeting.** A simple High/Medium/Low based on likelihood × impact is enough; you don't need a full DREAD scoring exercise to get value out of this. Write down the threat, the affected component, and a *specific* mitigating control — "add rate limiting to /login, tracked per-IP and per-account" is actionable; "improve authentication security" is not.
+
+**4. Assign owners and a deadline for Highs before the meeting ends.** A threat model that produces a list nobody owns is functionally identical to not having done one.
+
+## A worked mini-example
+
+Take a password-reset flow: user submits email → server generates a token → emails a reset link → user clicks it → sets new password.
+
+Running STRIDE on just the "server generates a token" step surfaces real findings fast:
+
+- **Spoofing:** Is the reset request itself authenticated to anything, or can anyone request a reset for any email address? (Usually fine — this is often intentionally open — but worth noting if the response differs for valid vs. invalid emails.)
+- **Tampering:** Is the token cryptographically random and single-use, or a predictable value (sequential ID, timestamp-derived)?
+- **Information Disclosure:** Does the "email sent" response differ depending on whether the account exists? That's a user-enumeration leak.
+- **Denial of Service:** Can an attacker trigger unlimited reset emails to flood a victim's inbox, or exhaust an email-sending quota?
+- **Elevation of Privilege:** Does the reset token, once used, properly invalidate *all* existing sessions for that account? If not, an attacker who already has a stolen session isn't logged out by the legitimate user "securing" their account.
+
+Five findings, fifteen minutes, from one step in one flow. That's the value of the framework — it's exhaustive by construction, so you stop relying on whoever in the room happens to think of the right attack.
+
+## When to run it
+
+The honest answer is "earlier than feels necessary" — during design, before the first line of implementation code, for anything handling authentication, payments, PII, or privileged actions. Re-running it is cheap relative to re-architecting after launch; a threat model is a design review, not a post-launch audit, even though it's useful as both.

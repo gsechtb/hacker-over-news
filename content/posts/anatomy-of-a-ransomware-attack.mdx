@@ -1,0 +1,59 @@
+---
+title: "Anatomy of a Ransomware Attack: From Initial Access to Extortion"
+description: "A stage-by-stage breakdown of how modern ransomware intrusions actually unfold, and the defensive control that matters most at each stage."
+date: "2026-04-22"
+author: "Issam Afifi"
+tags: ["ransomware", "incident-response", "network-security"]
+---
+
+Ransomware headlines usually start at the end: the encrypted files, the ransom note, the extortion site. The actual intrusion is a multi-week process with distinct, recognizable stages — and most of the defensible moments happen long before anything gets encrypted. This is a walkthrough of that timeline, written for defenders, not operators.
+
+## Stage 1: Initial access
+
+The entry point is rarely exotic. The consistent top three, year after year in incident response reporting, are:
+
+- **Phishing** — a malicious attachment or link, often leading to credential theft or a malware loader.
+- **Exploited internet-facing services** — unpatched VPN appliances, RDP exposed directly to the internet, or a vulnerable web application.
+- **Valid credentials**, bought from an initial access broker or harvested from a prior infostealer infection, used to log in like a legitimate user.
+
+That third one deserves attention because it's the hardest to catch with signature-based tools — there's no malware to detect, just a login that looks normal until it doesn't.
+
+**Defensive leverage here:** phishing-resistant MFA (see our [WebAuthn piece](/blog/phishing-resistant-mfa-webauthn)) removes the credential-replay path entirely. Patching internet-facing VPN and remote-access appliances on an accelerated timeline — these are consistently among the most exploited CVE categories — closes the second path. Geo- and risk-based conditional access catches a chunk of the third.
+
+## Stage 2: Foothold and discovery
+
+Once inside, the operator (increasingly, ransomware is run as an affiliate model — the "access" and the "encryption" are often different actors) establishes persistence and starts mapping the environment: Active Directory structure, backup locations, file shares, EDR presence.
+
+Living-off-the-land tools dominate this stage — `net`, `nltest`, PowerShell, legitimate remote-management software already present in the environment. This is deliberate: it blends into normal admin activity and evades tools tuned only to flag unfamiliar binaries.
+
+**Defensive leverage here:** this is where behavioral EDR earns its cost — not by recognizing a known-bad file hash, but by flagging the *sequence* (a user account suddenly running domain enumeration commands it has never run before). Logging PowerShell script block execution and command-line arguments, not just process names, is the single highest-value logging change most organizations can make for this stage.
+
+## Stage 3: Privilege escalation and lateral movement
+
+The operator pushes from a single compromised endpoint toward domain admin or equivalent. Credential dumping (LSASS memory, cached hashes), Kerberoasting, and exploitation of local misconfigurations are standard here. The goal is control over infrastructure that can reach everywhere at once — backup servers and domain controllers specifically.
+
+**Defensive leverage here:** tiered administration (admin accounts for workstations never reused for servers or domain controllers), LAPS for unique local admin passwords per machine, and credential guard to make LSASS dumping harder all directly raise the cost of this stage. Network segmentation that prevents a compromised workstation from directly reaching backup infrastructure is, in retrospect, the control most post-incident reports wish had been in place.
+
+## Stage 4: Data exfiltration
+
+Modern ransomware operations are "double extortion" by default: data is staged and exfiltrated *before* encryption, so the operator has leverage (a leak-site threat) even if the victim restores from backup and refuses to pay. Exfiltration typically moves through tools already allowed outbound — cloud storage sync clients, legitimate file-transfer utilities, or archiving tools staging large `.7z`/`.rar` bundles before upload.
+
+**Defensive leverage here:** DLP tuned for large outbound transfers to unfamiliar cloud storage endpoints, and egress filtering that doesn't just allow "HTTPS to anywhere," catch a meaningful fraction of this stage — if anyone is watching the alerts in real time. This is also, not coincidentally, the stage incident responders most wish had better logging after the fact.
+
+## Stage 5: Impact — encryption and extortion
+
+The final, loudest stage. Backups are targeted first and specifically — deleting shadow copies (`vssadmin delete shadows`), disabling backup agents, and encrypting backup repositories are now routine, because operators know backups are the primary way victims avoid paying. Encryption itself is often deployed via a domain controller using a scheduled task or group policy, so it fans out to hundreds of machines near-simultaneously.
+
+**Defensive leverage here:** immutable, offline, or air-gapped backups that the production domain cannot reach or delete are the single control most directly correlated with "we restored without paying" in post-incident interviews. Backup infrastructure deserves the same access controls as a crown-jewel system, not an afterthought.
+
+## The pattern across all five stages
+
+Nothing above is about a single silver-bullet product. It's a chain, and ransomware operators only need *one* weak link; defenders need resilience across all of them. The practical priority order, if you can only fix a few things this quarter:
+
+1. Phishing-resistant MFA on anything internet-facing or VPN-adjacent.
+2. Patch internet-facing remote access software on an accelerated cadence.
+3. Tiered admin accounts + unique local admin passwords (LAPS).
+4. Offline/immutable backups that a compromised domain cannot reach.
+5. PowerShell and command-line logging shipped somewhere an analyst can actually query it.
+
+None of these are glamorous. All five together are what separates "we had an incident and restored from backup by Tuesday" from the headlines.

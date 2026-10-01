@@ -1,0 +1,12 @@
+{
+  "generatedAt": null,
+  "items": [
+    {
+      "title": "Sample headline: this feed updates automatically",
+      "link": "https://github.com/",
+      "source": "Setup notice",
+      "pubDate": "2026-01-01T00:00:00.000Z",
+      "snippet": "This placeholder item ships with the repo so the News page isn't empty before the first run. Once the 'Update security news feed' GitHub Action runs (on push, on a schedule, or manually via workflow_dispatch), it will replace this file with live headlines pulled from Krebs on Security, The Hacker News, BleepingComputer, Dark Reading, SecurityWeek, and The Record. You can also run it locally with `npm run fetch-news`."
+    }
+  ]
+}
