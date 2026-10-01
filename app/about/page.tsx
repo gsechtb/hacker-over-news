@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import { SITE_NAME } from "@/lib/site";
+import { GITHUB_REPO_URL, SITE_NAME } from "@/lib/site";
 
 export const metadata: Metadata = {
   title: "About",
@@ -45,7 +45,7 @@ export default function AboutPage() {
         <p>
           Security writing ages fast and mistakes happen. If something here is inaccurate or
           out of date, please open an issue or pull request on the{" "}
-          <a href="https://github.com/">GitHub repository</a> this site is built from.
+          <a href={GITHUB_REPO_URL}>GitHub repository</a> this site is built from.
         </p>
       </div>
     </div>

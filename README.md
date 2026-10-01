@@ -1,4 +1,4 @@
-# Threat Horizon
+# Hacker Over News
 
 A cybersecurity blog and news site: statically generated with Next.js, MDX blog posts, client-side search, tag browsing, an RSS feed, and an auto-refreshing news feed aggregated from established security publications via a scheduled GitHub Action. Deploys to GitHub Pages for free, with no backend server required.
 
