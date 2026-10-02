@@ -1,6 +1,13 @@
 {
-  "generatedAt": "2026-10-01T22:42:37.002Z",
+  "generatedAt": "2026-10-02T05:39:51.531Z",
   "items": [
+    {
+      "title": "Fortinet warns of critical FortiMail flaw exploited in zero-day attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/fortinet-warns-of-critical-fortimail-flaw-exploited-in-zero-day-attacks/",
+      "source": "BleepingComputer",
+      "pubDate": "2026-10-01T22:42:49.000Z",
+      "snippet": "Fortinet is warning customers of a critical FortiMail vulnerability, tracked as CVE-2026-104286, that is being actively exploited in zero-day attacks to execute unauthorized code or commands on vulnerable devices. [...]"
+    },
     {
       "title": "Alleged KillSec Ransomware Mastermind a 16-Year-Old",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/killsec-ransomware-mastermind-16-year-old",
@@ -350,13 +357,6 @@
       "source": "BleepingComputer",
       "pubDate": "2026-09-30T14:01:11.000Z",
       "snippet": "Persistent AI coworkers may operate continuously with standing access, creating identity risks that existing security models were not designed to handle. Token Security explains why these agents need their own identities…"
-    },
-    {
-      "title": "Microsoft to block Entra ID script injection attacks starting October",
-      "link": "https://www.bleepingcomputer.com/news/security/microsoft-to-block-entra-id-script-injection-attacks-starting-october/",
-      "source": "BleepingComputer",
-      "pubDate": "2026-09-30T13:37:15.000Z",
-      "snippet": "Microsoft has reminded customers that the Entra ID authentication system will get better protection against external script injection attacks starting next month. [...]"
     },
     {
       "title": "South Africa Seeks Help After Cyberattack Targets Air Traffic Control",
