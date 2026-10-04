@@ -1,6 +1,27 @@
 {
-  "generatedAt": "2026-10-04T05:55:46.049Z",
+  "generatedAt": "2026-10-04T12:23:56.980Z",
   "items": [
+    {
+      "title": "Anthropic asks Claude users to share voice data for AI model training",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-asks-claude-users-to-share-voice-data-for-ai-model-training/",
+      "source": "BleepingComputer",
+      "pubDate": "2026-10-04T10:53:21.000Z",
+      "snippet": "Anthropic has started asking Claude users to voluntarily share their voice conversations to help train and improve its AI models. [...]"
+    },
+    {
+      "title": "ShinyHunters Suspect Rey Reportedly Detained in Jordan, Helping FBI Identify Group Members",
+      "link": "https://thehackernews.com/2026/10/shinyhunters-suspect-rey-reportedly.html",
+      "source": "The Hacker News",
+      "pubDate": "2026-10-04T07:22:05.000Z",
+      "snippet": "A suspected member of the ShinyHunters digital extortion group, who goes by the online alias \"Rey,\" has been allegedly detained by authorities in Jordan, Reuters reported, citing three people familiar with the matter. Re…"
+    },
+    {
+      "title": "China-Aligned TA419 Targets U.S. AI Policy Experts With Microsoft AitM Phishing",
+      "link": "https://thehackernews.com/2026/10/china-aligned-ta419-targets-us-ai.html",
+      "source": "The Hacker News",
+      "pubDate": "2026-10-04T07:20:32.000Z",
+      "snippet": "A new China-nexus cyber espionage group known as TA419 has been attributed to multiple credential phishing campaigns targeting artificial intelligence (AI) experts working for U.S. think tanks, universities, and legal se…"
+    },
     {
       "title": "Google Gemini could soon get full access to your Mac’s files, apps and the web",
       "link": "https://www.bleepingcomputer.com/news/google/google-gemini-could-soon-get-full-access-to-your-macs-files-apps-and-the-web/",
@@ -352,32 +373,11 @@
       "snippet": "An international law enforcement operation dubbed \"Operation KillSwitch\" seized the KillSec ransomware gang's data leak site and servers, led to three arrests, and identified a 16-year-old as the group's alleged administ…"
     },
     {
-      "title": "The Day-One Hole in Zero Trust Architecture",
-      "link": "https://www.bleepingcomputer.com/news/security/the-day-one-hole-in-zero-trust-architecture/",
-      "source": "BleepingComputer",
-      "pubDate": "2026-10-01T14:01:11.000Z",
-      "snippet": "Zero Trust can verify users once they are established, but onboarding creates a gap where organizations must decide who to trust before strong authentication exists. Specops explains why identity verification should begi…"
-    },
-    {
       "title": "Warlock Ransomware Hits Large Spanish, Portuguese Orgs",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/warlock-ransomware-spanish-portuguese",
       "source": "Dark Reading",
       "pubDate": "2026-10-01T13:00:00.000Z",
       "snippet": "A year-old Chinese threat actor looks like a cybercrime gang, acts like a state-associated APT, and attacks organizations in unexpected places."
-    },
-    {
-      "title": "How Financial Services Companies Can Modernize Their Software Supply Chain",
-      "link": "https://thehackernews.com/2026/10/how-financial-services-companies-can.html",
-      "source": "The Hacker News",
-      "pubDate": "2026-10-01T11:45:00.000Z",
-      "snippet": "Every security leader at a bank, insurer, or asset manager has had a version of this conversation: Security wants to eliminate a class of vulnerabilities. Engineering explains what it would take to upgrade the platform w…"
-    },
-    {
-      "title": "OpenAI Disrupts Reasoning Extraction Campaign Linked to Moonshot AI Associates",
-      "link": "https://thehackernews.com/2026/10/openai-disrupts-reasoning-extraction.html",
-      "source": "The Hacker News",
-      "pubDate": "2026-10-01T10:42:36.000Z",
-      "snippet": "OpenAI on Wednesday said it identified and disrupted a coordinated distillation campaign that was designed to illicitly extract protected reasoning from its artificial intelligence (AI) models. A \"core cluster of the act…"
     },
     {
       "title": "Malicious Custom GPTs Turn ChatGPT Into RAT Delivery Lure",
