@@ -1,6 +1,13 @@
 {
-  "generatedAt": "2026-10-03T21:17:46.762Z",
+  "generatedAt": "2026-10-04T05:55:46.049Z",
   "items": [
+    {
+      "title": "Google Gemini could soon get full access to your Mac’s files, apps and the web",
+      "link": "https://www.bleepingcomputer.com/news/google/google-gemini-could-soon-get-full-access-to-your-macs-files-apps-and-the-web/",
+      "source": "BleepingComputer",
+      "pubDate": "2026-10-03T23:12:34.000Z",
+      "snippet": "Google's Gemini could soon access any file on your macOS device, open apps, browse the web, and perform actions without asking for permission every time. [...]"
+    },
     {
       "title": "ShinyHunters hacker reportedly detained in Jordan, aiding FBI",
       "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-hacker-reportedly-detained-in-jordan-aiding-fbi/",
@@ -350,13 +357,6 @@
       "source": "BleepingComputer",
       "pubDate": "2026-10-01T14:01:11.000Z",
       "snippet": "Zero Trust can verify users once they are established, but onboarding creates a gap where organizations must decide who to trust before strong authentication exists. Specops explains why identity verification should begi…"
-    },
-    {
-      "title": "Kiteworks patches max severity code injection vulnerability",
-      "link": "https://www.bleepingcomputer.com/news/security/kiteworks-patches-max-severity-email-protection-gateway-code-injection-vulnerability/",
-      "source": "BleepingComputer",
-      "pubDate": "2026-10-01T13:51:08.000Z",
-      "snippet": "Secure file-sharing software company Kiteworks has released security updates to address 126 vulnerabilities, including a max-severity flaw affecting its Email Protection Gateway (EPG) security solution. [...]"
     },
     {
       "title": "Warlock Ransomware Hits Large Spanish, Portuguese Orgs",
