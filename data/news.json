@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-10-04T21:27:26.166Z",
+  "generatedAt": "2026-10-05T05:43:37.080Z",
   "items": [
+    {
+      "title": "Exploitation of Citrix NetScaler Zero-Day Hits Appliances Patched Days Earlier",
+      "link": "https://www.securityweek.com/exploitation-of-citrix-netscaler-zero-day-hits-appliances-patched-days-earlier/",
+      "source": "SecurityWeek",
+      "pubDate": "2026-10-05T05:14:48.000Z",
+      "snippet": "Citrix has confirmed that a new zero-day vulnerability, CVE-2026-88779, emerged just days after two other exploited flaws were patched. The post Exploitation of Citrix NetScaler Zero-Day Hits Appliances Patched Days Earl…"
+    },
+    {
+      "title": "Citrix patches NetScaler SAML zero-day exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/citrix-patches-netscaler-saml-zero-day-exploited-in-attacks/",
+      "source": "BleepingComputer",
+      "pubDate": "2026-10-04T21:58:01.000Z",
+      "snippet": "Citrix has released emergency updates for a new NetScaler denial-of-service vulnerability tracked as CVE-2026-88779 that has been exploited in zero-day attacks, with researchers investigating whether it can also be explo…"
+    },
     {
       "title": "Trump Names National Intelligence Director Jay Clayton to Lead a New Federal AI Task Force",
       "link": "https://www.securityweek.com/trump-names-national-intelligence-director-jay-clayton-to-lead-a-new-federal-ai-task-force/",
@@ -289,13 +303,6 @@
       "snippet": "The attacks targeted the US Department of Education and Library and Archives Canada, and researchers linked some agents to OpenAI. The post AI Agents Aimed SQL Injection at US and Canadian Government Sites appeared first…"
     },
     {
-      "title": "Exploited Fortinet FortiMail Zero-Day Calls for Urgent Action",
-      "link": "https://www.securityweek.com/exploited-fortinet-fortimail-zero-day-calls-for-urgent-action/",
-      "source": "SecurityWeek",
-      "pubDate": "2026-10-02T08:07:33.000Z",
-      "snippet": "CVE-2026-104286 is a critical-severity path traversal vulnerability that could allow attackers to write arbitrary files to the system. The post Exploited Fortinet FortiMail Zero-Day Calls for Urgent Action appeared first…"
-    },
-    {
       "title": "Android 17 Advanced Protection Locks Accessibility Services to Verified Accessibility Tools",
       "link": "https://thehackernews.com/2026/10/android-17-advanced-protection-locks.html",
       "source": "The Hacker News",
@@ -364,13 +371,6 @@
       "source": "The Hacker News",
       "pubDate": "2026-10-01T14:37:35.000Z",
       "snippet": "Cybersecurity researchers have shed light on a WordPress compromise in which threat actors deployed multiple persistence mechanisms to ensure that the final payload kept returning without having to infect the site again.…"
-    },
-    {
-      "title": "Police dismantle KillSec ransomware gang allegedly led by 16-year-old",
-      "link": "https://www.bleepingcomputer.com/news/security/police-dismantle-killsec-ransomware-gang-allegedly-led-by-16-year-old/",
-      "source": "BleepingComputer",
-      "pubDate": "2026-10-01T14:25:14.000Z",
-      "snippet": "An international law enforcement operation dubbed \"Operation KillSwitch\" seized the KillSec ransomware gang's data leak site and servers, led to three arrests, and identified a 16-year-old as the group's alleged administ…"
     },
     {
       "title": "Warlock Ransomware Hits Large Spanish, Portuguese Orgs",
