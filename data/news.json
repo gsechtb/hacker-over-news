@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-10-06T00:04:54.363Z",
+  "generatedAt": "2026-10-06T06:23:08.027Z",
   "items": [
+    {
+      "title": "Denmark Says Attackers Accessed CPR Data for 8.8 Million People via Company Account",
+      "link": "https://thehackernews.com/2026/10/denmark-says-attackers-accessed-cpr.html",
+      "source": "The Hacker News",
+      "pubDate": "2026-10-06T06:00:30.000Z",
+      "snippet": "Unauthorized parties have gained access to the names, addresses, and personal identification numbers of about 8.8 million people, living and dead, in Denmark's national population register, the country's digitalization m…"
+    },
+    {
+      "title": "ClickFix Smuggles Payloads Through Browser Cache to Bypass Windows Run Limits",
+      "link": "https://thehackernews.com/2026/10/clickfix-smuggles-payloads-through.html",
+      "source": "The Hacker News",
+      "pubDate": "2026-10-06T05:22:55.000Z",
+      "snippet": "A new type of ClickFix attack is using compromised websites to trick users into executing a malicious payload cached in a web browser's cache. \"Instead of downloading and executing remote payloads like the typical attack…"
+    },
     {
       "title": "OpenAI is adding invisible watermarks to ChatGPT and Codex text in the EU",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-adding-invisible-watermarks-to-chatgpt-and-codex-text-in-the-eu/",
@@ -329,20 +343,6 @@
       "source": "The Hacker News",
       "pubDate": "2026-10-02T17:33:31.000Z",
       "snippet": "A critical flaw in GitLab's AI Gateway could let a logged-in user with Duo Agent Platform access run commands on the gateway under certain conditions, GitLab&nbsp;said in an advisory. The gateway is the service that conn…"
-    },
-    {
-      "title": "Antino Backdoor Uses Outlook and OneDrive for C2 in China-Nexus Espionage Campaign",
-      "link": "https://thehackernews.com/2026/10/antino-backdoor-uses-outlook-and.html",
-      "source": "The Hacker News",
-      "pubDate": "2026-10-02T17:33:16.000Z",
-      "snippet": "Government and policy organizations across Asia have become the target of a new campaign orchestrated by a China-nexus threat actor. The activity, which has targeted government and policy organizations in Taiwan, India,…"
-    },
-    {
-      "title": "Dell CSM Flaws Enable Unauthenticated Admin Access and Root on Kubernetes Nodes",
-      "link": "https://thehackernews.com/2026/10/dell-csm-flaws-enable-unauthenticated.html",
-      "source": "The Hacker News",
-      "pubDate": "2026-10-02T17:02:12.000Z",
-      "snippet": "Dell has released security updates to address multiple critical security flaws in Dell Container Storage Modules (CSM) that could be exploited by bad actors to take over susceptible systems. The vulnerabilities are liste…"
     },
     {
       "title": "Kiteworks &amp; Citrix Incidents Show Challenges of Zero-Day Response",
