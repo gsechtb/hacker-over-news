@@ -1,6 +1,139 @@
 {
-  "generatedAt": "2026-10-07T06:02:22.300Z",
+  "generatedAt": "2026-10-07T13:26:50.480Z",
   "items": [
+    {
+      "title": "Hadrian Raises $40 Million to Expand Autonomous Offensive Security Platform",
+      "link": "https://www.securityweek.com/hadrian-raises-40-million-to-expand-autonomous-offensive-security-platform/",
+      "source": "SecurityWeek",
+      "pubDate": "2026-10-07T13:06:10.000Z",
+      "snippet": "Hadrian offers an agentic offensive security platform that allows defenders to operate at the same speed as attackers. The post Hadrian Raises $40 Million to Expand Autonomous Offensive Security Platform appeared first o…"
+    },
+    {
+      "title": "FBI, Secret Service add to warnings of FortiBleed credential stealing campaign",
+      "link": "https://therecord.media/fortibleed-warning-fbi-secret-service",
+      "source": "The Record",
+      "pubDate": "2026-10-07T12:50:00.000Z",
+      "snippet": "Users of two types of Fortinet hardware should take steps to limit their exposure to a now-global credential stealing campaign, U.S. federal law enforcement says."
+    },
+    {
+      "title": "Hackers exploit critical Atlassian flaw after public PoC release",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-atlassian-flaw-after-public-poc-release/",
+      "source": "BleepingComputer",
+      "pubDate": "2026-10-07T12:49:01.000Z",
+      "snippet": "A critical vulnerability (CVE-2026-21589) affecting multiple Atlassian product families, including Jira, Confluence, and Bitbucket, is being exploited in attacks that do not require authentication. [...]"
+    },
+    {
+      "title": "Advantest Discloses Data Breach Months After Ransomware Attack",
+      "link": "https://www.securityweek.com/advantest-discloses-data-breach-months-after-ransomware-attack/",
+      "source": "SecurityWeek",
+      "pubDate": "2026-10-07T12:37:24.000Z",
+      "snippet": "The Japanese chip testing giant said hackers stole personal information from its servers in the February 2026 cyberattack. The post Advantest Discloses Data Breach Months After Ransomware Attack appeared first on Securit…"
+    },
+    {
+      "title": "The Sixth Voice of the CISO Data Shows Cyber Risk Has Moved Inside the Workflow",
+      "link": "https://thehackernews.com/2026/10/the-sixth-voice-of-ciso-data-shows.html",
+      "source": "The Hacker News",
+      "pubDate": "2026-10-07T11:57:05.000Z",
+      "snippet": "The 2026 findings are not just a year-over-year shift. They mark the latest point in a five-year arc where resilience, AI governance, human risk, and board scrutiny are converging inside the systems where work actually h…"
+    },
+    {
+      "title": "FBI Warns FortiBleed Remains Active After Amassing 86,644 Fortinet Device Credentials",
+      "link": "https://thehackernews.com/2026/10/fbi-warns-fortibleed-remains-active.html",
+      "source": "The Hacker News",
+      "pubDate": "2026-10-07T11:56:56.000Z",
+      "snippet": "The U.S. Federal Bureau of Investigation (FBI) and Secret Service (USSS) on Tuesday warned that the FortiBleed credential harvesting campaign remains an active threat aimed at internet-facing Fortinet FortiGate firewalls…"
+    },
+    {
+      "title": "Atlassian Data Center Flaw Draws Exploitation Attempts Within Two Hours of Public Details",
+      "link": "https://thehackernews.com/2026/10/atlassian-data-center-flaw-draws.html",
+      "source": "The Hacker News",
+      "pubDate": "2026-10-07T11:49:26.000Z",
+      "snippet": "Threat actors have begun to exploit a newly disclosed critical security flaw impacting Atlassian Data Center products that could allow access to sensitive files under certain conditions. The arbitrary file access flaw, t…"
+    },
+    {
+      "title": "What Is Agentic Pentesting? What It Proves, and Where It Stops.",
+      "link": "https://thehackernews.com/2026/10/what-is-agentic-pentesting-what-it.html",
+      "source": "The Hacker News",
+      "pubDate": "2026-10-07T11:42:24.000Z",
+      "snippet": "If you’re evaluating an agentic pentesting solution right now, you’ve probably heard the same pitch more than once: point it at a target, and it discovers, validates, and exploits attack paths autonomously, the way a rea…"
+    },
+    {
+      "title": "SonicWall warns of max severity SSRF flaw in SMA1000 gateways",
+      "link": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-max-severity-ssrf-flaw-in-sma1000-gateways/",
+      "source": "BleepingComputer",
+      "pubDate": "2026-10-07T11:37:07.000Z",
+      "snippet": "SonicWall has released hotfixes to address a maximum-severity server-side request forgery (SSRF) flaw in SMA1000 series appliances. [...]"
+    },
+    {
+      "title": "Chrome 155 Update Patches 247 Vulnerabilities",
+      "link": "https://www.securityweek.com/chrome-155-update-patches-247-vulnerabilities/",
+      "source": "SecurityWeek",
+      "pubDate": "2026-10-07T10:51:57.000Z",
+      "snippet": "Four critical-severity use-after-free defects were fixed in Chromecast, Browser, Navigation, and Track. The post Chrome 155 Update Patches 247 Vulnerabilities appeared first on SecurityWeek ."
+    },
+    {
+      "title": "Musician sent to prison for $10 million streaming fraud using AI bots",
+      "link": "https://www.bleepingcomputer.com/news/security/musician-gets-18-months-in-prison-for-10-million-streaming-fraud-using-ai-bots/",
+      "source": "BleepingComputer",
+      "pubDate": "2026-10-07T10:35:15.000Z",
+      "snippet": "A North Carolina musician was sentenced to 18 months in prison for collecting more than $10 million in royalties from Spotify, Apple Music, Amazon Music, and YouTube Music in a massive streaming royalty fraud scheme. [..…"
+    },
+    {
+      "title": "Advantest confirms personal information stolen in ransomware attack",
+      "link": "https://www.bleepingcomputer.com/news/security/advantest-confirms-personal-information-stolen-in-ransomware-attack/",
+      "source": "BleepingComputer",
+      "pubDate": "2026-10-07T10:27:52.000Z",
+      "snippet": "Advantest Corporation is notifying affected individuals that a ransomware attack earlier this year exposed their personally identifiable data. [...]"
+    },
+    {
+      "title": "Anthropic Introduces 3-Tier Cyber Verification Program for AI Access",
+      "link": "https://www.securityweek.com/anthropic-introduces-3-tier-cyber-verification-program-for-ai-access/",
+      "source": "SecurityWeek",
+      "pubDate": "2026-10-07T10:07:09.000Z",
+      "snippet": "Anthropic is integrating the CVP and Project Glasswing into a single offering, with three levels of access to its most capable AI models. The post Anthropic Introduces 3-Tier Cyber Verification Program for AI Access appe…"
+    },
+    {
+      "title": "ASOS Confirms Cyberattack, Data Breach",
+      "link": "https://www.securityweek.com/asos-confirms-cyberattack-data-breach/",
+      "source": "SecurityWeek",
+      "pubDate": "2026-10-07T09:46:20.000Z",
+      "snippet": "Hackers compromised a third-party communication platform and sent rogue notifications to ASOS users. The post ASOS Confirms Cyberattack, Data Breach appeared first on SecurityWeek ."
+    },
+    {
+      "title": "Anthropic Expands Claude Access for Vetted Cyber Teams as Glasswing Finds 129,000 Flaws",
+      "link": "https://thehackernews.com/2026/10/anthropic-expands-claude-access-for.html",
+      "source": "The Hacker News",
+      "pubDate": "2026-10-07T08:07:38.000Z",
+      "snippet": "Anthropic on Tuesday said it's expanding a program that allows vetted cybersecurity professionals to test its advanced artificial intelligence (AI) models with reduced safeguards and blocking classifiers, as the company…"
+    },
+    {
+      "title": "Wikimedia Says Rogue OpenAI Agents Tried to Turn Its Tools Into Proxies",
+      "link": "https://www.securityweek.com/wikimedia-says-rogue-openai-agents-tried-to-turn-its-tools-into-proxies/",
+      "source": "SecurityWeek",
+      "pubDate": "2026-10-07T07:58:22.000Z",
+      "snippet": "Wikimedia looked into whether its own websites had seen activity like that disclosed by other organizations The post Wikimedia Says Rogue OpenAI Agents Tried to Turn Its Tools Into Proxies appeared first on SecurityWeek…"
+    },
+    {
+      "title": "100+ Compromised Websites Use Fake Cloudflare Checks to Deliver LunexStealer",
+      "link": "https://thehackernews.com/2026/10/100-compromised-websites-use-fake.html",
+      "source": "The Hacker News",
+      "pubDate": "2026-10-07T06:57:54.000Z",
+      "snippet": "The Computer Emergency Response Team of Ukraine (CERT-UA) has identified more than 100 compromised websites that have been injected with malicious JavaScript to serve an information-stealing malware called LunexStealer (…"
+    },
+    {
+      "title": "Android&#8217;s October 2026 Updates Patch 25 Vulnerabilities",
+      "link": "https://www.securityweek.com/androids-october-2026-updates-patch-25-vulnerabilities/",
+      "source": "SecurityWeek",
+      "pubDate": "2026-10-07T06:55:52.000Z",
+      "snippet": "The patches resolve a critical vulnerability in Android’s System component that could lead to privilege escalation. The post Android&#8217;s October 2026 Updates Patch 25 Vulnerabilities appeared first on SecurityWeek ."
+    },
+    {
+      "title": "Atlassian Patches Critical Vulnerability Affecting 8 Products",
+      "link": "https://www.securityweek.com/atlassian-patches-critical-vulnerability-affecting-8-products/",
+      "source": "SecurityWeek",
+      "pubDate": "2026-10-07T06:37:16.000Z",
+      "snippet": "Unauthenticated attackers could exploit the flaw to access specific files in the web application root directory. The post Atlassian Patches Critical Vulnerability Affecting 8 Products appeared first on SecurityWeek ."
+    },
     {
       "title": "Personal Information for Over 1 Million People Stolen in a Cyberattack on Arizona’s Court System",
       "link": "https://www.securityweek.com/personal-information-for-over-1-million-people-stolen-in-a-cyberattack-on-arizonas-court-system/",
@@ -135,25 +268,11 @@
       "snippet": "CERT-UA found fake Cloudflare verification pages that led visitors into a now-familiar ClickFix trap. This time the goal was to infect machines with an infostealer."
     },
     {
-      "title": "FBI Arrests &#8216;Most Wanted&#8217; Developer of Ploutus ATM Malware",
-      "link": "https://www.securityweek.com/fbi-arrests-most-wanted-developer-of-ploutus-atm-malware/",
-      "source": "SecurityWeek",
-      "pubDate": "2026-10-06T12:47:57.000Z",
-      "snippet": "An alleged leader of Tren de Aragua’s ATM jackpotting activities, Canelon Aguirre was on the FBI’s top 10 most wanted list since March 2026. The post FBI Arrests &#8216;Most Wanted&#8217; Developer of Ploutus ATM Malware…"
-    },
-    {
       "title": "LibreOffice and OpenOffice Flaws Let Malicious Spreadsheets Run Code Without Macro Warnings",
       "link": "https://thehackernews.com/2026/10/libreoffice-and-openoffice-flaws-let.html",
       "source": "The Hacker News",
       "pubDate": "2026-10-06T11:57:00.000Z",
       "snippet": "A malicious spreadsheet can make LibreOffice and Apache OpenOffice run an attacker's code as soon as the file is opened, security researchers have shown. There is no warning first, of the kind either program shows before…"
-    },
-    {
-      "title": "Apple to Tighten Full Disk Access Controls in macOS Amid AI Risks",
-      "link": "https://www.securityweek.com/apple-to-tighten-full-disk-access-controls-in-macos-amid-ai-risks/",
-      "source": "SecurityWeek",
-      "pubDate": "2026-10-06T11:48:59.000Z",
-      "snippet": "Citing growing risks posed by more capable and autonomous AI agents, Apple will introduce additional controls. The post Apple to Tighten Full Disk Access Controls in macOS Amid AI Risks appeared first on SecurityWeek ."
     },
     {
       "title": "Wikimedia: Rogue OpenAI agents behind unauthorized Wikipedia edits",
@@ -177,27 +296,6 @@
       "snippet": "In 2024, MCP (Model Context Protocol) set out to become the USB-C of AI: one standard for connecting models, agents, and IDEs to tools and data. The protocol delivered. Thousands of developers built servers, and enterpri…"
     },
     {
-      "title": "Cybersecurity M&#038;A Roundup: 39 Deals Announced in September 2026",
-      "link": "https://www.securityweek.com/cybersecurity-ma-roundup-39-deals-announced-in-september-2026/",
-      "source": "SecurityWeek",
-      "pubDate": "2026-10-06T11:01:35.000Z",
-      "snippet": "Significant cybersecurity M&#038;A deals announced by Dragos, IBM, Palo Alto Networks, Kiteworks, and Upwind. The post Cybersecurity M&#038;A Roundup: 39 Deals Announced in September 2026 appeared first on SecurityWeek ."
-    },
-    {
-      "title": "Long-Running NPM Malware Campaign Accumulates 40,000 Downloads",
-      "link": "https://www.securityweek.com/long-running-npm-malware-campaign-accumulates-40000-downloads/",
-      "source": "SecurityWeek",
-      "pubDate": "2026-10-06T10:34:25.000Z",
-      "snippet": "Since August 2023, attackers have published eight malicious packages as part of the MALFEX supply chain campaign. The post Long-Running NPM Malware Campaign Accumulates 40,000 Downloads appeared first on SecurityWeek ."
-    },
-    {
-      "title": "8.8 Million Impacted by Data Breach at Denmark’s Central Person Register",
-      "link": "https://www.securityweek.com/8-8-million-impacted-by-data-breach-at-denmarks-central-person-register/",
-      "source": "SecurityWeek",
-      "pubDate": "2026-10-06T09:38:30.000Z",
-      "snippet": "Hackers abused a company’s lawful access to the CPR system to steal the personal information of registered citizens. The post 8.8 Million Impacted by Data Breach at Denmark’s Central Person Register appeared first on Sec…"
-    },
-    {
       "title": "Nikkei discloses breaches of employees’ Microsoft, Google email accounts",
       "link": "https://www.bleepingcomputer.com/news/security/nikkei-discloses-breaches-of-employees-microsoft-google-email-accounts/",
       "source": "BleepingComputer",
@@ -210,13 +308,6 @@
       "source": "The Hacker News",
       "pubDate": "2026-10-06T09:21:47.000Z",
       "snippet": "Google has stopped accepting product vulnerability reports through its bug bounty program for its open-source software. The change, in effect since October 1, means researchers can no longer submit security flaws in the…"
-    },
-    {
-      "title": "Social Engineering Detection Moves Into the Live Conversation",
-      "link": "https://www.securityweek.com/social-engineering-detection-moves-into-the-live-conversation/",
-      "source": "SecurityWeek",
-      "pubDate": "2026-10-06T08:38:14.000Z",
-      "snippet": "Companies are pouring time and dollars into security awareness training, but little evidence shows it actually works against social engineering. The post Social Engineering Detection Moves Into the Live Conversation appe…"
     },
     {
       "title": "Engineer sentenced for locking over 3,000 devices on employer network",
@@ -247,20 +338,6 @@
       "snippet": "Unauthorized parties have gained access to the names, addresses, and personal identification numbers of about 8.8 million people, living and dead, in Denmark's national population register, the country's digitalization m…"
     },
     {
-      "title": "ClickFix Smuggles Payloads Through Browser Cache to Bypass Windows Run Limits",
-      "link": "https://thehackernews.com/2026/10/clickfix-smuggles-payloads-through.html",
-      "source": "The Hacker News",
-      "pubDate": "2026-10-06T05:22:55.000Z",
-      "snippet": "A new type of ClickFix attack is using compromised websites to trick users into executing a malicious payload cached in a web browser's cache. \"Instead of downloading and executing remote payloads like the typical attack…"
-    },
-    {
-      "title": "Shares in British clothing company ASOS dive after hackers apparently send push notification",
-      "link": "https://therecord.media/asos-push-notification-apparently-sent-by-hackers",
-      "source": "The Record",
-      "pubDate": "2026-10-06T04:00:00.000Z",
-      "snippet": "Several mysteries surround what appeared to be an unauthorized push notification sent to customers of London-based clothing company ASOS."
-    },
-    {
       "title": "OpenAI is adding invisible watermarks to ChatGPT and Codex text in the EU",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-adding-invisible-watermarks-to-chatgpt-and-codex-text-in-the-eu/",
       "source": "BleepingComputer",
@@ -282,20 +359,6 @@
       "snippet": "Hackers are actively scanning for a Rejetto HFS weak signing key vulnerability, tracked as CVE-2026-61500, that allows session forgery, account takeover, and remote code execution (RCE). [...]"
     },
     {
-      "title": "IQVIA fined $7.8 million for failing to properly anonymize health data",
-      "link": "https://www.bleepingcomputer.com/news/security/iqvia-fined-78-million-for-failing-to-properly-anonymize-health-data/",
-      "source": "BleepingComputer",
-      "pubDate": "2026-10-05T17:19:53.000Z",
-      "snippet": "Italy's Data Protection Authority (GPDP) has fined IQVIA €7 million ($7.8M) over poor data-processing practices that the agency says could have put roughly one million patients at risk of data exposure and de-anonymizati…"
-    },
-    {
-      "title": "Microsoft Exchange Flaw Lets Authenticated Attackers Read Other Users' Mailboxes",
-      "link": "https://thehackernews.com/2026/10/microsoft-exchange-flaw-lets.html",
-      "source": "The Hacker News",
-      "pubDate": "2026-10-05T16:21:52.000Z",
-      "snippet": "Microsoft has released out-of-band security updates to address a high-severity flaw in Microsoft Exchange Server that could allow an attacker to escalate privileges under certain conditions. The vulnerability, tracked as…"
-    },
-    {
       "title": "Chinese Hackers Impersonate US Officials for AI Cyber Espionage",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/chinese-actor-impersonates-us-officials-cyber-espionage",
       "source": "Dark Reading",
@@ -303,74 +366,11 @@
       "snippet": "An emerging threat group known as TA419 established seemingly legitimate professional relationships with AI policy experts working for US think tanks, universities, and legal organizations."
     },
     {
-      "title": "Denmark population registry data breach affects 8.8 million people",
-      "link": "https://www.bleepingcomputer.com/news/security/denmark-population-registry-data-breach-affects-88-million-people/",
-      "source": "BleepingComputer",
-      "pubDate": "2026-10-05T15:21:10.000Z",
-      "snippet": "Denmark's Central Population Register (CPR) is warning of a data breach that exposed the personal information of approximately 8.8 million registered individuals. [...]"
-    },
-    {
-      "title": "New Dell System Update flaw lets hackers gain root privileges",
-      "link": "https://www.bleepingcomputer.com/news/security/new-dell-system-update-flaw-lets-hackers-gain-root-privileges/",
-      "source": "BleepingComputer",
-      "pubDate": "2026-10-05T14:53:06.000Z",
-      "snippet": "Dell warned customers to patch a critical vulnerability in the System Update (DSU) command-line interface (CLI) deployment tool as soon as possible. [...]"
-    },
-    {
-      "title": "Google Narrows Open Source Bug Bounty Amid Wave of Invalid Automated Reports",
-      "link": "https://www.securityweek.com/google-narrows-open-source-bug-bounty-amid-wave-of-invalid-automated-reports/",
-      "source": "SecurityWeek",
-      "pubDate": "2026-10-05T14:26:00.000Z",
-      "snippet": "Google has temporarily stopped accepting product vulnerability reports through its Open Source Software Vulnerability Reward Program (OSS VRP). The post Google Narrows Open Source Bug Bounty Amid Wave of Invalid Automate…"
-    },
-    {
-      "title": "South Korea probes bank breaches amid suspected AI-powered attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/south-korea-probes-bank-breaches-amid-suspected-ai-powered-attacks/",
-      "source": "BleepingComputer",
-      "pubDate": "2026-10-05T14:22:12.000Z",
-      "snippet": "South Korea's Financial Services Commission (FSC) held an emergency meeting following a series of cyberattacks targeting financial institutions in the country. [...]"
-    },
-    {
-      "title": "⚡ Weekly Recap: NetScaler and FortiMail 0-Days, AI Coding Leaks, Spectre v2 and Ransomware Arrests",
-      "link": "https://thehackernews.com/2026/10/weekly-recap-netscaler-and-fortimail-0.html",
-      "source": "The Hacker News",
-      "pubDate": "2026-10-05T14:20:43.000Z",
-      "snippet": "A blank field. A public repo. One reply to an email. A box left exposed. None of this sounds dramatic, which is partly the problem. This week’s threats keep finding leverage in small things that were easy to overlook. Th…"
-    },
-    {
       "title": "Need for Speed: AI-Driven Attacks Are Changing Security Strategies",
       "link": "https://www.darkreading.com/cyber-risk/ai-attacks-security-strategies",
       "source": "Dark Reading",
       "pubDate": "2026-10-05T13:00:00.000Z",
       "snippet": "AI-powered attacks are fast, relentless, and automated. How security teams can keep up is top of mind, according to the latest Dark Reading reader poll."
-    },
-    {
-      "title": "Linux Backdoor Abuses STUN Protocol, Exploits Dozens of Flaws",
-      "link": "https://www.securityweek.com/linux-backdoor-abuses-stun-protocol-exploits-dozens-of-flaws/",
-      "source": "SecurityWeek",
-      "pubDate": "2026-10-05T13:00:00.000Z",
-      "snippet": "ClingSTUN operates as a back-connect proxy backdoor, sets up persistence, and contains exploits for self-propagation. The post Linux Backdoor Abuses STUN Protocol, Exploits Dozens of Flaws appeared first on SecurityWeek…"
-    },
-    {
-      "title": "The Credential Layer Is Expanding Faster Than Security Teams Can See It",
-      "link": "https://thehackernews.com/2026/10/the-credential-layer-is-expanding.html",
-      "source": "The Hacker News",
-      "pubDate": "2026-10-05T11:55:00.000Z",
-      "snippet": "Every modern enterprise depends on credentials. This is how humans, systems, and now AI, all connect to data, services, and each other securely. GitGuardian helps secure that credential layer through three connected capa…"
-    },
-    {
-      "title": "Realtek Jungle SDK Exploit Attempts Deliver Cling Botnet With STUN-Based C2",
-      "link": "https://thehackernews.com/2026/10/realtek-jungle-sdk-exploit-attempts.html",
-      "source": "The Hacker News",
-      "pubDate": "2026-10-05T11:46:25.000Z",
-      "snippet": "Threat actors have been observed attempting to exploit a now-patched critical security flaw impacting the Realtek Jungle software development kit (SDK) to deploy a botnet malware called Cling. \"Cling is notable not becau…"
-    },
-    {
-      "title": "Apple Plans Tighter macOS Full Disk Access Controls Over AI Agent Data Access",
-      "link": "https://thehackernews.com/2026/10/apple-plans-tighter-macos-full-disk.html",
-      "source": "The Hacker News",
-      "pubDate": "2026-10-05T10:38:50.000Z",
-      "snippet": "Apple has announced that it's taking steps to tighten controls around a macOS setting called Full Disk Access (FDA) due to security risks posed by artificial intelligence (AI) agents. \"Some developers are using Full Disk…"
     },
     {
       "title": "RemoteThreat Bets Security Teams Need to Test What Happens After Defenses Fail",
