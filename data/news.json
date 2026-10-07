@@ -1,6 +1,55 @@
 {
-  "generatedAt": "2026-10-06T18:23:46.927Z",
+  "generatedAt": "2026-10-07T06:02:22.300Z",
   "items": [
+    {
+      "title": "Personal Information for Over 1 Million People Stolen in a Cyberattack on Arizona’s Court System",
+      "link": "https://www.securityweek.com/personal-information-for-over-1-million-people-stolen-in-a-cyberattack-on-arizonas-court-system/",
+      "source": "SecurityWeek",
+      "pubDate": "2026-10-07T01:32:58.000Z",
+      "snippet": "The Arizona Supreme Court said the information was copied for people dating back as far as 30 years. The post Personal Information for Over 1 Million People Stolen in a Cyberattack on Arizona’s Court System appeared firs…"
+    },
+    {
+      "title": "Ninja Forms plugin flaw exploited to hack WordPress sites",
+      "link": "https://www.bleepingcomputer.com/news/security/ninja-forms-plugin-flaw-exploited-to-hack-wordpress-sites/",
+      "source": "BleepingComputer",
+      "pubDate": "2026-10-06T21:00:27.000Z",
+      "snippet": "Hackers are exploiting stored cross-site scripting (XSS) vulnerabilities in two unrelated WordPress plugins, Ninja Forms and WPC Product Bundles for WooCommerce, to install backdoors and create rogue admin accounts. [...…"
+    },
+    {
+      "title": "ClickFix Attacks Evolve to Better Hide Malicious Payloads",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/clickfix-attacks-evolve-better-hide-malicious-payloads",
+      "source": "Dark Reading",
+      "pubDate": "2026-10-06T20:32:58.000Z",
+      "snippet": "Threat actors are now hiding payloads by using DNS TXT records and browser cache pre-fetching, making it tougher to spot early attack stages."
+    },
+    {
+      "title": "Critical Healthcare Systems Aren't Quantum-Ready",
+      "link": "https://www.darkreading.com/iot/exposed-healthcare-systems-quantum-ready",
+      "source": "Dark Reading",
+      "pubDate": "2026-10-06T20:30:27.000Z",
+      "snippet": "A study of 2.5 million devices across 50 healthcare organization suggests the sector has a long way to go in getting ready for the post-quantum cryptography era."
+    },
+    {
+      "title": "Hackers exploit 32 zero-days on first day of Pwn2Own Ireland",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-32-zero-days-on-first-day-of-pwn2own-ireland/",
+      "source": "BleepingComputer",
+      "pubDate": "2026-10-06T19:21:53.000Z",
+      "snippet": "On the first day of the Pwn2Own Ireland 2026 competition, security researchers hacked the Samsung Galaxy S26 twice and earned $388,500 after exploiting 32 zero-days. [...]"
+    },
+    {
+      "title": "Fake ChatGPT, Gemini, and Claude Ad Portals Capture Credentials and MFA Codes",
+      "link": "https://thehackernews.com/2026/10/fake-chatgpt-gemini-and-claude-ad.html",
+      "source": "The Hacker News",
+      "pubDate": "2026-10-06T18:38:55.000Z",
+      "snippet": "Cybersecurity researchers have disclosed details of a \"human-operated phishing platform\" that impersonates advertising products for artificial intelligence (AI) chatbots like Google Gemini, Anthropic Claude, OpenAI ChatG…"
+    },
+    {
+      "title": "Linux Backdoors Impersonate Email Security Tools to Evade Detection in Korea and Taiwan",
+      "link": "https://thehackernews.com/2026/10/linux-backdoors-impersonate-email.html",
+      "source": "The Hacker News",
+      "pubDate": "2026-10-06T18:24:25.000Z",
+      "snippet": "Linux backdoors targeting telecom and network appliances in South Korea and Taiwan have been disguising their traffic as email services and seemingly legitimate processes to blend in and evade detection. Threat actors ar…"
+    },
     {
       "title": "Google's PageBreak AI Agent Finds 500 Flaws in Its Web Apps",
       "link": "https://www.darkreading.com/application-security/google-pagebreak-ai-agent-500-flaws-web-apps",
@@ -14,6 +63,13 @@
       "source": "BleepingComputer",
       "pubDate": "2026-10-06T17:34:59.000Z",
       "snippet": "Atlassian is warning customers of a critical vulnerability, tracked as CVE-2026-21589, that can be exploited for arbitrary file-access in multiple self-hosted Data Center products, including Confluence, Jira, and Bitbuck…"
+    },
+    {
+      "title": "IANS' Kakolowski: How AI Is Reshaping CISO Budgets &amp; Security Teams",
+      "link": "https://www.darkreading.com/cybersecurity-operations/ai-reshaping-ciso-budgets-security-teams",
+      "source": "Dark Reading",
+      "pubDate": "2026-10-06T17:15:24.000Z",
+      "snippet": "In this video interview, Nick Kakolowski, senior director for CISO research at IANS, talks AI: budgets, ROI, and changes inside security teams."
     },
     {
       "title": "'BigDiskBuster' Leaves Microsoft Defender Running While Blocking Updates",
@@ -282,20 +338,6 @@
       "snippet": "A blank field. A public repo. One reply to an email. A box left exposed. None of this sounds dramatic, which is partly the problem. This week’s threats keep finding leverage in small things that were easy to overlook. Th…"
     },
     {
-      "title": "tenfold CE: Our free Identity Governance tool just got 2 new features",
-      "link": "https://www.bleepingcomputer.com/news/security/tenfold-ce-our-free-identity-governance-tool-just-got-2-new-features/",
-      "source": "BleepingComputer",
-      "pubDate": "2026-10-05T13:33:42.000Z",
-      "snippet": "tenfold has added shared content governance and real-time event auditing to its free Community Edition for organizations with under 150 users. The new features help teams manage Microsoft 365 sharing and investigate susp…"
-    },
-    {
-      "title": "Alleged dev of Ploutus ATM malware appears in US court after arrest",
-      "link": "https://www.bleepingcomputer.com/news/security/suspected-dev-of-ploutus-atm-malware-appears-in-us-court-after-arrest/",
-      "source": "BleepingComputer",
-      "pubDate": "2026-10-05T13:01:45.000Z",
-      "snippet": "The U.S. Department of Justice has announced the arrest of the alleged developer of Ploutus malware, used to steal millions of dollars in ATM jackpotting attacks across the United States. [...]"
-    },
-    {
       "title": "Need for Speed: AI-Driven Attacks Are Changing Security Strategies",
       "link": "https://www.darkreading.com/cyber-risk/ai-attacks-security-strategies",
       "source": "Dark Reading",
@@ -308,13 +350,6 @@
       "source": "SecurityWeek",
       "pubDate": "2026-10-05T13:00:00.000Z",
       "snippet": "ClingSTUN operates as a back-connect proxy backdoor, sets up persistence, and contains exploits for self-propagation. The post Linux Backdoor Abuses STUN Protocol, Exploits Dozens of Flaws appeared first on SecurityWeek…"
-    },
-    {
-      "title": "250,000 Impacted by Data Breaches at New Jersey, Texas Healthcare Firms",
-      "link": "https://www.securityweek.com/250000-impacted-by-data-breaches-at-new-jersey-texas-healthcare-firms/",
-      "source": "SecurityWeek",
-      "pubDate": "2026-10-05T12:35:15.000Z",
-      "snippet": "Hackers stole patient information from Clover Health Investments and AngMar Management Services in July. The post 250,000 Impacted by Data Breaches at New Jersey, Texas Healthcare Firms appeared first on SecurityWeek ."
     },
     {
       "title": "The Credential Layer Is Expanding Faster Than Security Teams Can See It",
@@ -336,20 +371,6 @@
       "source": "The Hacker News",
       "pubDate": "2026-10-05T10:38:50.000Z",
       "snippet": "Apple has announced that it's taking steps to tighten controls around a macOS setting called Full Disk Access (FDA) due to security risks posed by artificial intelligence (AI) agents. \"Some developers are using Full Disk…"
-    },
-    {
-      "title": "Attackers Target Rejetto HFS Flaw That Enables Admin Session Forgery and RCE",
-      "link": "https://thehackernews.com/2026/10/attackers-target-rejetto-hfs-flaw-that.html",
-      "source": "The Hacker News",
-      "pubDate": "2026-10-05T08:09:23.000Z",
-      "snippet": "A critical security flaw impacting Rejetto HTTP File Server (HFS) is witnessing active exploitation attempts, according to VulnCheck. The vulnerability in question is CVE-2026-61500 (CVSS score: 9.3), a case of session f…"
-    },
-    {
-      "title": "New NetScaler Zero-Day Exploited in Targeted Attacks Can Knock SAML Deployments Offline",
-      "link": "https://thehackernews.com/2026/10/new-netscaler-zero-day-exploited-in.html",
-      "source": "The Hacker News",
-      "pubDate": "2026-10-05T06:40:19.000Z",
-      "snippet": "Citrix has released security updates for a high-severity security flaw in NetScaler ADC and NetScaler Gateway that has been exploited as part of targeted zero-day attacks. The vulnerability, tracked as CVE-2026-88779, ca…"
     },
     {
       "title": "RemoteThreat Bets Security Teams Need to Test What Happens After Defenses Fail",
@@ -399,27 +420,6 @@
       "source": "Dark Reading",
       "pubDate": "2026-10-02T13:00:00.000Z",
       "snippet": "A trio of newly discovered backdoors walk and quack like legitimate edge solutions, so it's hard to tell they're not."
-    },
-    {
-      "title": "Alleged KillSec Ransomware Mastermind a 16-Year-Old",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/killsec-ransomware-mastermind-16-year-old",
-      "source": "Dark Reading",
-      "pubDate": "2026-10-01T21:37:50.000Z",
-      "snippet": "Law enforcement from multiple countries collaborated to disrupt a cybercrime operation that has claimed some 500 victims worldwide in the past two years."
-    },
-    {
-      "title": "Warlock Ransomware Hits Large Spanish, Portuguese Orgs",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/warlock-ransomware-spanish-portuguese",
-      "source": "Dark Reading",
-      "pubDate": "2026-10-01T13:00:00.000Z",
-      "snippet": "A year-old Chinese threat actor looks like a cybercrime gang, acts like a state-associated APT, and attacks organizations in unexpected places."
-    },
-    {
-      "title": "Malicious Custom GPTs Turn ChatGPT Into RAT Delivery Lure",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/malicious-custom-gpts-chatgpt-rat-delivery-lure",
-      "source": "Dark Reading",
-      "pubDate": "2026-09-30T21:25:47.000Z",
-      "snippet": "In yet another ClickFix-style campaign, threat actors abuse legitimate domains from OpenAI and Google to fool unsuspecting users."
     }
   ]
 }
