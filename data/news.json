@@ -1,6 +1,27 @@
 {
-  "generatedAt": "2026-10-08T23:22:26.709Z",
+  "generatedAt": "2026-10-09T06:11:12.708Z",
   "items": [
+    {
+      "title": "Co-creator of Empire Market dark web marketplace given 40-year sentence",
+      "link": "https://therecord.media/co-creator-empire-dark-net-market-sentenced",
+      "source": "The Record",
+      "pubDate": "2026-10-10T00:55:00.000Z",
+      "snippet": "Raheim Hamilton, 30, pleaded guilty earlier this year to a drug conspiracy charge and agreed to forfeit more than $100 million worth of Bitcoin and several properties in Virginia."
+    },
+    {
+      "title": "Hackers get $1,262,000 for 98 zero-days at Pwn2Own Ireland",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-earn-1262000-for-98-zero-days-at-pwn2own-ireland/",
+      "source": "BleepingComputer",
+      "pubDate": "2026-10-09T05:41:04.000Z",
+      "snippet": "The Pwn2Own Ireland 2026 hacking contest has concluded, with hackers collecting $1,262,000 in rewards after exploiting 98 zero-day flaws. [...]"
+    },
+    {
+      "title": "Formula Predicts When AI Chatbots Are at Risk of Turning Bad",
+      "link": "https://www.securityweek.com/formula-predicts-when-ai-chatbots-are-at-risk-of-turning-bad/",
+      "source": "SecurityWeek",
+      "pubDate": "2026-10-09T04:12:38.000Z",
+      "snippet": "Researchers from George Washington University have published a paper examining whether the time and cause of AI going rogue can be predicted. The post Formula Predicts When AI Chatbots Are at Risk of Turning Bad appeared…"
+    },
     {
       "title": "FBI disrupts Chinese hacking tools used to breach critical infrastructure",
       "link": "https://www.bleepingcomputer.com/news/security/fbi-disrupts-chinese-hacking-tools-used-to-breach-critical-infrastructure/",
@@ -98,13 +119,6 @@
       "source": "The Hacker News",
       "pubDate": "2026-10-08T15:45:56.000Z",
       "snippet": "Attackers behind a string of personal data leaks at Japanese organizations have abused APIs for mobile apps and targeted known software flaws, the JPCERT Coordination Center (JPCERT/CC) said. The Tokyo-based center, whic…"
-    },
-    {
-      "title": "Crypto thief who splurged on gold grills sentenced in London",
-      "link": "https://therecord.media/cryptocurrency-sim-swap-london",
-      "source": "The Record",
-      "pubDate": "2026-10-08T15:45:00.000Z",
-      "snippet": "A 25-year-old man who helped steal nearly $260,000 in cryptocurrency through a SIM-swapping fraud scheme was sentenced to two and a half years in prison at a London court."
     },
     {
       "title": "Cisco Patches a Dozen Critical Vulnerabilities",
@@ -247,13 +261,6 @@
       "snippet": "The figure is far higher than the counts that surfaced in earlier filings and patient notifications. The post Oracle Health Data Breach Tally Climbs to Nearly 20 Million appeared first on SecurityWeek ."
     },
     {
-      "title": "FortiBleed Attackers Locking Victims Out of Fortinet Devices",
-      "link": "https://www.securityweek.com/fortibleed-attackers-locking-victims-out-of-fortinet-devices/",
-      "source": "SecurityWeek",
-      "pubDate": "2026-10-08T07:52:33.000Z",
-      "snippet": "Attackers are creating new accounts and deleting existing ones and passwords to prevent legitimate access. The post FortiBleed Attackers Locking Victims Out of Fortinet Devices appeared first on SecurityWeek ."
-    },
-    {
       "title": "U.S. Offers Up to $10 Million for Tips on Zhang Yu, Charged in HAFNIUM Hacks",
       "link": "https://thehackernews.com/2026/10/us-offers-up-to-10-million-for-tips-on.html",
       "source": "The Hacker News",
@@ -350,13 +357,6 @@
       "source": "The Hacker News",
       "pubDate": "2026-10-07T16:17:44.000Z",
       "snippet": "SonicWall has released hotfixes for four flaws in its SMA1000 appliances, the gateways that give remote workers access to a company's network and applications. The most serious could allow an attacker without a login to…"
-    },
-    {
-      "title": "Microsoft Outlook to block MSIX attachments starting November",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-outlook-to-block-msix-attachments-used-in-attacks/",
-      "source": "BleepingComputer",
-      "pubDate": "2026-10-07T15:44:22.000Z",
-      "snippet": "Microsoft announced that it will add .msix and .msixbundle attachments to the list of blocked attachments in Outlook Web and the new Outlook Windows client starting next month. [...]"
     },
     {
       "title": "Unpatched Critical LMCache Flaw Lets Unauthenticated Attackers Run Code Remotely",
