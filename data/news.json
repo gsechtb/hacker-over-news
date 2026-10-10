@@ -1,6 +1,13 @@
 {
-  "generatedAt": "2026-10-09T22:40:05.602Z",
+  "generatedAt": "2026-10-10T05:54:59.465Z",
   "items": [
+    {
+      "title": "FBI Arrests Founder of Ransomware Negotiation Firm",
+      "link": "https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/",
+      "source": "Krebs on Security",
+      "pubDate": "2026-10-10T00:17:42.000Z",
+      "snippet": "Agents with the Federal Bureau of Investigation (FBI) on Thursday arrested the co-founder of a Canadian cybersecurity firm in connection with an investigation into the ShinyHunters hacking group that recently relieved th…"
+    },
     {
       "title": "OpenAI Fires 3 Safety Researchers in Dispute Over AI Risks",
       "link": "https://www.securityweek.com/openai-fires-3-safety-researchers-in-dispute-over-ai-risks/",
@@ -413,13 +420,6 @@
       "source": "Krebs on Security",
       "pubDate": "2026-10-07T13:48:45.000Z",
       "snippet": "A teenager from Amman, Jordan suspected of leading the prolific data theft and extortion group ShinyHunters has been detained and is reportedly cooperating with the FBI to identify other members of the hacking gang. Kreb…"
-    },
-    {
-      "title": "ClickFix Attacks Evolve to Better Hide Malicious Payloads",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/clickfix-attacks-evolve-better-hide-malicious-payloads",
-      "source": "Dark Reading",
-      "pubDate": "2026-10-06T20:32:58.000Z",
-      "snippet": "Threat actors are now hiding payloads by using DNS TXT records and browser cache pre-fetching, making it tougher to spot early attack stages."
     }
   ]
 }
