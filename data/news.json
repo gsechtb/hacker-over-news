@@ -1,6 +1,13 @@
 {
-  "generatedAt": "2026-10-10T21:46:23.293Z",
+  "generatedAt": "2026-10-11T05:49:21.149Z",
   "items": [
+    {
+      "title": "P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and Remote Commands",
+      "link": "https://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html",
+      "source": "The Hacker News",
+      "pubDate": "2026-10-11T04:24:34.000Z",
+      "snippet": "Cybersecurity researchers have disclosed details of a previously unseen variant of the DarkSword iOS exploit kit called P7 DarkSword. \"Compared with the variants we usually observe, P7 reduces its on-device footprint, ad…"
+    },
     {
       "title": "Cyber exec arrested in case allegedly tied to ShinyHunters hackers",
       "link": "https://www.bleepingcomputer.com/news/security/cyber-exec-arrested-in-case-allegedly-tied-to-shinyhunters-hackers/",
@@ -86,6 +93,13 @@
       "snippet": "Cybersecurity researchers have disclosed details of an ongoing credential-theft campaign that has compromised two high-profile open-source maintainer accounts to push a malicious workflow into over 340 repositories. \"Usi…"
     },
     {
+      "title": "Japan confirms arrest of Russian Qilin operative, extradition to Germany",
+      "link": "https://therecord.media/japan-germany-ransomware-arrest",
+      "source": "The Record",
+      "pubDate": "2026-10-09T18:45:00.000Z",
+      "snippet": "Japan’s National Police Agency confirmed the arrest and extradition to Germany of a Russian national accused of being involved in the Qilin ransomware gang."
+    },
+    {
       "title": "FBI Arrests Another ShinyHunters Suspect Reportedly Involved in Its Jobs Portal Hack",
       "link": "https://thehackernews.com/2026/10/fbi-arrests-another-shinyhunters.html",
       "source": "The Hacker News",
@@ -114,13 +128,6 @@
       "snippet": "The FBI has arrested another suspected member of the ShinyHunters extortion group believed to be involved in the recent breach of FBI systems, Director Kash Patel announced Friday. [...]"
     },
     {
-      "title": "P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and Remote Commands",
-      "link": "https://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html",
-      "source": "The Hacker News",
-      "pubDate": "2026-10-09T16:29:55.000Z",
-      "snippet": "Cybersecurity researchers have disclosed details of a previously unseen variant of the DarkSword iOS exploit kit called P7 DarkSword. \"Compared with the variants we usually observe, P7 reduces its on-device footprint, ad…"
-    },
-    {
       "title": "Security Threats Don't Stop at the Office: Why Executives' Families Need Training, Too",
       "link": "https://www.darkreading.com/cyber-risk/security-threats-don-t-stop-at-the-office-why-executives-families-need-training-too",
       "source": "Dark Reading",
@@ -128,11 +135,39 @@
       "snippet": "Those closest to executives must match their security postures because the weakest link in a family can become the entry point for attacks."
     },
     {
+      "title": "Hundreds of thousands impacted by data breach at biosensor firm iRhythm",
+      "link": "https://therecord.media/irhythm-data-breach-reports",
+      "source": "The Record",
+      "pubDate": "2026-10-09T16:06:00.000Z",
+      "snippet": "A company known for wearable cardiac sensors, iRhythm, has begun notifying states of the impact of a data breach from the summer."
+    },
+    {
+      "title": "Leader of vast money mule operation that laundered cybercriminal proceeds pleads guilty",
+      "link": "https://therecord.media/leader-of-money-mule-operation-for-cybercriminals-pleads-guilty",
+      "source": "The Record",
+      "pubDate": "2026-10-09T16:06:00.000Z",
+      "snippet": "Oleg Korniev, a 42-year-old dual citizen of Ukraine and Russia, was a principal of Your Mule Cashout, or “YMCO,” which from 2007 until 2014 set up a sophisticated network of mules in the U.S. and Europe."
+    },
+    {
+      "title": "FBI touts another ShinyHunters arrest in response to data breach",
+      "link": "https://therecord.media/shinyhunters-arrest-fbi-data-breach-investigation",
+      "source": "The Record",
+      "pubDate": "2026-10-09T15:41:00.000Z",
+      "snippet": "“We will continue to work closely with our partners to disrupt what’s left of the ShinyHunters group and their associates, no matter where they operate,\" FBI Director Kash Patel said."
+    },
+    {
       "title": "Germany arrests alleged core Qilin ransomware member after extradition",
       "link": "https://www.bleepingcomputer.com/news/security/germany-arrests-alleged-core-qilin-ransomware-member-after-extradition/",
       "source": "BleepingComputer",
       "pubDate": "2026-10-09T15:38:56.000Z",
       "snippet": "Germany has arrested a Russian national suspected of being a leading member of the Qilin ransomware group following extradition from Japan earlier this month. [...]"
+    },
+    {
+      "title": "Belarusian hacktivists admit to 2023 breach of Russian state healthcare network",
+      "link": "https://therecord.media/belarusian-cyber-partisans-claim-2023-russia-healthcare-hack",
+      "source": "The Record",
+      "pubDate": "2026-10-09T14:40:00.000Z",
+      "snippet": "The Belarusian Cyber Partisans concurred with Russian research that they indeed spent months inside the network for the Moscow Department of Health."
     },
     {
       "title": "How to keep AI agents within their permissions",
@@ -385,41 +420,6 @@
       "source": "Krebs on Security",
       "pubDate": "2026-10-07T13:48:45.000Z",
       "snippet": "A teenager from Amman, Jordan suspected of leading the prolific data theft and extortion group ShinyHunters has been detained and is reportedly cooperating with the FBI to identify other members of the hacking gang. Kreb…"
-    },
-    {
-      "title": "ClickFix Attacks Evolve to Better Hide Malicious Payloads",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/clickfix-attacks-evolve-better-hide-malicious-payloads",
-      "source": "Dark Reading",
-      "pubDate": "2026-10-06T20:32:58.000Z",
-      "snippet": "Threat actors are now hiding payloads by using DNS TXT records and browser cache pre-fetching, making it tougher to spot early attack stages."
-    },
-    {
-      "title": "Critical Healthcare Systems Aren't Quantum-Ready",
-      "link": "https://www.darkreading.com/iot/exposed-healthcare-systems-quantum-ready",
-      "source": "Dark Reading",
-      "pubDate": "2026-10-06T20:30:27.000Z",
-      "snippet": "A study of 2.5 million devices across 50 healthcare organizations suggests the sector has a long way to go in getting ready for the post-quantum cryptography era."
-    },
-    {
-      "title": "Dutch Police Arrest &#8216;Reformed&#8217; Hacker in Shiny Hunters Investigation",
-      "link": "https://krebsonsecurity.com/2026/09/dutch-police-arrest-reformed-hacker-in-shiny-hunters-investigation/",
-      "source": "Krebs on Security",
-      "pubDate": "2026-09-28T15:08:57.000Z",
-      "snippet": "Authorities in the Netherlands have arrested a 23-year-old convicted cybercriminal on suspicion of aiding in data thefts and extortions by the prolific hacker group ShinyHunters. In the days immediately following the sus…"
-    },
-    {
-      "title": "U.S. Soldier Gets 70 Months in Prison for AT&#038;T, Verizon Extortions",
-      "link": "https://krebsonsecurity.com/2026/09/u-s-soldier-gets-70-months-in-prison-for-att-verizon-extortions/",
-      "source": "Krebs on Security",
-      "pubDate": "2026-09-25T21:44:40.000Z",
-      "snippet": "A U.S. Army soldier who pleaded guilty to hacking into multiple telecommunications companies and stealing mobile call and text metadata for more than 100 million AT&#038;T customers in 2024 was sentenced to 70 months in…"
-    },
-    {
-      "title": "Data Broker Radaris Loses Domains in Privacy Fight",
-      "link": "https://krebsonsecurity.com/2026/09/data-broker-radaris-loses-domains-in-privacy-fight/",
-      "source": "Krebs on Security",
-      "pubDate": "2026-09-16T18:14:22.000Z",
-      "snippet": "The consumer data broker Radaris.com has long had a reputation for ignoring requests to remove personal information from its vast empire of people-search services online. That reputation caught up with the company recent…"
     }
   ]
 }
