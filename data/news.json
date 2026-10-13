@@ -1,6 +1,202 @@
 {
-  "generatedAt": "2026-10-13T14:14:07.957Z",
+  "generatedAt": "2026-10-13T22:46:50.964Z",
   "items": [
+    {
+      "title": "OpenAI engineer arrested for allegedly planting spy device in office",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-engineer-arrested-for-allegedly-planting-spy-device-in-office/",
+      "source": "BleepingComputer",
+      "pubDate": "2026-10-13T22:33:02.000Z",
+      "snippet": "A Saudi OpenAI engineer has been arrested for allegedly planting a hidden recording device in an executive conference room at the company's San Francisco offices to secretly record sensitive conversations. [...]"
+    },
+    {
+      "title": "Zero-Days Lurk in Microsoft's Overgrown October Patch Tuesday",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/zero-days-microsoft-october-patch-tuesday",
+      "source": "Dark Reading",
+      "pubDate": "2026-10-13T22:29:57.000Z",
+      "snippet": "The scary surprises for the largest security update ever include security bypasses and unauthenticated RCEs."
+    },
+    {
+      "title": "Ghostscript flaw lets hackers hijack servers via PDF uploads",
+      "link": "https://www.bleepingcomputer.com/news/security/ghostscript-flaw-lets-hackers-hijack-servers-via-pdf-uploads/",
+      "source": "BleepingComputer",
+      "pubDate": "2026-10-13T21:33:26.000Z",
+      "snippet": "A critical heap buffer overflow vulnerability (CVE-2026-39919) in the Ghostscript interpreter and rendering engine could allow remote code execution through specially crafted PDF files. [...]"
+    },
+    {
+      "title": "North Korea Phishes Ukrainians for War Intel",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/north-korea-phishes-ukrainians-war-intel",
+      "source": "Dark Reading",
+      "pubDate": "2026-10-13T21:24:45.000Z",
+      "snippet": "The Democratic People's Republic of Korea (DPRK) is trying to get insight into its own war effort in Ukraine, through simple reply-baiting phishing attacks."
+    },
+    {
+      "title": "Anthropic warns self-replicating AI could spread to your smart devices",
+      "link": "https://www.bleepingcomputer.com/news/security/anthropic-warns-self-replicating-ai-could-spread-to-your-smart-devices/",
+      "source": "BleepingComputer",
+      "pubDate": "2026-10-13T21:16:34.000Z",
+      "snippet": "Anthropic is warning that small AI models could soon be able to self-replicate across consumer IoT devices, from Android TV boxes to smart ovens, creating distributed botnets capable of running AI workloads without relyi…"
+    },
+    {
+      "title": "Two arrested as DOJ takes down laptop farms responsible for $3 million in North Korean revenue",
+      "link": "https://therecord.media/north-korea-laptop-farms-worker-scams-doj-raids-texas",
+      "source": "The Record",
+      "pubDate": "2026-10-13T20:55:00.000Z",
+      "snippet": "More than 40 residences in Texas were the target of a federal operation in September to clamp down on remote worker scams that feed money back to the North Korean regime."
+    },
+    {
+      "title": "Anthropic Finds Ingredients for Future AI Worms",
+      "link": "https://www.darkreading.com/perimeter/anthropic-ingredients-future-ai-worms",
+      "source": "Dark Reading",
+      "pubDate": "2026-10-13T20:35:23.000Z",
+      "snippet": "Anthropic's latest study combined IoT and network tests to explore AI self-replication, which researchers said would be &quot;challenging&quot; to shut down."
+    },
+    {
+      "title": "FTC: Company netted at least $60 million charging sextortion victims for help it didn’t provide",
+      "link": "https://therecord.media/sextortion-assistance-company-alleged-fraud-ftc-complaint",
+      "source": "The Record",
+      "pubDate": "2026-10-13T20:12:00.000Z",
+      "snippet": "An Ohio-based company charged individuals thousands of dollars to fight sextortion scams, but the operation itself was fraudulent, according to a Federal Trade Commission complaint."
+    },
+    {
+      "title": "Microsoft October 2026 Patch Tuesday fixes 1,411 flaws, 3 zero-days",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-october-2026-patch-tuesday-fixes-1-411-flaws-3-zero-days/",
+      "source": "BleepingComputer",
+      "pubDate": "2026-10-13T19:56:09.000Z",
+      "snippet": "Today is Microsoft's October 2026 Patch Tuesday, with security updates addressing a record-breaking 1,411 flaws, including one actively exploited and two publicly disclosed zero-day vulnerabilities. [...]"
+    },
+    {
+      "title": "Microsoft releases Windows 10 KB5126657 extended security update",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5126657-extended-security-update/",
+      "source": "BleepingComputer",
+      "pubDate": "2026-10-13T19:47:30.000Z",
+      "snippet": "Microsoft released the Windows 10 KB5126657 extended security update, which includes this month's record-breaking October 2026 Patch Tuesday fixes and a few bug fixes and changes. [...]"
+    },
+    {
+      "title": "Microsoft: Windows 11 24H2 Home and Pro reached end of support",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-24h2-home-and-pro-reached-end-of-support/",
+      "source": "BleepingComputer",
+      "pubDate": "2026-10-13T19:04:38.000Z",
+      "snippet": "Microsoft announced today that devices running Windows 11 24H2 Home and Pro editions have reached the end of support and will no longer receive monthly security and non-security preview updates. [...]"
+    },
+    {
+      "title": "Ivanti Zero-Day Chain Gave Attackers Root Access to Fully Patched VPN",
+      "link": "https://www.securityweek.com/ivanti-zero-day-chain-gave-attackers-root-access-to-fully-patched-vpn/",
+      "source": "SecurityWeek",
+      "pubDate": "2026-10-13T18:43:43.000Z",
+      "snippet": "CVE-2026-104935 affects Ivanti Connect Secure and it can be exploited for unauthenticated remote code execution with elevated privileges. The post Ivanti Zero-Day Chain Gave Attackers Root Access to Fully Patched VPN app…"
+    },
+    {
+      "title": "Anthropic Warns Small AI Models Could Soon Form Self-Propagating IoT Botnets",
+      "link": "https://thehackernews.com/2026/10/anthropic-warns-small-ai-models-could.html",
+      "source": "The Hacker News",
+      "pubDate": "2026-10-13T18:20:57.000Z",
+      "snippet": "Small artificial intelligence (AI) models may be months away from developing capabilities to self-replicate on IoT devices like smart ovens and off-brand Android TV boxes, according to a warning from Anthropic. The front…"
+    },
+    {
+      "title": "UK Housing Ombudsman Service investigates 'security incident'",
+      "link": "https://www.bleepingcomputer.com/news/security/uk-housing-ombudsman-service-investigates-security-incident/",
+      "source": "BleepingComputer",
+      "pubDate": "2026-10-13T18:19:44.000Z",
+      "snippet": "The U.K. Housing Ombudsman Service is investigating a third-party IT security incident that impacted its case management system on Tuesday. [...]"
+    },
+    {
+      "title": "Docker Fixes Critical Two-Year-Old Hub Flaw That Let One User Push Images as Another",
+      "link": "https://thehackernews.com/2026/10/docker-fixes-critical-two-year-old-hub.html",
+      "source": "The Hacker News",
+      "pubDate": "2026-10-13T18:03:18.000Z",
+      "snippet": "A flaw in Docker Hub, the registry where container images are published and downloaded, let one user push, pull, or delete images as another user. Docker fixed the flaw on September 30 and says it found no evidence that…"
+    },
+    {
+      "title": "Windows 11 KB5127648 & KB5126653 cumulative updates released",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5127648-and-kb5126653-cumulative-updates-released/",
+      "source": "BleepingComputer",
+      "pubDate": "2026-10-13T17:49:38.000Z",
+      "snippet": "Microsoft has released the Patch Tuesday Windows 11 KB5127648 and KB5126653 cumulative updates for versions 26H2/25H2/24H2 and 23H2 to fix security vulnerabilities and bugs, and add new features. [...]"
+    },
+    {
+      "title": "Attacker Chains Three Ivanti Connect Secure Zero-Days for Root Access, Only Two Patched So Far",
+      "link": "https://thehackernews.com/2026/10/attacker-chains-three-ivanti-connect.html",
+      "source": "The Hacker News",
+      "pubDate": "2026-10-13T17:33:11.000Z",
+      "snippet": "An attacker chained three zero-day flaws in Ivanti Connect Secure, a VPN appliance, to run commands as root without logging in, security firm&nbsp;Volexity said&nbsp;on October 13. Ivanti has released fixes for two of th…"
+    },
+    {
+      "title": "SAP Discloses Critical CVSS 10 Flaw in Cloud SDK for Python Allowing OAuth2 Credential Theft",
+      "link": "https://thehackernews.com/2026/10/sap-discloses-critical-cvss-10-flaw-in.html",
+      "source": "The Hacker News",
+      "pubDate": "2026-10-13T17:28:50.000Z",
+      "snippet": "A flaw in SAP's&nbsp;Cloud SDK for Python&nbsp;can send an application's OAuth2 client credentials to a server an attacker controls, SAP said in a&nbsp;security advisory&nbsp;on October 13. The flaw affects multi-tenant…"
+    },
+    {
+      "title": "Adobe Patches 140 Vulnerabilities Across 10 Products",
+      "link": "https://www.securityweek.com/adobe-patches-140-vulnerabilities-across-10-products/",
+      "source": "SecurityWeek",
+      "pubDate": "2026-10-13T17:14:42.000Z",
+      "snippet": "The flaws affect products such as Commerce, Photoshop, ColdFusion, Substance 3D, Dimension, FrameMaker and Bridge. The post Adobe Patches 140 Vulnerabilities Across 10 Products appeared first on SecurityWeek ."
+    },
+    {
+      "title": "Google Partially Reverses Chrome Bug Bounty Cuts",
+      "link": "https://www.securityweek.com/google-partially-reverses-chrome-bug-bounty-cuts/",
+      "source": "SecurityWeek",
+      "pubDate": "2026-10-13T17:00:00.000Z",
+      "snippet": "Google is restructuring bug bounty rewards with a focus on complex memory safety vulnerabilities. The post Google Partially Reverses Chrome Bug Bounty Cuts appeared first on SecurityWeek ."
+    },
+    {
+      "title": "TFG London cyberattack disrupts systems at Hobbs and Whistles retailers",
+      "link": "https://www.bleepingcomputer.com/news/security/tfg-london-cyberattack-disrupts-systems-at-hobbs-and-whistles-retailers/",
+      "source": "BleepingComputer",
+      "pubDate": "2026-10-13T16:44:18.000Z",
+      "snippet": "TFG London detected a cybersecurity incident that impacted IT systems used by the Phase Eight, Hobbs, and Whistles premium fashion brands. [...]"
+    },
+    {
+      "title": "GitHub Tightens npm Publishing After Flaw Left 1,500+ Packages Vulnerable to Hijacking",
+      "link": "https://thehackernews.com/2026/10/github-tightens-npm-publishing-after.html",
+      "source": "The Hacker News",
+      "pubDate": "2026-10-13T16:18:18.000Z",
+      "snippet": "GitHub has taken the step of expiring unvalidated npm trusted publishing configurations 48 hours after creation after researchers found that it was possible for an attacker to push new versions of a different user's pack…"
+    },
+    {
+      "title": "Sandbox vulnerability gives rogue AI agents a path to escape and leak data, research says",
+      "link": "https://therecord.media/sandbox-vulnerability-gives-rogue-ai-agents-path-out",
+      "source": "The Record",
+      "pubDate": "2026-10-13T16:18:00.000Z",
+      "snippet": "The new research, published by AI security startup AIR, found that a network filtering flaw in Vercel Sandbox — a tool used to run code in isolated environments — could allow agents to exploit certificate validation proc…"
+    },
+    {
+      "title": "West African scam compounds raided, more than 100 suspected trafficking victims ‘rescued’",
+      "link": "https://therecord.media/ghana-nigeria-scam-centers-raided-uk-us",
+      "source": "The Record",
+      "pubDate": "2026-10-13T16:05:00.000Z",
+      "snippet": "More than two dozen people were arrested by police in Ghana and Nigeria as part of a U.K.-hosted operation that also included tech companies."
+    },
+    {
+      "title": "Meta Says Hackers Took Code, Personal Data of 1,500 in GitHub Breach",
+      "link": "https://www.securityweek.com/meta-says-hackers-took-code-personal-data-of-1500-in-github-breach/",
+      "source": "SecurityWeek",
+      "pubDate": "2026-10-13T16:01:00.000Z",
+      "snippet": "Most of the affected individuals are Meta employees in the United States and they are being offered credit monitoring services. The post Meta Says Hackers Took Code, Personal Data of 1,500 in GitHub Breach appeared first…"
+    },
+    {
+      "title": "Ivanti warns of Connect Secure zero-day exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/ivanti-warns-of-connect-secure-zero-day-exploited-in-attacks/",
+      "source": "BleepingComputer",
+      "pubDate": "2026-10-13T15:45:50.000Z",
+      "snippet": "Ivanti urged customers on Tuesday to immediately patch an actively exploited zero-day vulnerability in the Ivanti Connect Secure (ICS) remote access gateway. [...]"
+    },
+    {
+      "title": "Docker Hub flaw let attackers impersonate users, tamper with images",
+      "link": "https://www.bleepingcomputer.com/news/security/docker-hub-flaw-let-attackers-impersonate-users-tamper-with-images/",
+      "source": "BleepingComputer",
+      "pubDate": "2026-10-13T15:20:20.000Z",
+      "snippet": "Docker has disclosed a critical vulnerability (CVE-2026-105445) in Docker Hub that let attackers access another user's container repositories using a personal access token (PAT). [...]"
+    },
+    {
+      "title": "North Korean hackers target Ukrainian experts for possible intelligence on Russia's war",
+      "link": "https://therecord.media/north-korea-hackers-russia-ukraine",
+      "source": "The Record",
+      "pubDate": "2026-10-13T15:15:00.000Z",
+      "snippet": "North Korean hackers have been targeting Ukrainian experts in diplomacy, security and international policy amid Pyongyang’s growing military cooperation with Russia."
+    },
     {
       "title": "The MFA Gaps Attackers are Still Exploiting",
       "link": "https://www.bleepingcomputer.com/news/security/the-mfa-gaps-attackers-are-still-exploiting/",
@@ -16,32 +212,11 @@
       "snippet": "SAP has addressed 20 security flaws across multiple products in its October 2026 security updates, including a maximum-severity vulnerability in the Cloud SDK for Python. [...]"
     },
     {
-      "title": "Russian internet provider SkyNet reports outages after cyberattack claimed by Ukrainian hackers",
-      "link": "https://therecord.media/russian-internet-provider-skynet-reports-outages-ddos",
-      "source": "The Record",
-      "pubDate": "2026-10-13T13:20:00.000Z",
-      "snippet": "One of St. Petersburg's major internet providers said its network had been under a distributed denial-of-service (DDoS) attack since October 6, affecting services including online gaming, voice calls and video conferenci…"
-    },
-    {
-      "title": "Ledger says hardware implant in cryptocurrency wallets stole recovery phrases",
-      "link": "https://therecord.media/ledger-cryptocurrency-wallet-implant-theft",
-      "source": "The Record",
-      "pubDate": "2026-10-13T13:18:00.000Z",
-      "snippet": "Ledger cryptocurrency wallets sold through a Southeast Asian reseller had an implant allowing outsiders to drain funds, the company said."
-    },
-    {
-      "title": "South African clothing retailer Foschini Group investigating cyberattack on British fashion brands",
-      "link": "https://therecord.media/foschini-group-south-africa-cyber",
-      "source": "The Record",
-      "pubDate": "2026-10-13T13:00:00.000Z",
-      "snippet": "The South African retail giant The Foschini Group (TFG) disclosed a cyberattack that disrupted IT systems at three of its British fashion brands, leaving some services unavailable."
-    },
-    {
-      "title": "Cyber incident hits grocery stores in US, Netherlands and Belgium",
-      "link": "https://therecord.media/cyberattack-groceru-ahold-delhaize",
-      "source": "The Record",
-      "pubDate": "2026-10-13T12:00:00.000Z",
-      "snippet": "Ahold Delhaize, the Dutch multinational retailer, announced it was taking precautionary measures following a cybersecurity incident, with stores in the U.S., Netherlands and Belgium reportedly impacted."
+      "title": "Xandr Fined a Record €8.6 Million for Relaying Grindr Data Revealing Sexual Orientation",
+      "link": "https://thehackernews.com/2026/10/xandr-fined-record-86-million-for.html",
+      "source": "The Hacker News",
+      "pubDate": "2026-10-13T13:12:32.000Z",
+      "snippet": "The Norwegian Data Protection Authority (DPA) has fined Xandr, an advertising unit owned by Microsoft, €8.6 million ($9.62 million) for illegally relaying ​Grindr users' sensitive data to advertisers. The administrative…"
     },
     {
       "title": "Small AI Models Could Soon Self-Replicate on IoT Devices, Anthropic Warns",
@@ -163,32 +338,11 @@
       "snippet": "Russian cloud services provider Yandex announced that drone attacks damaged three of its data centers, forcing it to shut down two facilities and partially disable a third. [...]"
     },
     {
-      "title": "Anthropic takes risky AI tests offline after models breach govt sites",
-      "link": "https://www.bleepingcomputer.com/news/security/anthropic-takes-risky-ai-tests-offline-after-models-breach-govt-sites/",
-      "source": "BleepingComputer",
-      "pubDate": "2026-10-12T18:51:59.000Z",
-      "snippet": "Anthropic announced that its internal AI models undergoing \"high-risk and cybersecurity evaluations\" no longer have internet access following incidents involving U.S. government websites at the federal, state, and local…"
-    },
-    {
       "title": "No Identity, No Recovery: Cyber Resilience Starts With IAM",
       "link": "https://www.darkreading.com/cybersecurity-operations/cyber-resilience-starts-with-iam",
       "source": "Dark Reading",
       "pubDate": "2026-10-12T18:27:25.000Z",
       "snippet": "The proliferation of enterprise apps and the centrality of cloud identity providers requires an identity security rethink."
-    },
-    {
-      "title": "Ledger confirms spy chip implant behind wallet crypto thefts",
-      "link": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/",
-      "source": "BleepingComputer",
-      "pubDate": "2026-10-12T16:27:23.000Z",
-      "snippet": "Ledger has confirmed that some of its devices distributed through Southeast Asian reseller CryptoBilis were compromised with a hardware implant that drained users' cryptocurrency wallets. [...]"
-    },
-    {
-      "title": "Cyberattack shuts down refrigerators at French supermarkets",
-      "link": "https://www.bleepingcomputer.com/news/security/cyberattack-shuts-down-refrigerators-at-french-supermarkets/",
-      "source": "BleepingComputer",
-      "pubDate": "2026-10-12T15:23:34.000Z",
-      "snippet": "Attackers remotely defrosted refrigerators at multiple French supermarket chains overnight in a cyberattack that reportedly targeted Danfoss refrigeration controllers. [...]"
     },
     {
       "title": "⚡ Weekly Recap: Helpdesk 0-Days, Rogue Certs, ShinyHunters Arrest, AI-Fooling Malware and More",
@@ -198,41 +352,6 @@
       "snippet": "Some meetings last longer than it took attackers to jump on a newly disclosed security flaw this week. Within hours, they were already testing it. That's not much time to read the warning, let alone do something about it…"
     },
     {
-      "title": "IonQ to Acquire Zero Trust Firm Elisity for Up to $1.3 Billion",
-      "link": "https://www.securityweek.com/ionq-to-acquire-zero-trust-firm-elisity-for-up-to-1-3-billion/",
-      "source": "SecurityWeek",
-      "pubDate": "2026-10-12T14:25:00.000Z",
-      "snippet": "The all-stock deal brings Elisity’s least-privilege access technology into IonQ’s security portfolio. The post IonQ to Acquire Zero Trust Firm Elisity for Up to $1.3 Billion appeared first on SecurityWeek ."
-    },
-    {
-      "title": "Inside AvisLoader: A Windows Malware Loader Built to Resist Disruption",
-      "link": "https://www.bleepingcomputer.com/news/security/inside-avisloader-a-windows-malware-loader-built-to-resist-disruption/",
-      "source": "BleepingComputer",
-      "pubDate": "2026-10-12T14:00:10.000Z",
-      "snippet": "A new Windows malware loader called AvisLoader uses encrypted peer-to-peer communications to make command-and-control infrastructure harder to disrupt. Varonis researchers explain how the malware uses ClickFix delivery,…"
-    },
-    {
-      "title": "Retail giant Ahold Delhaize takes systems offline after cyberattack",
-      "link": "https://www.bleepingcomputer.com/news/security/retail-giant-ahold-delhaize-takes-systems-offline-after-cyberattack/",
-      "source": "BleepingComputer",
-      "pubDate": "2026-10-12T13:51:07.000Z",
-      "snippet": "Retail giant Ahold Delhaize, one of the world's largest food retail chains, confirmed today that it had to take some systems offline in response to a \"cybersecurity incident\" affecting its network. [...]"
-    },
-    {
-      "title": "Bricksforge WordPress Plugin Vulnerability Exploited in the Wild",
-      "link": "https://www.securityweek.com/bricksforge-wordpress-plugin-vulnerability-exploited-in-the-wild/",
-      "source": "SecurityWeek",
-      "pubDate": "2026-10-12T13:14:37.000Z",
-      "snippet": "The vulnerability tracked as CVE-2026-85097 can allow threat actors to take control of the targeted WordPress websites. The post Bricksforge WordPress Plugin Vulnerability Exploited in the Wild appeared first on Security…"
-    },
-    {
-      "title": "GitLab warns of max severity code execution vulnerability",
-      "link": "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-max-severity-rce-flaw-in-regex-compiler-engine/",
-      "source": "BleepingComputer",
-      "pubDate": "2026-10-12T13:09:09.000Z",
-      "snippet": "GitLab warned users today to immediately patch a maximum-severity vulnerability in the CI/CD Regular Expression Compiler that could let remote attackers run arbitrary code on targeted instances. [...]"
-    },
-    {
       "title": "Passing the Baton: Dark Reading Names New Editor-in-Chief",
       "link": "https://www.darkreading.com/cyber-risk/passing-baton-dark-reading-new-editor-in-chief",
       "source": "Dark Reading",
@@ -240,109 +359,11 @@
       "snippet": "Fahmida Y Rashid will keep the momentum going as she leads Dark Reading."
     },
     {
-      "title": "Ukraine strikes third Yandex data center, disrupting digital services across Russia",
-      "link": "https://therecord.media/ukraine-strikes-third-yandex-data-center",
-      "source": "The Record",
-      "pubDate": "2026-10-12T12:00:00.000Z",
-      "snippet": "A third Yandex data center in Russia was hit by Ukrainian drones over the weekend, forcing it to shut down and causing further disruptions to cloud services, payments, deliveries and other online services across the coun…"
-    },
-    {
-      "title": "Canonical Websites Disrupted in Second DDoS Attack This Year",
-      "link": "https://www.securityweek.com/canonical-websites-disrupted-in-second-ddos-attack-this-year/",
-      "source": "SecurityWeek",
-      "pubDate": "2026-10-12T11:58:39.000Z",
-      "snippet": "The outage hit the main Ubuntu and Canonical websites, including the Ubuntu blog and developer portal. The post Canonical Websites Disrupted in Second DDoS Attack This Year appeared first on SecurityWeek ."
-    },
-    {
-      "title": "Microsoft: Windows 11 23H2 reaches end of support in 30 days",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-23h2-reaches-end-of-support-in-30-days/",
-      "source": "BleepingComputer",
-      "pubDate": "2026-10-12T11:58:33.000Z",
-      "snippet": "Microsoft has reminded customers that systems running Windows 11 23H2 Enterprise, Education, and IoT Enterprise editions will stop receiving security updates next month. [...]"
-    },
-    {
       "title": "Bring Your Own Agent: Your Employees' Assistants Are Already Logged In",
       "link": "https://thehackernews.com/2026/10/bring-your-own-agent-your-employees.html",
       "source": "The Hacker News",
       "pubDate": "2026-10-12T11:55:00.000Z",
       "snippet": "The personal AI agents rollout is going about as smoothly as expected: Amazon now blocks Meta's Muse because it doesn't identify itself as a bot while browsing; Instinct keeps raising privacy concerns; and the horror sto…"
-    },
-    {
-      "title": "Mastermind of 15,000-Mule Cybercrime Laundering Network Pleads Guilty in US",
-      "link": "https://www.securityweek.com/mastermind-of-15000-mule-cybercrime-laundering-network-pleads-guilty-in-us/",
-      "source": "SecurityWeek",
-      "pubDate": "2026-10-12T11:24:50.000Z",
-      "snippet": "Oleg Korniev was a leader of YMCO, a sophisticated network of money mules that helped hackers move funds outside the US. The post Mastermind of 15,000-Mule Cybercrime Laundering Network Pleads Guilty in US appeared first…"
-    },
-    {
-      "title": "Ledger Finds Unauthorized Hardware Implant in CryptoBilis-Sold Wallet Amid Fund Theft Reports",
-      "link": "https://thehackernews.com/2026/10/ledger-finds-unauthorized-hardware.html",
-      "source": "The Hacker News",
-      "pubDate": "2026-10-12T11:21:48.000Z",
-      "snippet": "Cryptocurrency hardware maker Ledger has temporarily paused sales of its products via CryptoBilis following reports of stolen funds linked to devices sold by the reseller. On Friday, the company said it was investigating…"
-    },
-    {
-      "title": "Critical SonicWall SMA 1000 Flaw Targeted in 135 Exploitation Attempts After Patch",
-      "link": "https://thehackernews.com/2026/10/critical-sonicwall-sma-1000-flaw.html",
-      "source": "The Hacker News",
-      "pubDate": "2026-10-12T10:36:56.000Z",
-      "snippet": "Threat actors have been observed exploiting a recently disclosed critical security flaw in SonicWall Secure Mobile Access (SMA) 1000 appliances within days of public disclosure. The vulnerability, tracked as CVE-2026-102…"
-    },
-    {
-      "title": "Attackers Exploit CVSS 10.0 Bricksforge WordPress Flaw Enabling Unauthenticated RCE",
-      "link": "https://thehackernews.com/2026/10/attackers-exploit-cvss-100-bricksforge.html",
-      "source": "The Hacker News",
-      "pubDate": "2026-10-12T09:02:14.000Z",
-      "snippet": "A maximum-severity security flaw impacting the Bricksforge plugin for WordPress has come under active exploitation in the wild, according to Patchstack. The critical vulnerability in question is CVE-2026-85097 (CVSS scor…"
-    },
-    {
-      "title": "CyberXero Uses Claude Code in Campaign That Stole Over 628,000 Ukrainian Records",
-      "link": "https://thehackernews.com/2026/10/cyberxero-uses-claude-code-in-campaign.html",
-      "source": "The Hacker News",
-      "pubDate": "2026-10-12T07:26:12.000Z",
-      "snippet": "Cybersecurity researchers have disclosed details of a two-pronged artificial intelligence (AI)-augmented initial access campaign targeting WordPress sites, e-commerce platforms, and critical infrastructure entities in Uk…"
-    },
-    {
-      "title": "Nippon Columbia malware incident exposes 8.6 million karaoke fan records",
-      "link": "https://www.bleepingcomputer.com/news/security/nippon-columbia-malware-incident-exposes-86-million-karaoke-fan-records/",
-      "source": "BleepingComputer",
-      "pubDate": "2026-10-11T14:23:46.000Z",
-      "snippet": "Daiichi Kosho, a major Japanese entertainment system maker, disclosed that a malware infection at its contractor, Nippon Columbia, exposed more than 8.7 million customer and employee records. [...]"
-    },
-    {
-      "title": "P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and Remote Commands",
-      "link": "https://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html",
-      "source": "The Hacker News",
-      "pubDate": "2026-10-11T04:24:34.000Z",
-      "snippet": "Cybersecurity researchers have disclosed details of a previously unseen variant of the DarkSword iOS exploit kit called P7 DarkSword. \"Compared with the variants we usually observe, P7 reduces its on-device footprint, ad…"
-    },
-    {
-      "title": "Cyber exec arrested in case allegedly tied to ShinyHunters hackers",
-      "link": "https://www.bleepingcomputer.com/news/security/cyber-exec-arrested-in-case-allegedly-tied-to-shinyhunters-hackers/",
-      "source": "BleepingComputer",
-      "pubDate": "2026-10-10T15:07:54.000Z",
-      "snippet": "Canadian cybersecurity executive Edward Dubrovsky has been arrested in Pennsylvania in connection with alleged extortion activity that multiple reports have linked to the FBI's ongoing crackdown on the ShinyHunters hacki…"
-    },
-    {
-      "title": "ARTEX AI, Claude agents used in cyberattacks on South Korean banks",
-      "link": "https://www.bleepingcomputer.com/news/security/hacker-used-artex-ai-and-claude-agents-to-target-south-korean-banks/",
-      "source": "BleepingComputer",
-      "pubDate": "2026-10-10T14:16:17.000Z",
-      "snippet": "The cyberattacks that shook the South Korean financial sector earlier this month were launched by a Chinese hacker using the ARTEX AI penetration testing suite and Claude agents. [...]"
-    },
-    {
-      "title": "Criminal IP Introduces AITEM as the Next Evolution of Attack Surface Management",
-      "link": "https://www.bleepingcomputer.com/news/security/criminal-ip-introduces-aitem-as-the-next-evolution-of-attack-surface-management/",
-      "source": "BleepingComputer",
-      "pubDate": "2026-10-10T12:30:39.000Z",
-      "snippet": "Traditional attack surface management helps organizations discover exposed assets, but visibility alone is not enough to address threats. Criminal IP introduces AITEM, an AI-powered approach that connects exposure discov…"
-    },
-    {
-      "title": "The Third-Party Agent Problem: Why Security Built for AI You Chose Misses the Agents You Didn't",
-      "link": "https://thehackernews.com/2026/10/the-third-party-agent-problem-why.html",
-      "source": "The Hacker News",
-      "pubDate": "2026-10-10T11:00:00.000Z",
-      "snippet": "In environments studied for the 2026 State of Agent Security Report, roughly 1,280 third-party products now embed AI. About 282 of them sit behind single sign-on. The other thousand are invisible to identity infrastructu…"
     },
     {
       "title": "FBI Arrests Executive at Ransomware Negotiation Firm",
@@ -399,27 +420,6 @@
       "source": "Dark Reading",
       "pubDate": "2026-10-08T19:08:16.000Z",
       "snippet": "The first cybercriminal to ever make the FBI's &quot;10 Most Wanted Fugitives&quot; list allegedly infused Tren de Aragua's violent criminal operations with cash."
-    },
-    {
-      "title": "Russian Spies Give 'MatchBoil' Malware a Stealthy Facelift",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/russian-spies-matchboil-malware-facelift",
-      "source": "Dark Reading",
-      "pubDate": "2026-10-08T18:01:50.000Z",
-      "snippet": "Cyber-espionage actor UAC-0099 has been steadily refining its flagship dropper in campaigns targeting Ukrainian organizations."
-    },
-    {
-      "title": "Writing the Next Chapter",
-      "link": "https://www.darkreading.com/cybersecurity-operations/writing-next-chapter",
-      "source": "Dark Reading",
-      "pubDate": "2026-10-08T12:00:00.000Z",
-      "snippet": "Dark Reading is about to begin a new decade in its storied history, and we have some breaking news of our own to share."
-    },
-    {
-      "title": "Australian Gov't Weighs Mandatory AI Incident Reporting",
-      "link": "https://www.darkreading.com/cybersecurity-operations/australian-govt-ai-incident-reporting",
-      "source": "Dark Reading",
-      "pubDate": "2026-10-07T21:42:55.000Z",
-      "snippet": "In the wake of an agentic attack against its own Medicare systems, Australia's government is feeling out what regulations might look like for frontier AI companies."
     }
   ]
 }
