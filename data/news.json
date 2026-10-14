@@ -1,6 +1,27 @@
 {
-  "generatedAt": "2026-10-13T22:46:50.964Z",
+  "generatedAt": "2026-10-14T04:56:05.120Z",
   "items": [
+    {
+      "title": "OpenAI Employee Arrested for Allegedly Planting Hidden Recorder in Executive Conference Room",
+      "link": "https://thehackernews.com/2026/10/openai-employee-arrested-for-allegedly.html",
+      "source": "The Hacker News",
+      "pubDate": "2026-10-14T01:59:25.000Z",
+      "snippet": "A Saudi National and employee of OpenAI has been arrested for allegedly planting a hidden recording device in an executive conference room at the company's San Francisco offices to covertly record sensitive conversations…"
+    },
+    {
+      "title": "Microsoft Patches More Than 1,400 Security Flaws",
+      "link": "https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws/",
+      "source": "Krebs on Security",
+      "pubDate": "2026-10-13T23:24:53.000Z",
+      "snippet": "Microsoft today issued updates to fix more than 1,400 security vulnerabilities in its Windows operating systems and other software. Today's epic patch batch dwarfs September's record of nearly 1,000 fixes, which was alre…"
+    },
+    {
+      "title": "Employee Arrested After Listening Device Found in OpenAI Conference Room, FBI and the Company Say",
+      "link": "https://www.securityweek.com/employee-arrested-after-listening-device-found-in-openai-conference-room-fbi-and-the-company-say/",
+      "source": "SecurityWeek",
+      "pubDate": "2026-10-13T23:07:00.000Z",
+      "snippet": "Saudi national Abdulrahman Alfozan was arrested Friday and terminated by OpenAI. The post Employee Arrested After Listening Device Found in OpenAI Conference Room, FBI and the Company Say appeared first on SecurityWeek ."
+    },
     {
       "title": "OpenAI engineer arrested for allegedly planting spy device in office",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-engineer-arrested-for-allegedly-planting-spy-device-in-office/",
@@ -128,11 +149,11 @@
       "snippet": "A flaw in SAP's&nbsp;Cloud SDK for Python&nbsp;can send an application's OAuth2 client credentials to a server an attacker controls, SAP said in a&nbsp;security advisory&nbsp;on October 13. The flaw affects multi-tenant…"
     },
     {
-      "title": "Adobe Patches 140 Vulnerabilities Across 10 Products",
+      "title": "Adobe Patches 176 Vulnerabilities Across 11 Products",
       "link": "https://www.securityweek.com/adobe-patches-140-vulnerabilities-across-10-products/",
       "source": "SecurityWeek",
       "pubDate": "2026-10-13T17:14:42.000Z",
-      "snippet": "The flaws affect products such as Commerce, Photoshop, ColdFusion, Substance 3D, Dimension, FrameMaker and Bridge. The post Adobe Patches 140 Vulnerabilities Across 10 Products appeared first on SecurityWeek ."
+      "snippet": "The flaws affect products such as Commerce, Photoshop, ColdFusion, Substance 3D, Dimension, FrameMaker and Bridge. The post Adobe Patches 176 Vulnerabilities Across 11 Products appeared first on SecurityWeek ."
     },
     {
       "title": "Google Partially Reverses Chrome Bug Bounty Cuts",
@@ -296,13 +317,6 @@
       "snippet": "GitLab has released patches for a maximum-severity security flaw impacting its Community Edition (CE) and Enterprise Edition (EE) software that could result in arbitrary code execution. \"GitLab has remediated an issue th…"
     },
     {
-      "title": "Refrigeration Controller Hack Spoils Food Across European Supermarkets",
-      "link": "https://www.securityweek.com/refrigeration-controller-hack-spoils-food-across-european-supermarkets/",
-      "source": "SecurityWeek",
-      "pubDate": "2026-10-13T08:28:51.000Z",
-      "snippet": "A cyberattack targeted refrigeration controllers, setting refrigerators and freezers across hundreds of supermarkets to defrost. The post Refrigeration Controller Hack Spoils Food Across European Supermarkets appeared fi…"
-    },
-    {
       "title": "Low-Cost Android Phones Ship With Preinstalled Malware That Turns Them Into Residential Proxies",
       "link": "https://thehackernews.com/2026/10/low-cost-android-phones-ship-with.html",
       "source": "The Hacker News",
@@ -359,13 +373,6 @@
       "snippet": "Fahmida Y Rashid will keep the momentum going as she leads Dark Reading."
     },
     {
-      "title": "Bring Your Own Agent: Your Employees' Assistants Are Already Logged In",
-      "link": "https://thehackernews.com/2026/10/bring-your-own-agent-your-employees.html",
-      "source": "The Hacker News",
-      "pubDate": "2026-10-12T11:55:00.000Z",
-      "snippet": "The personal AI agents rollout is going about as smoothly as expected: Amazon now blocks Meta's Muse because it doesn't identify itself as a bot while browsing; Instinct keeps raising privacy concerns; and the horror sto…"
-    },
-    {
       "title": "FBI Arrests Executive at Ransomware Negotiation Firm",
       "link": "https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/",
       "source": "Krebs on Security",
@@ -413,13 +420,6 @@
       "source": "Dark Reading",
       "pubDate": "2026-10-08T20:39:44.000Z",
       "snippet": "A now-patched vulnerability in AWS Bedrock AgentCore could have allowed an attacker to use one AI chatbot to take over an organization's entire fleet."
-    },
-    {
-      "title": "Venezuelan Cartel's Malware Honcho Nabbed for ATM Jackpotting",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/venezuelan-cartel-malware-honcho-nabbed-atm-jackpotting",
-      "source": "Dark Reading",
-      "pubDate": "2026-10-08T19:08:16.000Z",
-      "snippet": "The first cybercriminal to ever make the FBI's &quot;10 Most Wanted Fugitives&quot; list allegedly infused Tren de Aragua's violent criminal operations with cash."
     }
   ]
 }
