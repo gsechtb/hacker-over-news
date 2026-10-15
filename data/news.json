@@ -1,6 +1,76 @@
 {
-  "generatedAt": "2026-10-15T17:03:07.953Z",
+  "generatedAt": "2026-10-15T21:24:31.358Z",
   "items": [
+    {
+      "title": "Federal bankruptcy courts dealing with outages after contractor cyberattack",
+      "link": "https://therecord.media/federal-bankruptcy-courts-dealing-with-cyberattack-outage",
+      "source": "The Record",
+      "pubDate": "2026-10-15T20:46:00.000Z",
+      "snippet": "The incident, which involved a government contractor, has halted all production of bankruptcy notices."
+    },
+    {
+      "title": "AI Slop Isn't Just for Social Media; It's Ruining Cyberattacks, Too",
+      "link": "https://www.darkreading.com/threat-intelligence/ai-slop-ruining-cyberattacks",
+      "source": "Dark Reading",
+      "pubDate": "2026-10-15T20:43:20.000Z",
+      "snippet": "Don't buy the hype! AI has been dumbing down cyberattacks, and serious threat actors are barely touching it."
+    },
+    {
+      "title": "Hackers exploit Collabora RCE flaw to backdoor Nextcloud servers",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-collabora-rce-flaw-to-backdoor-nextcloud-servers/",
+      "source": "BleepingComputer",
+      "pubDate": "2026-10-15T20:25:04.000Z",
+      "snippet": "Threat actors are exploiting a critical command execution flaw, now tracked as CVE-2026-110447, in the Collabora Online - Built-in CODE Server app (richdocumentscode) for Nextcloud. [...]"
+    },
+    {
+      "title": "Critical PwnEscape Linux Kernel Vulnerability Lets Guest VMs Read Host Memory",
+      "link": "https://thehackernews.com/2026/10/critical-pwnescape-linux-kernel.html",
+      "source": "The Hacker News",
+      "pubDate": "2026-10-15T20:24:36.000Z",
+      "snippet": "A newly disclosed critical flaw in the Linux kernel allows code inside a virtual machine to read memory on the host computer it runs on. A researcher demonstrated the leak against Vercel's live cloud sandboxes, and Verce…"
+    },
+    {
+      "title": "Android gets AI defenses against messaging scams, fake calls",
+      "link": "https://www.bleepingcomputer.com/news/security/android-gets-ai-defenses-against-messaging-scams-fake-calls/",
+      "source": "BleepingComputer",
+      "pubDate": "2026-10-15T19:48:43.000Z",
+      "snippet": "Google announced new AI-powered defenses against scam messages and call-forwarding abuse on Android, currently rolling out to eligible devices. [...]"
+    },
+    {
+      "title": "Zero-click spyware infecting devices through online ads, researchers say",
+      "link": "https://therecord.media/spyware-citizen-lab-advertising",
+      "source": "The Record",
+      "pubDate": "2026-10-15T19:00:00.000Z",
+      "snippet": "Powerful zero-click spyware is infected devices worldwide through targeted ads, new research shows — an alarming development in the spread of surveillance technology."
+    },
+    {
+      "title": "ThreatsDay: Adobe RCE, DNS Wallet Theft, NVIDIA Container Escape, Self-Healing Backdoor + 23 More",
+      "link": "https://thehackernews.com/2026/10/threatsday-adobe-rce-dns-wallet-theft.html",
+      "source": "The Hacker News",
+      "pubDate": "2026-10-15T18:49:33.000Z",
+      "snippet": "Someone built a tool to steal data, then decided it should scare the victim for fun. Yes, that’s an actual feature. And somehow, it fits right in with this week's security stories. The rest gets interesting in different…"
+    },
+    {
+      "title": "Hackers hijack D-Link, Ubiquiti devices to resell your stolen bandwidth",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-d-link-ubiquiti-devices-to-resell-your-stolen-bandwidth/",
+      "source": "BleepingComputer",
+      "pubDate": "2026-10-15T18:20:59.000Z",
+      "snippet": "A proxyjacking campaign has impacted devices in 34 countries, monetizing victims' internet connections through a commercial residential proxy network. [...]"
+    },
+    {
+      "title": "Context Is King in the Fight Against Modern Cyberattacks",
+      "link": "https://www.securityweek.com/context-is-king-in-the-fight-against-modern-cyberattacks/",
+      "source": "SecurityWeek",
+      "pubDate": "2026-10-15T17:42:50.000Z",
+      "snippet": "Contextual defense helps security teams connect the signals, anticipate what comes next, and stop threats before they escalate. The post Context Is King in the Fight Against Modern Cyberattacks appeared first on Security…"
+    },
+    {
+      "title": "Fake Arch Linux packages push malware with root privileges",
+      "link": "https://www.bleepingcomputer.com/news/security/fake-arch-linux-packages-push-malware-with-root-privileges/",
+      "source": "BleepingComputer",
+      "pubDate": "2026-10-15T17:12:31.000Z",
+      "snippet": "A threat actor uploaded malicious packages to the Arch User Repository (AUR) that impersonated two popular helper tools, yay and paru. [...]"
+    },
     {
       "title": "Watch Now: Zero Trust Strategies Summit &#8211; All Sessions Available on Demand",
       "link": "https://www.securityweek.com/virtual-event-today-zero-trust-strategies-summit-2/",
@@ -195,7 +265,7 @@
       "link": "https://www.darkreading.com/ics-ot-security/eu-grocers-unpatched-fridge-firmware",
       "source": "Dark Reading",
       "pubDate": "2026-10-15T07:00:00.000Z",
-      "snippet": "Hundreds of stores lost millions of dollars because they hired third parties to manage the outdated OT firmware running their cooling systems."
+      "snippet": "Hundreds of stores lost millions of euros because they hired third parties to manage the outdated OT firmware running their cooling systems."
     },
     {
       "title": "Palo Alto Networks Patches PAN-OS Zero-Day Exploited for Remote Code Execution",
@@ -240,25 +310,11 @@
       "snippet": "CVE-2026-104935, a high-severity authentication bypass + RCE vulnerability, was only partially discovered and patched in July, leaving an opening for threat actors to capitalize on."
     },
     {
-      "title": "North Macedonian police arrest alleged administrator behind OLVX cybercrime market",
-      "link": "https://therecord.media/olvx-cybercrime-marketplace-arrest-north-macedonia",
-      "source": "The Record",
-      "pubDate": "2026-10-14T21:10:00.000Z",
-      "snippet": "A raid on a home in a North Macedonian village led to the arrest of the suspected administrator of the OLVX market, according to the Balkan country's Interior Ministry along with the FBI."
-    },
-    {
       "title": "Yam Store: The Phishing Network Behind a Billion Messages",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/yam-store-phishing-network-behind-billion-messages",
       "source": "Dark Reading",
       "pubDate": "2026-10-14T20:57:16.000Z",
       "snippet": "A sprawling cybercrime marketplace supplied cloud infrastructure and phishing kits that helped fuel more than 1 billion phishing messages worldwide."
-    },
-    {
-      "title": "Brooklyn DA’s office disrupts crypto scam targeting Russian community",
-      "link": "https://therecord.media/brooklyn-da-server-takedowns-crypto-scam-russian-speakers",
-      "source": "The Record",
-      "pubDate": "2026-10-14T20:33:00.000Z",
-      "snippet": "Russian-speaking Brooklyn residents began tipping off local authorities to a cryptocurrency fraud scheme three years ago, leading to an operation to take down the associated servers and domains."
     },
     {
       "title": "Anthropic 'SneakPeek' Flaw Is a Silent Zero-Click Threat",
@@ -275,13 +331,6 @@
       "snippet": "The U.S. Department of Justice (DoJ) has disrupted the Famous Chollima threat group's operations by arresting two suspects, charging 14 individuals, and seizing nearly 187 laptops used in North Korean remote IT worker sc…"
     },
     {
-      "title": "Cisco Warns of Active Attacks Exploiting New Critical Secure Email Gateway Vulnerability",
-      "link": "https://thehackernews.com/2026/10/cisco-warns-of-active-attacks.html",
-      "source": "The Hacker News",
-      "pubDate": "2026-10-14T18:38:56.000Z",
-      "snippet": "Attackers are exploiting a critical flaw in Cisco Secure Email Gateway that lets a sender with no login write files to the appliance's operating system, Cisco&nbsp;said in an advisory&nbsp;on Wednesday. The attacker send…"
-    },
-    {
       "title": "Ledger asks sellers across Asia to halt sales after supply-chain attack",
       "link": "https://www.bleepingcomputer.com/news/security/ledger-asks-sellers-across-asia-to-halt-sales-after-supply-chain-attack/",
       "source": "BleepingComputer",
@@ -289,25 +338,11 @@
       "snippet": "Ledger has asked resellers and distributors of its wallets in Indonesia, Singapore, Thailand, the Philippines, Vietnam, Malaysia, and Hong Kong to suspend device sales and remove products from shelves while it investigat…"
     },
     {
-      "title": "Hackers Backdoor Nextcloud Servers Through Critical Flaw in Collabora’s Built-in CODE App",
-      "link": "https://thehackernews.com/2026/10/hackers-backdoor-nextcloud-servers.html",
-      "source": "The Hacker News",
-      "pubDate": "2026-10-14T17:38:31.000Z",
-      "snippet": "Attackers exploited a flaw in an optional Nextcloud app,&nbsp;Collabora Online - Built-in CODE Server, to plant web shells on Nextcloud servers. Three administrators&nbsp;reported the issue on GitHub, with the first logg…"
-    },
-    {
       "title": "Cisco patches new Secure Email Gateway zero-day exploited in attacks",
       "link": "https://www.bleepingcomputer.com/news/security/cisco-patches-actively-exploited-secure-email-gateway-zero-day/",
       "source": "BleepingComputer",
       "pubDate": "2026-10-14T17:29:14.000Z",
       "snippet": "Cisco has patched another actively exploited zero-day flaw in its Secure Email Gateway (SEG) that lets remote unauthenticated attackers execute commands with root privileges. [...]"
-    },
-    {
-      "title": "AI Agents Navigate Unfamiliar OT Systems and Move Equipment in Minutes, Booz Allen Finds",
-      "link": "https://www.securityweek.com/ai-agents-navigate-unfamiliar-ot-systems-and-move-equipment-in-minutes-booz-allen-finds/",
-      "source": "SecurityWeek",
-      "pubDate": "2026-10-14T16:00:00.000Z",
-      "snippet": "In Booz Allen’s isolated OT lab, AI models met every objective across eight scenarios and reached an industrial control network from a perimeter compromise in just over 16 minutes. The post AI Agents Navigate Unfamiliar…"
     },
     {
       "title": "Microsoft fixes VPN issues caused by September Windows updates",
@@ -331,39 +366,11 @@
       "snippet": "AI-powered penetration testing can uncover complex attack paths, but safety restrictions and network limitations leave many assets and vulnerabilities untested. Picus Security explains how combining agentic pentesting wi…"
     },
     {
-      "title": "Global takedown hits network behind 1 billion phishing messages",
-      "link": "https://www.bleepingcomputer.com/news/security/global-takedown-hits-network-behind-1-billion-phishing-messages/",
-      "source": "BleepingComputer",
-      "pubDate": "2026-10-14T13:12:52.000Z",
-      "snippet": "A massive cybercriminal ecosystem facilitating more than a billion malicious messages targeting over 75,000 organizations across 150 countries has been disrupted by law enforcement agencies and partners worldwide. [...]"
-    },
-    {
       "title": "Russian Influence Operation Widely Targets Latin America",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/russian-influence-operation-targeting-latin-america",
       "source": "Dark Reading",
       "pubDate": "2026-10-14T13:00:00.000Z",
       "snippet": "The AI-enabled operation used spoofed emails, fake government documents, and the creation of a local organization to target schools in Peru and Ecuador, among other efforts."
-    },
-    {
-      "title": "CISA warns admins to immediately fix Ivanti flaw exploited as zero-day",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-admins-to-immediately-fix-ivanti-flaw-exploited-as-zero-day/",
-      "source": "BleepingComputer",
-      "pubDate": "2026-10-14T12:58:07.000Z",
-      "snippet": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) urged security teams to immediately patch an Ivanti Connect Secure (ICS) flaw exploited in zero-day attacks since at least October 1st. [...]"
-    },
-    {
-      "title": "Hirudo Android malware replaces banking apps to evade security checks",
-      "link": "https://www.bleepingcomputer.com/news/security/hirudo-android-malware-replaces-banking-apps-to-evade-security-checks/",
-      "source": "BleepingComputer",
-      "pubDate": "2026-10-14T11:41:20.000Z",
-      "snippet": "A new Android malware called Hirudo steals bank account credentials by replacing legitimate banking apps with modified versions that disable security checks. [...]"
-    },
-    {
-      "title": "Microsoft: Recent Windows updates may trigger Remote Desktop failures",
-      "link": "https://www.bleepingcomputer.com/news/security/microsoft-recent-windows-updates-may-trigger-remote-desktop-failures/",
-      "source": "BleepingComputer",
-      "pubDate": "2026-10-14T10:48:09.000Z",
-      "snippet": "Microsoft has confirmed that non-admin users may be unable to connect to devices via Remote Desktop after installing recent Windows updates if the \"Administrator protection\" security feature is enabled. [...]"
     },
     {
       "title": "Ransomware Gangs Embrace Physical Threats, Family Stalking?",
@@ -413,13 +420,6 @@
       "source": "Dark Reading",
       "pubDate": "2026-10-12T20:00:53.000Z",
       "snippet": "Edward Dubrovsky, a longtime cybersecurity executive, was arrested and charged in Pennsylvania last week under conspiracy to extort money."
-    },
-    {
-      "title": "No Identity, No Recovery: Cyber Resilience Starts With IAM",
-      "link": "https://www.darkreading.com/cybersecurity-operations/cyber-resilience-starts-with-iam",
-      "source": "Dark Reading",
-      "pubDate": "2026-10-12T18:27:25.000Z",
-      "snippet": "The proliferation of enterprise apps and the centrality of cloud identity providers requires an identity security rethink."
     }
   ]
 }
