@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-10-15T21:24:31.358Z",
+  "generatedAt": "2026-10-16T04:33:58.741Z",
   "items": [
+    {
+      "title": "SecTor 2026 Reveals a Rapidly Shifting Cybersecurity Landscape",
+      "link": "https://www.darkreading.com/cybersecurity-operations/sector-2026-reveals-a-rapidly-shifting-cybersecurity-landscape",
+      "source": "Dark Reading",
+      "pubDate": "2026-10-15T22:10:08.000Z",
+      "snippet": "The event closed in Toronto last week, with experts sharing critical perspectives on emerging risks, drawing record attendance and marking 22% growth."
+    },
+    {
+      "title": "F-Secure Launches Victim-First Scam Encyclopedia Covering 50+ Types of Consumer Fraud",
+      "link": "https://www.darkreading.com/threat-intelligence/f-secure-launches-victim-first-scam-encyclopedia-covering-50-types-of-consumer-fraud",
+      "source": "Dark Reading",
+      "pubDate": "2026-10-15T21:55:07.000Z",
+      "snippet": "Built from decades of threat intelligence research, the new resource explains scams from the victims' perspective and tracks emerging forms of cyber crime."
+    },
     {
       "title": "Federal bankruptcy courts dealing with outages after contractor cyberattack",
       "link": "https://therecord.media/federal-bankruptcy-courts-dealing-with-cyberattack-outage",
@@ -406,20 +420,6 @@
       "source": "Dark Reading",
       "pubDate": "2026-10-13T20:35:23.000Z",
       "snippet": "Anthropic's latest study combines IoT and network tests to explore AI self-replication, which researchers said would be &quot;challenging&quot; to shut down."
-    },
-    {
-      "title": "Maximum-Severity SSRF Flaw in SonicWall SMA Devices Under Attack",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/max-severity-ssrf-flaw-sonicwall-sma-devices-under-attack",
-      "source": "Dark Reading",
-      "pubDate": "2026-10-12T21:42:42.000Z",
-      "snippet": "Attackers are currently targeting a critical vulnerability in SMA 1000 appliances, putting SonicWall customers in a familiar yet unenviable position."
-    },
-    {
-      "title": "Prominent Ransomware Negotiator Faces Extortion Charges",
-      "link": "https://www.darkreading.com/insider-threats/prominent-ransomware-negotiator-extortion-charges",
-      "source": "Dark Reading",
-      "pubDate": "2026-10-12T20:00:53.000Z",
-      "snippet": "Edward Dubrovsky, a longtime cybersecurity executive, was arrested and charged in Pennsylvania last week under conspiracy to extort money."
     }
   ]
 }
