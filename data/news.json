@@ -1,6 +1,97 @@
 {
-  "generatedAt": "2026-10-16T11:26:57.149Z",
+  "generatedAt": "2026-10-16T16:41:08.543Z",
   "items": [
+    {
+      "title": "UAT-11985 Uses Fake Event Invites to Target Taiwan Research Affiliates With Google AitM Phishing",
+      "link": "https://thehackernews.com/2026/10/uat-11985-uses-fake-event-invites-to.html",
+      "source": "The Hacker News",
+      "pubDate": "2026-10-16T16:16:44.000Z",
+      "snippet": "Cybersecurity researchers have disclosed details of an advanced persistent threat (APT) spear-phishing campaign that has targeted individuals affiliated with Taiwan research organizations to direct victims to an adversar…"
+    },
+    {
+      "title": "Proofpoint lines up $6.3 billion deal for Varonis’ data security",
+      "link": "https://therecord.media/proofpoint-varonis-cybersecurity-acquisition",
+      "source": "The Record",
+      "pubDate": "2026-10-16T14:45:00.000Z",
+      "snippet": "Cybersecurity giant Proofpoint says it will acquire Miami-based data visibility and security company Varonis in an all-cash transaction worth $6.3 billion."
+    },
+    {
+      "title": "In Other News: ICS-Sniper Attack, Hacking XWorm Malware Operators, $250k Chrome Exploit",
+      "link": "https://www.securityweek.com/in-other-news-ics-sniper-attack-hacking-xworm-malware-operators-250k-chrome-exploit/",
+      "source": "SecurityWeek",
+      "pubDate": "2026-10-16T14:09:51.000Z",
+      "snippet": "Noteworthy stories that might have slipped under the radar: BofA adds 1,000 patching contractors, KGB RAT pairs data theft with jump scares, and Langflow flaw under attack. The post In Other News: ICS-Sniper Attack, Hack…"
+    },
+    {
+      "title": "OpenAI Research Model Spent 3rd-Party Test ETH Without Permission to Deploy Smart Contract",
+      "link": "https://thehackernews.com/2026/10/openai-research-model-spent-3rd-party.html",
+      "source": "The Hacker News",
+      "pubDate": "2026-10-16T14:03:04.000Z",
+      "snippet": "OpenAI has disclosed seven new incidents in which its artificial intelligence (AI) models exhibited misaligned behavior, including one case where its research model, after not having funds on an Ethereum test network, sp…"
+    },
+    {
+      "title": "When Your Ransomware Negotiator Works for the Other Side",
+      "link": "https://www.darkreading.com/cyber-risk/when-your-ransomware-negotiator-works-other-side",
+      "source": "Dark Reading",
+      "pubDate": "2026-10-16T14:00:00.000Z",
+      "snippet": "The shocking arrest of a well-known ransomware negotiator reveals the critical need for vendor program oversight."
+    },
+    {
+      "title": "Employees using personal ChatGPT at work? Here's what IT admins need to do",
+      "link": "https://www.bleepingcomputer.com/news/security/employees-using-personal-chatgpt-at-work-heres-what-it-admins-need-to-do/",
+      "source": "BleepingComputer",
+      "pubDate": "2026-10-16T13:50:59.000Z",
+      "snippet": "Employees using personal ChatGPT accounts at work can expose sensitive company data, even when their organization provides an approved Enterprise workspace. NordLayer explains how IT teams can investigate unauthorized AI…"
+    },
+    {
+      "title": "Moscow police detain suspected DataSuckers hackers linked to breaches in Ukraine and Russia",
+      "link": "https://therecord.media/russia-datasuckers-hackers-arrested",
+      "source": "The Record",
+      "pubDate": "2026-10-16T13:30:00.000Z",
+      "snippet": "Russian authorities have reportedly detained three suspected members of the DataSuckers hacking group following a cyberattack on a popular restaurant chain that exposed vast amounts of customer information."
+    },
+    {
+      "title": "Baltimore suburb confirms August data breach after ransomware claims",
+      "link": "https://therecord.media/anne-arundel-county-maryland-confirms-data-breach",
+      "source": "The Record",
+      "pubDate": "2026-10-16T13:05:00.000Z",
+      "snippet": "Anne Arundel County, Maryland, said an intruder stole files from government systems, and investigators are working to assess how much data was exposed."
+    },
+    {
+      "title": "When AI Agents Commit Breaches, Humans May Not Be Held Liable",
+      "link": "https://www.darkreading.com/insider-threats/ai-agents-breaches-humans-liable",
+      "source": "Dark Reading",
+      "pubDate": "2026-10-16T13:00:00.000Z",
+      "snippet": "As agents escape containment and access external systems, responsibility remains human. Accountability, however, is much less settled."
+    },
+    {
+      "title": "Suspected Chinese espionage attackers abusing BeyondTrust IT support zero-day",
+      "link": "https://therecord.media/beyond-trust-cyberattack-china",
+      "source": "The Record",
+      "pubDate": "2026-10-16T13:00:00.000Z",
+      "snippet": "An alleged Chinese state-backed group is using a new zero-day affecting BeyondTrust IT support software to conduct espionage attacks."
+    },
+    {
+      "title": "Burger King Japan data breach exposes 11 million customer records",
+      "link": "https://www.bleepingcomputer.com/news/security/burger-king-japan-data-breach-exposes-11-million-customer-records/",
+      "source": "BleepingComputer",
+      "pubDate": "2026-10-16T12:01:29.000Z",
+      "snippet": "Burger King Japan, the Japanese subsidiary of global fast-food giant Burger King, disclosed a major data breach after attackers accessed a server containing 11.18 million customer records. [...]"
+    },
+    {
+      "title": "BAE Systems Security Incident Stalls Notices From US Bankruptcy Courts",
+      "link": "https://www.securityweek.com/bae-systems-security-incident-stalls-notices-from-us-bankruptcy-courts/",
+      "source": "SecurityWeek",
+      "pubDate": "2026-10-16T11:46:40.000Z",
+      "snippet": "A cyber incident affecting contractor BAE Systems has knocked out the Bankruptcy Noticing Center, halting notices nationwide for a week. The post BAE Systems Security Incident Stalls Notices From US Bankruptcy Courts app…"
+    },
+    {
+      "title": "AI Decision Models and Their Impact on AI SOC Platforms",
+      "link": "https://thehackernews.com/2026/10/ai-decision-models-and-their-impact-on.html",
+      "source": "The Hacker News",
+      "pubDate": "2026-10-16T11:30:00.000Z",
+      "snippet": "In the space of a month, a new category of AI model went from nonexistent to everywhere. TypeSafe AI released Jev on September 15 and called it a System One model, a nod to Kahneman's fast, intuitive thinking. OpenAI ann…"
+    },
     {
       "title": "Chinese APT Exploited BeyondTrust Vulnerability as Zero-Day",
       "link": "https://www.securityweek.com/chinese-apt-exploited-beyondtrust-vulnerability-as-zero-day/",
@@ -128,13 +219,6 @@
       "snippet": "Google announced new AI-powered defenses against scam messages and call-forwarding abuse on Android, currently rolling out to eligible devices. [...]"
     },
     {
-      "title": "Zero-click spyware infecting devices through online ads, researchers say",
-      "link": "https://therecord.media/spyware-citizen-lab-advertising",
-      "source": "The Record",
-      "pubDate": "2026-10-15T19:00:00.000Z",
-      "snippet": "Powerful zero-click spyware is infected devices worldwide through targeted ads, new research shows — an alarming development in the spread of surveillance technology."
-    },
-    {
       "title": "ThreatsDay: Adobe RCE, DNS Wallet Theft, NVIDIA Container Escape, Self-Healing Backdoor + 23 More",
       "link": "https://thehackernews.com/2026/10/threatsday-adobe-rce-dns-wallet-theft.html",
       "source": "The Hacker News",
@@ -191,13 +275,6 @@
       "snippet": "Organizations need to move away from vendor-assigned, theoretical scores toward real exploit data specific to their environments."
     },
     {
-      "title": "UK Legal Aid Agency hack worse than thought, with stolen records dating back to 1978",
-      "link": "https://therecord.media/uk-legal-aid-cyberattack-data",
-      "source": "The Record",
-      "pubDate": "2026-10-15T14:30:00.000Z",
-      "snippet": "A cyberattack on Britain’s Legal Aid Agency (LAA) stole far older and broader records than the government previously disclosed."
-    },
-    {
       "title": "UK Legal Aid Agency Hack Scope Widens After Forensic Review",
       "link": "https://www.securityweek.com/uk-legal-aid-agency-hack-scope-widens-after-forensic-review/",
       "source": "SecurityWeek",
@@ -219,13 +296,6 @@
       "snippet": "AI pentesting can uncover vulnerabilities missed by human testers, but it also has limitations in consistency, risk assessment, and understanding business context. Intruder compares the strengths and weaknesses of both a…"
     },
     {
-      "title": "Suspected Kazakhstan-linked hackers target governments across former Soviet states",
-      "link": "https://therecord.media/suspected-kazakhstan-phishing-central-asia-espionage",
-      "source": "The Record",
-      "pubDate": "2026-10-15T13:55:00.000Z",
-      "snippet": "A roughly 2-year-old cyber-espionage campaign against Central Asian states appears to originate in Kazakhstan, researchers said."
-    },
-    {
       "title": "Microsoft: Windows Server 2022 reached end of mainstream support",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2022-reached-end-of-mainstream-support/",
       "source": "BleepingComputer",
@@ -238,13 +308,6 @@
       "source": "The Hacker News",
       "pubDate": "2026-10-15T12:58:05.000Z",
       "snippet": "NGINX released&nbsp;versions 1.30.6 and 1.31.7&nbsp;on October 14 to fix five vulnerabilities, one of them present in every release since May 2005. There are three memory bugs that F5, the company behind NGINX, says coul…"
-    },
-    {
-      "title": "Supermarket Refrigeration Attack Widens to Copeland, Dixell Controllers",
-      "link": "https://www.securityweek.com/supermarket-refrigeration-attack-widens-to-copeland-dixell-controllers/",
-      "source": "SecurityWeek",
-      "pubDate": "2026-10-15T12:50:42.000Z",
-      "snippet": "Roughly 700 French supermarkets were hit by the cyberattacks, for which no group has claimed responsibility. The post Supermarket Refrigeration Attack Widens to Copeland, Dixell Controllers appeared first on SecurityWeek…"
     },
     {
       "title": "Next.js Ships Out-of-Band Patch for Two Critical RCE Flaws in Caching and SVG Processing",
@@ -275,34 +338,6 @@
       "snippet": "Attackers are impersonating popular AI products to distribute malware, steal browser sessions, and compromise business accounts. ANY.RUN linked 1,258 public sandbox analyses to fake AI campaigns between April and October…"
     },
     {
-      "title": "Palo Alto Networks Patches PAN-OS Authenticated RCE Flaw Amid Active Exploitation",
-      "link": "https://thehackernews.com/2026/10/palo-alto-networks-patches-pan-os.html",
-      "source": "The Hacker News",
-      "pubDate": "2026-10-15T11:46:49.000Z",
-      "snippet": "Palo Alto Networks on Wednesday issued security updates for a high-severity flaw in PAN-OS software that has come under active exploitation. The vulnerability, tracked as CVE-2026-0322 (CVSS score: 8.6), is a case of rem…"
-    },
-    {
-      "title": "CikaBika Bot RAT Uses Discord for C&#038;C",
-      "link": "https://www.securityweek.com/cikabika-bot-rat-uses-discord-for-cc/",
-      "source": "SecurityWeek",
-      "pubDate": "2026-10-15T11:25:58.000Z",
-      "snippet": "Delivered via phishing, the malware provides reconnaissance, remote execution, and data exfiltration capabilities. The post CikaBika Bot RAT Uses Discord for C&#038;C appeared first on SecurityWeek ."
-    },
-    {
-      "title": "Why AI Confidence Is Not Validation",
-      "link": "https://thehackernews.com/2026/10/why-ai-confidence-is-not-validation.html",
-      "source": "The Hacker News",
-      "pubDate": "2026-10-15T11:04:35.000Z",
-      "snippet": "AI is already part of digital forensics and incident response work, with or without a policy in place to govern it. The issue is that these tools are growing more confident in their own output faster than practitioners a…"
-    },
-    {
-      "title": "India Mandates Registered Caller Name Display on 4G and Newer Networks From November 1",
-      "link": "https://thehackernews.com/2026/10/india-mandates-registered-caller-name.html",
-      "source": "The Hacker News",
-      "pubDate": "2026-10-15T10:42:16.000Z",
-      "snippet": "The Indian government has directed telecom service providers (TSPs) in the country to mandatorily display callers' registered names along with their numbers for incoming calls starting November 1, 2026, in an effort to h…"
-    },
-    {
       "title": "Microsoft fixes bug causing Windows black screens, Explorer crashes",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-causing-windows-black-screens-explorer-crashes/",
       "source": "BleepingComputer",
@@ -322,13 +357,6 @@
       "source": "Dark Reading",
       "pubDate": "2026-10-15T07:00:00.000Z",
       "snippet": "Hundreds of stores lost millions of euros because they hired third parties to manage the outdated OT firmware running their cooling systems."
-    },
-    {
-      "title": "Ukraine says Elon Musk's Starshield service partially restored after restrictions disrupted drone missions",
-      "link": "https://therecord.media/ukraine-says-starshield-working-again-after-disruption",
-      "source": "The Record",
-      "pubDate": "2026-10-14T23:00:00.000Z",
-      "snippet": "The Ukrainian military can again use SpaceX’s Starshield satellite service on the move, a Defense Ministry source told Recorded Future News on Thursday, days after sudden restrictions disrupted drone missions along the f…"
     },
     {
       "title": "Palo Alto Networks warns of PAN-OS RCE flaw exploited in attacks",
@@ -357,20 +385,6 @@
       "source": "Dark Reading",
       "pubDate": "2026-10-14T20:09:42.000Z",
       "snippet": "A bug in Claude Code Desktop's preview pane can allow adversaries to quietly steal credentials from developers, including SSH private keys, AWS credentials, and Claude 0Auth tokens."
-    },
-    {
-      "title": "FBI raids DPRK IT worker laptop farms in Texas, US nationals arrested",
-      "link": "https://www.bleepingcomputer.com/news/security/fbi-raids-dprk-it-worker-laptop-farms-in-texas-us-nationals-arrested/",
-      "source": "BleepingComputer",
-      "pubDate": "2026-10-14T19:41:43.000Z",
-      "snippet": "The U.S. Department of Justice (DoJ) has disrupted the Famous Chollima threat group's operations by arresting two suspects, charging 14 individuals, and seizing nearly 187 laptops used in North Korean remote IT worker sc…"
-    },
-    {
-      "title": "Ledger asks sellers across Asia to halt sales after supply-chain attack",
-      "link": "https://www.bleepingcomputer.com/news/security/ledger-asks-sellers-across-asia-to-halt-sales-after-supply-chain-attack/",
-      "source": "BleepingComputer",
-      "pubDate": "2026-10-14T17:46:50.000Z",
-      "snippet": "Ledger has asked resellers and distributors of its wallets in Indonesia, Singapore, Thailand, the Philippines, Vietnam, Malaysia, and Hong Kong to suspend device sales and remove products from shelves while it investigat…"
     },
     {
       "title": "U.K. Sanctions Cryptomus for RU Money Laundering",
@@ -406,20 +420,6 @@
       "source": "Dark Reading",
       "pubDate": "2026-10-13T22:29:57.000Z",
       "snippet": "The scary surprises in the largest security update ever include defense bypasses and unauthenticated RCEs."
-    },
-    {
-      "title": "North Korea Phishes Ukrainians for War Intel",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/north-korea-phishes-ukrainians-war-intel",
-      "source": "Dark Reading",
-      "pubDate": "2026-10-13T21:24:45.000Z",
-      "snippet": "The Democratic People's Republic of Korea (DPRK) is trying to get insight into its own war effort in Ukraine, through simple reply-baiting phishing attacks."
-    },
-    {
-      "title": "Anthropic Finds Ingredients for Future AI Worms",
-      "link": "https://www.darkreading.com/perimeter/anthropic-ingredients-future-ai-worms",
-      "source": "Dark Reading",
-      "pubDate": "2026-10-13T20:35:23.000Z",
-      "snippet": "Anthropic's latest study combines IoT and network tests to explore AI self-replication, which researchers said would be &quot;challenging&quot; to shut down."
     }
   ]
 }
