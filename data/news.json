@@ -1,6 +1,34 @@
 {
-  "generatedAt": "2026-10-17T10:46:23.528Z",
+  "generatedAt": "2026-10-17T15:37:16.618Z",
   "items": [
+    {
+      "title": "Hackers breach Microsoft 365 tenants via ConnectWise supply-chain attack",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-breach-microsoft-365-tenants-via-connectwise-supply-chain-attack/",
+      "source": "BleepingComputer",
+      "pubDate": "2026-10-17T15:18:51.000Z",
+      "snippet": "ConnectWise has shut down customer access to its Cloud Backup service (formerly SkyKick Cloud Backup) after hackers accessed application identities and compromised Microsoft 365 tenants. [...]"
+    },
+    {
+      "title": "Drupal patches critical RCE flaws, warns exploits may emerge soon",
+      "link": "https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaws-warns-exploits-may-emerge-soon/",
+      "source": "BleepingComputer",
+      "pubDate": "2026-10-17T14:32:48.000Z",
+      "snippet": "Drupal has patched two critical vulnerabilities that could allow attackers to execute code remotely on websites running any supported version of the content management system. [...]"
+    },
+    {
+      "title": "MALFEX npm Package 'imgdecode' Hides Shellcode Loader in Windows Native Addon",
+      "link": "https://thehackernews.com/2026/10/malfex-npm-package-imgdecode-hides.html",
+      "source": "The Hacker News",
+      "pubDate": "2026-10-17T11:11:56.000Z",
+      "snippet": "Cybersecurity researchers have discovered a malicious npm package that's part of a recently disclosed software supply chain attack campaign dubbed MALFEX. The package, named \"imgdecode,\" was uploaded to the package regis…"
+    },
+    {
+      "title": "Israeli Ad Firm Doubled as Candiru&#8217;s Zero-Click Spyware Delivery Channel",
+      "link": "https://www.securityweek.com/israeli-ad-firm-doubled-as-candirus-zero-click-spyware-delivery-channel/",
+      "source": "SecurityWeek",
+      "pubDate": "2026-10-17T11:00:00.000Z",
+      "snippet": "Israeli company Discover-Tech’s ads allow threat actors to fingerprint and track devices at scale and infect selected targets. The post Israeli Ad Firm Doubled as Candiru&#8217;s Zero-Click Spyware Delivery Channel appea…"
+    },
     {
       "title": "Hackers Use Compromised ConnectWise Credential to Sign In to 173 Microsoft 365 Tenants",
       "link": "https://thehackernews.com/2026/10/hackers-use-compromised-connectwise.html",
@@ -345,13 +373,6 @@
       "snippet": "Organizations need to move away from vendor-assigned, theoretical scores toward real exploit data specific to their environments."
     },
     {
-      "title": "UK Legal Aid Agency Hack Scope Widens After Forensic Review",
-      "link": "https://www.securityweek.com/uk-legal-aid-agency-hack-scope-widens-after-forensic-review/",
-      "source": "SecurityWeek",
-      "pubDate": "2026-10-15T14:22:34.000Z",
-      "snippet": "Most of the data is related to applications, claims, and payments submitted between 2007 and 2025. The post UK Legal Aid Agency Hack Scope Widens After Forensic Review appeared first on SecurityWeek ."
-    },
-    {
       "title": "Help TDS Linked to Hotejka as 20,000+ Cloudflare Pages Domains Host Tech Support Scams",
       "link": "https://thehackernews.com/2026/10/help-tds-linked-to-hotejka-as-20000.html",
       "source": "The Hacker News",
@@ -371,27 +392,6 @@
       "source": "BleepingComputer",
       "pubDate": "2026-10-15T13:18:36.000Z",
       "snippet": "Microsoft announced that Windows Server 2022 has reached the end of mainstream support and will remain in extended support until October 2031. [...]"
-    },
-    {
-      "title": "NGINX Fixes 5 Flaws, Including Possible RCE and a TLS Bug That May Skip Client-Cert Checks",
-      "link": "https://thehackernews.com/2026/10/nginx-fixes-5-flaws-including-possible.html",
-      "source": "The Hacker News",
-      "pubDate": "2026-10-15T12:58:05.000Z",
-      "snippet": "NGINX released&nbsp;versions 1.30.6 and 1.31.7&nbsp;on October 14 to fix five vulnerabilities, one of them present in every release since May 2005. There are three memory bugs that F5, the company behind NGINX, says coul…"
-    },
-    {
-      "title": "Police arrests 95 suspects in international CSAM crackdown action",
-      "link": "https://www.bleepingcomputer.com/news/security/police-arrests-95-suspects-in-child-sexual-abuse-material-crackdown/",
-      "source": "BleepingComputer",
-      "pubDate": "2026-10-15T11:55:38.000Z",
-      "snippet": "Law enforcement authorities from 17 countries in Latin America and Europe have arrested 95 suspects in an INTERPOL-coordinated operation targeting the distribution of child sexual abuse material (CSAM) through online mes…"
-    },
-    {
-      "title": "Microsoft fixes bug causing Windows black screens, Explorer crashes",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-causing-windows-black-screens-explorer-crashes/",
-      "source": "BleepingComputer",
-      "pubDate": "2026-10-15T09:10:20.000Z",
-      "snippet": "Microsoft has resolved a known issue that was causing black screens, desktop loading issues, and Explorer crashes after installing Windows 11 updates released since August. [...]"
     },
     {
       "title": "EU Grocers Pay a Steep Price for Unpatched Fridge Firmware",
