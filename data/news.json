@@ -1,6 +1,13 @@
 {
-  "generatedAt": "2026-10-17T04:29:02.055Z",
+  "generatedAt": "2026-10-17T10:46:23.528Z",
   "items": [
+    {
+      "title": "Hackers Use Compromised ConnectWise Credential to Sign In to 173 Microsoft 365 Tenants",
+      "link": "https://thehackernews.com/2026/10/hackers-use-compromised-connectwise.html",
+      "source": "The Hacker News",
+      "pubDate": "2026-10-17T06:16:46.000Z",
+      "snippet": "Cybersecurity researchers are sounding the alarm related to an active campaign in which unknown threat actors are abusing a compromised Microsoft 365 (M365) credential belonging to ConnectWise Cloud Backup (formerly SkyK…"
+    },
     {
       "title": "BeyondTrust Remote Support Zero-Day Continues Trend of Exploited Edge Bugs",
       "link": "https://www.darkreading.com/endpoint-security/beyondtrust-remote-support-exploited-edge-bugs",
@@ -371,13 +378,6 @@
       "source": "The Hacker News",
       "pubDate": "2026-10-15T12:58:05.000Z",
       "snippet": "NGINX released&nbsp;versions 1.30.6 and 1.31.7&nbsp;on October 14 to fix five vulnerabilities, one of them present in every release since May 2005. There are three memory bugs that F5, the company behind NGINX, says coul…"
-    },
-    {
-      "title": "Next.js Ships Out-of-Band Patch for Two Critical RCE Flaws in Caching and SVG Processing",
-      "link": "https://thehackernews.com/2026/10/nextjs-ships-out-of-band-patch-for-two.html",
-      "source": "The Hacker News",
-      "pubDate": "2026-10-15T12:28:13.000Z",
-      "snippet": "Next.js released an&nbsp;out-of-band security update&nbsp;on October 14 that fixes two critical flaws allowing unauthenticated remote code execution, along with a high-severity denial-of-service flaw. One code-execution…"
     },
     {
       "title": "Police arrests 95 suspects in international CSAM crackdown action",
