@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-10-18T04:36:12.305Z",
+  "generatedAt": "2026-10-18T11:08:29.005Z",
   "items": [
+    {
+      "title": "US Cybersecurity Job Postings Fall 26% as AI Security Engineer Demand Soars",
+      "link": "https://www.securityweek.com/us-cybersecurity-job-postings-fall-26-as-ai-security-engineer-demand-soars/",
+      "source": "SecurityWeek",
+      "pubDate": "2026-10-18T11:00:00.000Z",
+      "snippet": "CyberSN’s Cybersecurity Jobs Report provides visibility into the US cybersecurity job market. It’s a mixed bag. The post US Cybersecurity Job Postings Fall 26% as AI Security Engineer Demand Soars appeared first on Secur…"
+    },
+    {
+      "title": "ConnectWise Suspends Cloud Backup After Attackers Compromise Microsoft 365 Tenants",
+      "link": "https://thehackernews.com/2026/10/connectwise-suspends-cloud-backup-after.html",
+      "source": "The Hacker News",
+      "pubDate": "2026-10-18T08:23:02.000Z",
+      "snippet": "ConnectWise on Saturday said it has disabled seven ConnectWise application identities as it continues its investigation into an incident in which unknown threat actors obtained unauthorized access to the application iden…"
+    },
     {
       "title": "Hackers breach Microsoft 365 tenants via ConnectWise supply-chain attack",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-breach-microsoft-365-tenants-via-connectwise-supply-chain-attack/",
@@ -345,13 +359,6 @@
       "snippet": "A threat actor uploaded malicious packages to the Arch User Repository (AUR) that impersonated two popular helper tools, yay and paru. [...]"
     },
     {
-      "title": "Watch Now: Zero Trust Strategies Summit &#8211; All Sessions Available on Demand",
-      "link": "https://www.securityweek.com/virtual-event-today-zero-trust-strategies-summit-2/",
-      "source": "SecurityWeek",
-      "pubDate": "2026-10-15T16:51:34.000Z",
-      "snippet": "This summit is laser-focused on the next generation of Zero Trust and Identity security, moving beyond theory to deliver actionable strategies. The post Watch Now: Zero Trust Strategies Summit &#8211; All Sessions Availa…"
-    },
-    {
       "title": "Citizen Lab Traces Zero-Click Candiru Spyware Infections at Al Jazeera to Targeted Online Ads",
       "link": "https://thehackernews.com/2026/10/citizen-lab-traces-zero-click-candiru.html",
       "source": "The Hacker News",
@@ -371,13 +378,6 @@
       "source": "Dark Reading",
       "pubDate": "2026-10-15T15:17:18.000Z",
       "snippet": "Organizations need to move away from vendor-assigned, theoretical scores toward real exploit data specific to their environments."
-    },
-    {
-      "title": "Help TDS Linked to Hotejka as 20,000+ Cloudflare Pages Domains Host Tech Support Scams",
-      "link": "https://thehackernews.com/2026/10/help-tds-linked-to-hotejka-as-20000.html",
-      "source": "The Hacker News",
-      "pubDate": "2026-10-15T14:11:36.000Z",
-      "snippet": "A long-running Traffic Distribution System (TDS) known as Help TDS to a Russian-language affiliate program called Hotejka, which appears to be a rebrand of a traffic monetization operation dubbed ROI777. Help TDS is asse…"
     },
     {
       "title": "Is AI pentesting as good as a human pentester?",
