@@ -1,6 +1,13 @@
 {
-  "generatedAt": "2026-10-19T22:22:40.927Z",
+  "generatedAt": "2026-10-20T04:53:14.851Z",
   "items": [
+    {
+      "title": "Hackers Use New ROMULUS ClickFix Platform to Deliver LegionLoader and Other Malware",
+      "link": "https://thehackernews.com/2026/10/romulus-clickfix-platform-tricks-users.html",
+      "source": "The Hacker News",
+      "pubDate": "2026-10-20T04:05:58.000Z",
+      "snippet": "Cybersecurity researchers have disclosed details of a ClickFix delivery platform called ROMULUS that's being used to distribute malware such as Legion Loader. According to Forescout Research - Vedere Labs, ROMULUS is aki…"
+    },
     {
       "title": "Nikkei discloses third data breach in a month, 1.8M records exposed",
       "link": "https://www.bleepingcomputer.com/news/security/nikkei-discloses-third-data-breach-in-a-month-18m-records-exposed/",
@@ -385,13 +392,6 @@
       "source": "The Hacker News",
       "pubDate": "2026-10-16T16:16:44.000Z",
       "snippet": "Cybersecurity researchers have disclosed details of an advanced persistent threat (APT) spear-phishing campaign that has targeted individuals affiliated with Taiwan research organizations to direct victims to an adversar…"
-    },
-    {
-      "title": "OpenAI Research Model Spent 3rd-Party Test ETH Without Permission to Deploy Smart Contract",
-      "link": "https://thehackernews.com/2026/10/openai-research-model-spent-3rd-party.html",
-      "source": "The Hacker News",
-      "pubDate": "2026-10-16T14:03:04.000Z",
-      "snippet": "OpenAI has disclosed seven new incidents in which its artificial intelligence (AI) models exhibited misaligned behavior, including one case where its research model, after not having funds on an Ethereum test network, sp…"
     },
     {
       "title": "When Your Ransomware Negotiator Works for the Other Side",
