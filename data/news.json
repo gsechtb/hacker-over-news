@@ -1,6 +1,69 @@
 {
-  "generatedAt": "2026-10-20T17:09:13.876Z",
+  "generatedAt": "2026-10-20T21:38:53.311Z",
   "items": [
+    {
+      "title": "PHP warns admins of two critical flaws, emergency patches coming tomorrow",
+      "link": "https://www.bleepingcomputer.com/news/security/php-warns-admins-of-two-critical-flaws-emergency-patches-coming-tomorrow/",
+      "source": "BleepingComputer",
+      "pubDate": "2026-10-20T20:56:43.000Z",
+      "snippet": "The PHP security team is warning administrators to prepare for emergency security updates tomorrow to address two critical vulnerabilities, as information about the flaws has reportedly leaked ahead of their scheduled di…"
+    },
+    {
+      "title": "FBI says SafePay ransomware gang ‘among most active’ with more than 600 victims since 2024",
+      "link": "https://therecord.media/fbi-says-safepay-ransomware-gang-among-most-active-600-victims",
+      "source": "The Record",
+      "pubDate": "2026-10-20T20:27:00.000Z",
+      "snippet": "The FBI and cyber agencies in the UK and Germany said SafePay is targeting businesses and critical infrastructure by guessing passwords, exploiting vulnerabilities and using phishing attacks."
+    },
+    {
+      "title": "Zeabur shutting down after second security breach in two months",
+      "link": "https://www.bleepingcomputer.com/news/security/zeabur-shutting-down-after-second-security-breach-in-two-months/",
+      "source": "BleepingComputer",
+      "pubDate": "2026-10-20T19:33:02.000Z",
+      "snippet": "Development platform Zeabur has disclosed details of a cybersecurity incident in which an attacker used leaked internal credentials stored in plaintext to compromise its infrastructure and steal over 3.2 million environm…"
+    },
+    {
+      "title": "California warns all public school students of data stolen in contractor breach",
+      "link": "https://therecord.media/california-warns-all-public-school-students-of-data-breach",
+      "source": "The Record",
+      "pubDate": "2026-10-20T19:20:00.000Z",
+      "snippet": "The CDE released multiple statements over the last week warning the state’s students that assessment contractor Educational Testing Service (ETS) suffered a months-long data breach."
+    },
+    {
+      "title": "Ex-OpenAI Engineer Detained After Planting Secret Recorder at HQ",
+      "link": "https://www.darkreading.com/insider-threats/ex-openai-engineer-secret-recorder-saudi-ties",
+      "source": "Dark Reading",
+      "pubDate": "2026-10-20T19:16:49.000Z",
+      "snippet": "The perp, who has Saudi ties, was arrested for allegedly bugging an OpenAI conference room, highlighting a preventable insider threat vector."
+    },
+    {
+      "title": "23andMe successor settles with California for $6 million over cybersecurity failings",
+      "link": "https://therecord.media/23andme-california-data-breach-settlement",
+      "source": "The Record",
+      "pubDate": "2026-10-20T18:32:00.000Z",
+      "snippet": "California Attorney General Rob Bonta announced a settlement under which 23andMe's successor will pay $6 million to resolve allegations that the company did not properly protect customers' data before a 2023 breach."
+    },
+    {
+      "title": "OpenAI says GPT-6.1 Sol is dramatically better at migrating legacy code",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-gpt-61-sol-is-dramatically-better-at-migrating-legacy-code/",
+      "source": "BleepingComputer",
+      "pubDate": "2026-10-20T18:11:03.000Z",
+      "snippet": "OpenAI confirmed that its newer models are much better at writing and migrating software in older programming languages. [...]"
+    },
+    {
+      "title": "Nigerian national given 8-year sentence for tax business hacks",
+      "link": "https://therecord.media/nigerian-given-8-year-sentenc-tax-hacks",
+      "source": "The Record",
+      "pubDate": "2026-10-20T17:14:00.000Z",
+      "snippet": "A Nigerian national who worked with a group to hack tax prep businesses and conduct millions of dollars in fraud using customer data was sentenced this week."
+    },
+    {
+      "title": "Eight eMudhra CA Keys Compromised, Triggering Emergency Fixes Across Browsers and Software",
+      "link": "https://thehackernews.com/2026/10/eight-emudhra-ca-keys-compromised.html",
+      "source": "The Hacker News",
+      "pubDate": "2026-10-20T17:09:53.000Z",
+      "snippet": "The private keys of eight eMudhra intermediate certificate authority (CA) certificates are compromised,&nbsp;Mozilla&nbsp;and&nbsp;Google's Chrome Root Program&nbsp;confirms on October 20. An intermediate CA signs the ce…"
+    },
     {
       "title": "US Agencies Detail Incident Response Practices for Rogue AI Agents",
       "link": "https://www.securityweek.com/us-agencies-detail-incident-response-practices-for-rogue-ai-agents/",
@@ -51,25 +114,11 @@
       "snippet": "The U.S. Department of Homeland Security (DHS) is ordering federal civilian agencies to stop using DeepSeek products and remove them from government systems. [...]"
     },
     {
-      "title": "AOMEI yet to notify customers after hackers hijacked its software updates",
-      "link": "https://therecord.media/aomei-yet-to-notify-customers-hijack-software",
-      "source": "The Record",
-      "pubDate": "2026-10-20T14:11:00.000Z",
-      "snippet": "In an email, the Hong Kong-registered company confirmed to Recorded Future News that hackers repeatedly altered configuration files on its update servers between April and July, redirecting the software to download malwa…"
-    },
-    {
       "title": "Hackers Use Autonomous AI Agents to Breach Company Websites, Target Over 1,200 Sites",
       "link": "https://thehackernews.com/2026/10/hackers-use-autonomous-ai-agents-to.html",
       "source": "The Hacker News",
       "pubDate": "2026-10-20T14:07:17.000Z",
       "snippet": "A Chinese-speaking criminal pointed autonomous AI agents at company websites and let them break in with almost no help, and a security researcher watched it happen because the operators left their control panels open on…"
-    },
-    {
-      "title": "Anti-Putin messages disrupt nationwide school assessments in Russia",
-      "link": "https://therecord.media/anti-putin-messages-disrupt-russian-education-platform",
-      "source": "The Record",
-      "pubDate": "2026-10-20T14:05:00.000Z",
-      "snippet": "A pro-Ukraine group that says it operates within Russia took responsibility for anti-Putin messages appearing on an education assessment platform. Authorities said they had restored systems."
     },
     {
       "title": "AOMEI Backupper Compromised in Short-Burst Supply Chain Campaign",
@@ -198,13 +247,6 @@
       "snippet": "The compromised information includes names, addresses, email addresses, phone numbers, and dates of birth. The post Hackers Steal 1.8 Million Records From Nikkei appeared first on SecurityWeek ."
     },
     {
-      "title": "Defense contractors in two NATO allies hacked in recent Russia-linked campaign",
-      "link": "https://therecord.media/european-defense-contractors-fancy-bear-espionage",
-      "source": "The Record",
-      "pubDate": "2026-10-20T10:00:00.000Z",
-      "snippet": "The Russian group known as APT28 and Fancy Bear used a recently documented backdoor to dwell in the networks of two defense contractors and a law enforcement agency in two NATO allies, researchers said."
-    },
-    {
       "title": "Revolut outage disrupts online banking operations worldwide",
       "link": "https://www.bleepingcomputer.com/news/security/revolut-outage-disrupts-online-banking-operations-worldwide/",
       "source": "BleepingComputer",
@@ -275,13 +317,6 @@
       "snippet": "Spyware vendors are exploiting targeted ad bidding in the digital ecosystem to identify and track individuals and organizations of interest."
     },
     {
-      "title": "Judge denies WhatsApp’s bid to hold spyware maker in contempt for allegedly targeting users",
-      "link": "https://therecord.media/whatsapp-denied-appeal-alleged-nso-group-violation-injunction",
-      "source": "The Record",
-      "pubDate": "2026-10-19T19:49:00.000Z",
-      "snippet": "WhatsApp argued that NSO Group violated a 2025 injunction against using the messaging app to spread spyware. A federal judge said WhatsApp hurt its case by not revealing enough information."
-    },
-    {
       "title": "Hackers hijack AOMEI update servers to secretly spread malware",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-aomei-update-servers-to-secretly-spread-malware/",
       "source": "BleepingComputer",
@@ -324,20 +359,6 @@
       "snippet": "The open-source AI coding project OpenCode has notified a small number of users that API keys they used with external providers were exposed in a security breach. [...]"
     },
     {
-      "title": "Popular WordPress SEO Plugin Rank Math PRO Hijacked to Deliver Self-Restoring Backdoor",
-      "link": "https://thehackernews.com/2026/10/popular-wordpress-seo-plugin-rank-math.html",
-      "source": "The Hacker News",
-      "pubDate": "2026-10-19T16:28:47.000Z",
-      "snippet": "Copies of Rank Math PRO, the paid version of the Rank Math SEO plugin for WordPress, that were downloaded from rankmath.com or delivered as updates between 20:02 UTC on October 15 and 07:12 UTC on October 16 contained ma…"
-    },
-    {
-      "title": "Microsoft fixes game, app crashes caused by recent Windows update",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-game-app-crashes-caused-by-windows-kb5124010-preview-update/",
-      "source": "BleepingComputer",
-      "pubDate": "2026-10-19T14:55:23.000Z",
-      "snippet": "Microsoft has resolved a bug that caused games and apps using AC-3 (Dolby Digital) audio decoding to crash after installing the September 2026 Windows 11 preview update (KB5124010). [...]"
-    },
-    {
       "title": "OnlyFans Copyright Takedowns Expose Compromised Websites",
       "link": "https://www.darkreading.com/vulnerabilities-threats/onlyfans-copyright-takedowns-expose-compromised-websites",
       "source": "Dark Reading",
@@ -345,25 +366,11 @@
       "snippet": "Copyright takedown requests tied to OnlyFans and other adult content creators are revealing how attackers exploit vulnerable university and government websites to manipulate search results. UpGuard's Greg Pollock explain…"
     },
     {
-      "title": "Inside the Underground Market for Know Your Client Services",
-      "link": "https://www.bleepingcomputer.com/news/security/inside-the-underground-market-for-know-your-client-services/",
-      "source": "BleepingComputer",
-      "pubDate": "2026-10-19T14:00:10.000Z",
-      "snippet": "Cybercriminals are selling forged identity documents, deepfake videos, and live verification services to help buyers bypass Know Your Client (KYC) checks. Flare examines how these underground services operate and the tec…"
-    },
-    {
       "title": "The Evolving Cybersecurity Lexicon: Vulnerability Discovery to Resilience",
       "link": "https://www.darkreading.com/vulnerabilities-threats/cybersecurity-lexicon-vulnerability-discovery-resilience",
       "source": "Dark Reading",
       "pubDate": "2026-10-19T14:00:00.000Z",
       "snippet": "An industry-wide laser focus on vulnerabilities has left cybersecurity teams without enough room to strategize for resilience."
-    },
-    {
-      "title": "F5 releases out-of-band patches for critical NGINX vulnerabilities",
-      "link": "https://www.bleepingcomputer.com/news/security/f5-releases-out-of-band-patches-for-critical-nginx-vulnerabilities/",
-      "source": "BleepingComputer",
-      "pubDate": "2026-10-19T13:49:24.000Z",
-      "snippet": "F5 has released out-of-band security patches to address multiple NGINX web server flaws, including three critical-severity vulnerabilities that can let attackers execute code on vulnerable systems. [...]"
     },
     {
       "title": "Feds Suspect Ransom Negotiator Ran ShinyHunters Extortion Site",
@@ -413,13 +420,6 @@
       "source": "Dark Reading",
       "pubDate": "2026-10-16T14:00:00.000Z",
       "snippet": "The shocking arrest of a well-known ransomware negotiator reveals the critical need for vendor program oversight."
-    },
-    {
-      "title": "When AI Agents Commit Breaches, Humans May Not Be Held Liable",
-      "link": "https://www.darkreading.com/insider-threats/ai-agents-breaches-humans-liable",
-      "source": "Dark Reading",
-      "pubDate": "2026-10-16T13:00:00.000Z",
-      "snippet": "As agents escape containment and access external systems, responsibility remains human. Accountability, however, is much less settled."
     }
   ]
 }
