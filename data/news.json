@@ -1,6 +1,160 @@
 {
-  "generatedAt": "2026-10-20T11:39:42.359Z",
+  "generatedAt": "2026-10-20T17:09:13.876Z",
   "items": [
+    {
+      "title": "US Agencies Detail Incident Response Practices for Rogue AI Agents",
+      "link": "https://www.securityweek.com/us-agencies-detail-incident-response-practices-for-rogue-ai-agents/",
+      "source": "SecurityWeek",
+      "pubDate": "2026-10-20T15:45:00.000Z",
+      "snippet": "NIST, CISA and NSA share ten voluntary practices for preparing for, detecting, responding to, recovering from, and reporting rogue AI agent incidents. The post US Agencies Detail Incident Response Practices for Rogue AI…"
+    },
+    {
+      "title": "Critical FortiSIEM Flaw Gets Public Exploit PoC for Unauthenticated Remote Code Execution",
+      "link": "https://thehackernews.com/2026/10/critical-fortisiem-flaw-gets-public.html",
+      "source": "The Hacker News",
+      "pubDate": "2026-10-20T15:38:52.000Z",
+      "snippet": "Cybersecurity researchers have released a proof-of-concept (PoC) exploit for a recently patched critical security flaw impacting Fortinet FortiSIEM that could result in arbitrary code execution. The vulnerability, tracke…"
+    },
+    {
+      "title": "Close Identity Gaps in Software Development Before Unleashing AI",
+      "link": "https://www.darkreading.com/application-security/close-identity-gaps-sdlc-before-ai",
+      "source": "Dark Reading",
+      "pubDate": "2026-10-20T15:35:45.000Z",
+      "snippet": "Artificial Intelligence is complicating security in the software development lifecycle, but a Dark Reading roundtable found collaboration, better identity visibility, and reduced testing costs offer CISOs a way ahead."
+    },
+    {
+      "title": "Qilin and INC Ransomware Groups Exploit Palo Alto Networks Flaw to Bypass MFA",
+      "link": "https://thehackernews.com/2026/10/qilin-and-inc-ransomware-groups-exploit.html",
+      "source": "The Hacker News",
+      "pubDate": "2026-10-20T15:32:27.000Z",
+      "snippet": "Palo Alto Networks has disclosed that it's continuing to observe exploitation of a now-patched security flaw impacting&nbsp; PAN-OS and Prisma Access by ransomware actors. The activity relates to CVE-2026-0257 (CVSS scor…"
+    },
+    {
+      "title": "EU cyber law won’t force fixes for fridge controllers hit in French attack",
+      "link": "https://therecord.media/eu-cyber-law-wont-force-fixes-for-fridges-in-french-attack",
+      "source": "The Record",
+      "pubDate": "2026-10-20T14:55:00.000Z",
+      "snippet": "The EU’s Cyber Resilience Act that took effect last month only requires companies to fix vulnerabilities and issue free updates during a product's support period, which manufacturers define."
+    },
+    {
+      "title": "Hackers Abuse AI Pen-Test Tool Cairn to Automate Massive Attack Spree",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/hackers-abuse-ai-pen-test-tool-cairn",
+      "source": "Dark Reading",
+      "pubDate": "2026-10-20T14:36:05.000Z",
+      "snippet": "A Chinese-speaking attacker has compromised hundreds of websites across the globe, looting from big fish like John Deere, SharkNinja, and engine manufacturer Cummins."
+    },
+    {
+      "title": "DHS bans DeepSeek products across US federal civilian agencies",
+      "link": "https://www.bleepingcomputer.com/news/security/dhs-bans-deepseek-products-across-us-federal-civilian-agencies/",
+      "source": "BleepingComputer",
+      "pubDate": "2026-10-20T14:19:05.000Z",
+      "snippet": "The U.S. Department of Homeland Security (DHS) is ordering federal civilian agencies to stop using DeepSeek products and remove them from government systems. [...]"
+    },
+    {
+      "title": "AOMEI yet to notify customers after hackers hijacked its software updates",
+      "link": "https://therecord.media/aomei-yet-to-notify-customers-hijack-software",
+      "source": "The Record",
+      "pubDate": "2026-10-20T14:11:00.000Z",
+      "snippet": "In an email, the Hong Kong-registered company confirmed to Recorded Future News that hackers repeatedly altered configuration files on its update servers between April and July, redirecting the software to download malwa…"
+    },
+    {
+      "title": "Hackers Use Autonomous AI Agents to Breach Company Websites, Target Over 1,200 Sites",
+      "link": "https://thehackernews.com/2026/10/hackers-use-autonomous-ai-agents-to.html",
+      "source": "The Hacker News",
+      "pubDate": "2026-10-20T14:07:17.000Z",
+      "snippet": "A Chinese-speaking criminal pointed autonomous AI agents at company websites and let them break in with almost no help, and a security researcher watched it happen because the operators left their control panels open on…"
+    },
+    {
+      "title": "Anti-Putin messages disrupt nationwide school assessments in Russia",
+      "link": "https://therecord.media/anti-putin-messages-disrupt-russian-education-platform",
+      "source": "The Record",
+      "pubDate": "2026-10-20T14:05:00.000Z",
+      "snippet": "A pro-Ukraine group that says it operates within Russia took responsibility for anti-Putin messages appearing on an education assessment platform. Authorities said they had restored systems."
+    },
+    {
+      "title": "AOMEI Backupper Compromised in Short-Burst Supply Chain Campaign",
+      "link": "https://www.securityweek.com/aomei-backupper-compromised-in-short-burst-supply-chain-campaign/",
+      "source": "SecurityWeek",
+      "pubDate": "2026-10-20T13:51:01.000Z",
+      "snippet": "Across multiple short compromise windows, users were served a downloader for the ShinyRoad modular backdoor framework. The post AOMEI Backupper Compromised in Short-Burst Supply Chain Campaign appeared first on SecurityW…"
+    },
+    {
+      "title": "CJIS v6.1 Compliance: 5 Practical Priorities for Agencies",
+      "link": "https://www.bleepingcomputer.com/news/security/cjis-v61-compliance-5-practical-priorities-for-agencies/",
+      "source": "BleepingComputer",
+      "pubDate": "2026-10-20T13:51:00.000Z",
+      "snippet": "CJIS v6.1 requires agencies to maintain strong authentication, account security, and audit controls while demonstrating ongoing compliance. Specops outlines five practical priorities covering MFA, account management, pas…"
+    },
+    {
+      "title": "The Key to AI Software Security Isn’t Speed, It’s Maturity",
+      "link": "https://www.securityweek.com/the-key-to-ai-software-security-isnt-speed-its-maturity/",
+      "source": "SecurityWeek",
+      "pubDate": "2026-10-20T13:34:23.000Z",
+      "snippet": "Where your developers sit on the AI adoption scale has a real impact on how you are addressing security risk. The post The Key to AI Software Security Isn’t Speed, It’s Maturity appeared first on SecurityWeek ."
+    },
+    {
+      "title": "Hacker gets 8 years for stealing $3.3 million from taxpayers",
+      "link": "https://www.bleepingcomputer.com/news/security/hacker-gets-8-years-for-stealing-33-million-from-taxpayers/",
+      "source": "BleepingComputer",
+      "pubDate": "2026-10-20T13:18:36.000Z",
+      "snippet": "A Nigerian national was sentenced to eight years in prison for his involvement in a series of spearphishing attacks targeting US tax preparation businesses since 2019. [...]"
+    },
+    {
+      "title": "Ahold Delhaize Restoring Services Disrupted by Cyberattack",
+      "link": "https://www.securityweek.com/ahold-delhaize-restoring-services-disrupted-by-cyberattack/",
+      "source": "SecurityWeek",
+      "pubDate": "2026-10-20T13:02:18.000Z",
+      "snippet": "The company has restored many websites and apps in Europe and expects e-commerce brands in the US to be restored in days. The post Ahold Delhaize Restoring Services Disrupted by Cyberattack appeared first on SecurityWeek…"
+    },
+    {
+      "title": "Pegasus Spyware Infection Confirmed on Serbian University Rector's iPhone Days Before Election",
+      "link": "https://thehackernews.com/2026/10/pegasus-spyware-infection-confirmed-on.html",
+      "source": "The Hacker News",
+      "pubDate": "2026-10-20T12:59:44.000Z",
+      "snippet": "The iPhone of Vladan Đokić, rector of the University of Belgrade and a prominent supporter of Serbia's student protest movement, was infected with NSO Group's Pegasus spyware in 2026, the&nbsp;Citizen Lab said&nbsp;on Oc…"
+    },
+    {
+      "title": "AI Platform Cairn Abused to Hack Over 100 Organizations",
+      "link": "https://www.securityweek.com/ai-platform-cairn-abused-to-hack-over-100-organizations/",
+      "source": "SecurityWeek",
+      "pubDate": "2026-10-20T12:47:22.000Z",
+      "snippet": "At least three threat actors have been abusing Cairn for persistent access and financial theft. The post AI Platform Cairn Abused to Hack Over 100 Organizations appeared first on SecurityWeek ."
+    },
+    {
+      "title": "Ex-OpenAI Worker Accused of Bugging Conference Room Planned to Fly to Saudi Arabia, Prosecutors Say",
+      "link": "https://www.securityweek.com/ex-openai-worker-accused-of-bugging-conference-room-planned-to-fly-to-saudi-arabia-prosecutors-say/",
+      "source": "SecurityWeek",
+      "pubDate": "2026-10-20T12:33:12.000Z",
+      "snippet": "Abdulrahman Alfozan’s wife and young son also left the country the day after the 35-year-old Saudi national’s arrest. The post Ex-OpenAI Worker Accused of Bugging Conference Room Planned to Fly to Saudi Arabia, Prosecuto…"
+    },
+    {
+      "title": "Windows Server 2025 gets support for quick machine recovery",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-server-2025-gets-support-for-quick-machine-recovery/",
+      "source": "BleepingComputer",
+      "pubDate": "2026-10-20T12:16:32.000Z",
+      "snippet": "Microsoft announced that IT administrators can now use quick machine recovery on Windows Server 2025 after installing the October 2026 security update. [...]"
+    },
+    {
+      "title": "WhatsApp Hid Instructions in Help Pages Telling Its AI Chatbot Not to Recommend Privacy Regulators",
+      "link": "https://thehackernews.com/2026/10/whatsapp-hid-instructions-in-help-pages.html",
+      "source": "The Hacker News",
+      "pubDate": "2026-10-20T11:41:06.000Z",
+      "snippet": "WhatsApp's help pages carried hidden instructions for its support chatbot that told it not to recommend a data protection authority or regulator to users who could no longer delete their accounts, even though WhatsApp's…"
+    },
+    {
+      "title": "What Security Teams Can Do To Tame Wild Code",
+      "link": "https://thehackernews.com/2026/10/what-security-teams-can-do-to-tame-wild.html",
+      "source": "The Hacker News",
+      "pubDate": "2026-10-20T11:33:04.000Z",
+      "snippet": "A sales manager builds an AI-assisted workflow to route leads. It connects to customer records, summarizes inbound requests, and posts updates to a shared channel. The workflow saves time, reduces manual work, and soon b…"
+    },
+    {
+      "title": "Go Issues Emergency Update Blocking Eight CA Keys Over Undisclosed Security Concerns",
+      "link": "https://thehackernews.com/2026/10/go-issues-emergency-update-blocking.html",
+      "source": "The Hacker News",
+      "pubDate": "2026-10-20T11:32:59.000Z",
+      "snippet": "Go 1.27.3 and Go 1.26.10, released on October 20, make Go's certificate verifier reject any certificate chain that passes through one of&nbsp;eight intermediate certificate authority keys. Programs built on the new relea…"
+    },
     {
       "title": "OVHcloud CLI releases backdoored on GitHub to steal developer secrets",
       "link": "https://www.bleepingcomputer.com/news/security/ovhcloud-cli-releases-backdoored-on-github-to-steal-developer-secrets/",
@@ -21,6 +175,20 @@
       "source": "BleepingComputer",
       "pubDate": "2026-10-20T11:18:35.000Z",
       "snippet": "Ahold Delhaize, one of the world's largest food retail chains, confirmed that last week's cyberattack disrupted services at stores across Europe and the United States. [...]"
+    },
+    {
+      "title": "Russian APT28 Breaches NATO Naval Shipbuilder in NATO Country, Deploys New Reflective Loader",
+      "link": "https://thehackernews.com/2026/10/russian-apt28-breaches-nato-naval.html",
+      "source": "The Hacker News",
+      "pubDate": "2026-10-20T11:06:25.000Z",
+      "snippet": "The Russia-linked state-sponsored threat actor tracked as APT28 (aka BlueDelta, Fancy Bear, and Forest Blizzard) has been attributed to attacks targeting two member states of the North Atlantic Treaty Organization (NATO)…"
+    },
+    {
+      "title": "ConnectWise Resets Credentials as Cloud Backup Remains Offline After Security Incident",
+      "link": "https://thehackernews.com/2026/10/connectwise-resets-credentials-as-cloud.html",
+      "source": "The Hacker News",
+      "pubDate": "2026-10-20T10:56:08.000Z",
+      "snippet": "ConnectWise on Monday said it has taken remediation measures, including strengthening administrative-access protections and resetting accounts and replacing application credentials, as it continues to respond to a securi…"
     },
     {
       "title": "Hackers Steal 1.8 Million Records From Nikkei",
@@ -114,13 +282,6 @@
       "snippet": "WhatsApp argued that NSO Group violated a 2025 injunction against using the messaging app to spread spyware. A federal judge said WhatsApp hurt its case by not revealing enough information."
     },
     {
-      "title": "ConnectWise suspends Cloud Backup service after supply chain attack",
-      "link": "https://therecord.media/connectwise-suspends-cloud-backup-service-supply-chain-attack",
-      "source": "The Record",
-      "pubDate": "2026-10-19T19:45:00.000Z",
-      "snippet": "ConnectWise initially said on Friday that it was investigating “attempts of unauthorized access associated with the ConnectWise Cloud Backup environment,” and confirmed such access on Saturday."
-    },
-    {
       "title": "Hackers hijack AOMEI update servers to secretly spread malware",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-aomei-update-servers-to-secretly-spread-malware/",
       "source": "BleepingComputer",
@@ -140,13 +301,6 @@
       "source": "BleepingComputer",
       "pubDate": "2026-10-19T18:51:13.000Z",
       "snippet": "Staffing software company Bullhorn has disabled access to its platform to contain a cyberattack that caused a system-wide outage. [...]"
-    },
-    {
-      "title": "Two more Serbian opposition figures targeted with spyware, researchers say",
-      "link": "https://therecord.media/serbia-spyware-pegasus-elections",
-      "source": "The Record",
-      "pubDate": "2026-10-19T18:45:00.000Z",
-      "snippet": "A phone belonging to the rector of the University of Belgrade was discovered to have been infected with Pegasus spyware, the latest in a series of such discoveries in the lead-up to Serbia's national elections."
     },
     {
       "title": "Siemens Software Center Vulnerability Exploited in ClickFix Malware Attacks",
@@ -170,32 +324,11 @@
       "snippet": "The open-source AI coding project OpenCode has notified a small number of users that API keys they used with external providers were exposed in a security breach. [...]"
     },
     {
-      "title": "Ahold Delhaize confirms 'malicious actions' behind cyber outages affecting grocery brands",
-      "link": "https://therecord.media/ahold-delhaize-cyberattack-grocery",
-      "source": "The Record",
-      "pubDate": "2026-10-19T16:45:00.000Z",
-      "snippet": "Ahold Delhaize, the Dutch multinational grocery retailer, said Monday that a cyberattack forced it to take systems offline across most of its U.S. and European brands, impacting shoppers on both sides of the Atlantic."
-    },
-    {
       "title": "Popular WordPress SEO Plugin Rank Math PRO Hijacked to Deliver Self-Restoring Backdoor",
       "link": "https://thehackernews.com/2026/10/popular-wordpress-seo-plugin-rank-math.html",
       "source": "The Hacker News",
       "pubDate": "2026-10-19T16:28:47.000Z",
       "snippet": "Copies of Rank Math PRO, the paid version of the Rank Math SEO plugin for WordPress, that were downloaded from rankmath.com or delivered as updates between 20:02 UTC on October 15 and 07:12 UTC on October 16 contained ma…"
-    },
-    {
-      "title": "Drupal Warns of Fast Exploitation Risk for Critical Core RCE Flaw",
-      "link": "https://www.securityweek.com/drupal-warns-of-fast-exploitation-risk-for-critical-core-rce-flaw/",
-      "source": "SecurityWeek",
-      "pubDate": "2026-10-19T15:47:50.000Z",
-      "snippet": "Critical flaws impact the Entity List and Field UI modules, and exploit paths exist with contributed modules. The post Drupal Warns of Fast Exploitation Risk for Critical Core RCE Flaw appeared first on SecurityWeek ."
-    },
-    {
-      "title": "Rank Math PRO WordPress Plugin Compromised in Supply Chain Attack",
-      "link": "https://www.securityweek.com/rank-math-pro-wordpress-plugin-compromised-in-supply-chain-attack/",
-      "source": "SecurityWeek",
-      "pubDate": "2026-10-19T15:20:53.000Z",
-      "snippet": "Hackers injected malware into Rank Math PRO version 3.0.123 packages distributed between October 15 and October 16. The post Rank Math PRO WordPress Plugin Compromised in Supply Chain Attack appeared first on SecurityWee…"
     },
     {
       "title": "Microsoft fixes game, app crashes caused by recent Windows update",
@@ -210,13 +343,6 @@
       "source": "Dark Reading",
       "pubDate": "2026-10-19T14:28:11.000Z",
       "snippet": "Copyright takedown requests tied to OnlyFans and other adult content creators are revealing how attackers exploit vulnerable university and government websites to manipulate search results. UpGuard's Greg Pollock explain…"
-    },
-    {
-      "title": "⚡ Weekly Recap: 98 Zero-Days, Rogue AI Agents, $100M Crypto Theft, 700 Supermarkets Hit and More",
-      "link": "https://thehackernews.com/2026/10/weekly-recap-98-zero-days-rogue-ai.html",
-      "source": "The Hacker News",
-      "pubDate": "2026-10-19T14:14:07.000Z",
-      "snippet": "The worst problems don't always come with a warning. Sometimes they arrive through a service everyone trusts, a device someone bought, or a system nobody thought to check. By the time something looks wrong, the damage ma…"
     },
     {
       "title": "Inside the Underground Market for Know Your Client Services",
@@ -245,118 +371,6 @@
       "source": "Krebs on Security",
       "pubDate": "2026-10-19T13:48:56.000Z",
       "snippet": "U.S. federal investigators pursuing the ShinyHunters hacking group that recently stole highly sensitive data from the FBI have identified executives at two different ransomware negotiation firms who maintained unusually…"
-    },
-    {
-      "title": "ConnectWise Suspends Cloud Services in Response to Cyberattack",
-      "link": "https://www.securityweek.com/connectwise-suspends-cloud-services-in-response-to-cyberattack/",
-      "source": "SecurityWeek",
-      "pubDate": "2026-10-19T13:16:20.000Z",
-      "snippet": "The services remain unavailable as the company continues remediation and security validation. The post ConnectWise Suspends Cloud Services in Response to Cyberattack appeared first on SecurityWeek ."
-    },
-    {
-      "title": "GhostAction Attackers Plant Credential Stealer Disguised as Font in 94 GitHub Repositories",
-      "link": "https://thehackernews.com/2026/10/ghostaction-attackers-plant-credential.html",
-      "source": "The Hacker News",
-      "pubDate": "2026-10-19T13:05:45.000Z",
-      "snippet": "The threat actor behind the GhostAction supply chain attack has expanded beyond injecting malicious GitHub Actions workflows into compromised projects to phish open-source developers and deliver a stealer malware disguis…"
-    },
-    {
-      "title": "Microsoft fixes classic Outlook bug that hid Copilot buttons",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-that-hid-copilot-buttons-in-classic-outlook/",
-      "source": "BleepingComputer",
-      "pubDate": "2026-10-19T12:44:44.000Z",
-      "snippet": "Microsoft has fixed a known issue that removed the Copilot Chat and Copilot buttons in the classic Outlook desktop mail client for some Windows users. [...]"
-    },
-    {
-      "title": "Plex2Shell Exploit Chain Weaponized Against Plex Servers Hours After Disclosure",
-      "link": "https://www.securityweek.com/plex2shell-exploit-chain-weaponized-against-plex-servers-hours-after-disclosure/",
-      "source": "SecurityWeek",
-      "pubDate": "2026-10-19T12:44:39.000Z",
-      "snippet": "Threat actors have been observed delivering cryptocurrency miners and proxy software. The post Plex2Shell Exploit Chain Weaponized Against Plex Servers Hours After Disclosure appeared first on SecurityWeek ."
-    },
-    {
-      "title": "One Compromised Login Exposed Millions of California Students&#8217; Records",
-      "link": "https://www.securityweek.com/one-compromised-login-exposed-millions-of-california-students-records/",
-      "source": "SecurityWeek",
-      "pubDate": "2026-10-19T11:55:50.000Z",
-      "snippet": "Intruders used compromised credentials to access an ETS SFTP server, copying records of California students back to 2006. The post One Compromised Login Exposed Millions of California Students&#8217; Records appeared fir…"
-    },
-    {
-      "title": "From Email-to-Case to the Boardroom: How Inherited Agents Break Governance Built for Software",
-      "link": "https://thehackernews.com/2026/10/from-email-to-case-to-boardroom-how.html",
-      "source": "The Hacker News",
-      "pubDate": "2026-10-19T11:50:00.000Z",
-      "snippet": "In Salesforce Agentforce, the recommended way to make an agent respond to events is a Flow: a record is created or a case is updated, and the Flow passes data into the agent's prompt. Separately, Email-to-Case and Web-to…"
-    },
-    {
-      "title": "Exploited Fortinet Bug Linked to Stealthy FortiGate Implant in Telecom Hack",
-      "link": "https://www.securityweek.com/exploited-fortinet-bug-linked-to-stealthy-fortigate-implant-in-telecom-hack/",
-      "source": "SecurityWeek",
-      "pubDate": "2026-10-19T11:13:23.000Z",
-      "snippet": "The persistent, stealthy FortiGate implant was deployed against a telecommunications organization. The post Exploited Fortinet Bug Linked to Stealthy FortiGate Implant in Telecom Hack appeared first on SecurityWeek ."
-    },
-    {
-      "title": "Fake Web3 Accelerator Uses npm Packages to Spread Malware and Hijack AI Agent Traffic",
-      "link": "https://thehackernews.com/2026/10/fake-web3-accelerator-uses-npm-packages.html",
-      "source": "The Hacker News",
-      "pubDate": "2026-10-19T10:06:40.000Z",
-      "snippet": "A fake Web3 accelerator has been observed pushing information stealers and backdoors to Windows and macOS systems using malicious npm packages under the pretext of offering free artificial intelligence (AI) credits for A…"
-    },
-    {
-      "title": "Microsoft: October Windows Server updates break Exchange sign-in, mail flow",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-october-windows-server-updates-cause-exchange-issues/",
-      "source": "BleepingComputer",
-      "pubDate": "2026-10-19T08:58:41.000Z",
-      "snippet": "Microsoft has confirmed that this month's Windows Server security updates are causing OWA sign-in and mail delivery issues on some Exchange Server systems. [...]"
-    },
-    {
-      "title": "Unpatched Broadcom Wi-Fi Flaw Lets Attackers in Range Run Code as Root on Routers",
-      "link": "https://thehackernews.com/2026/10/unpatched-broadcom-wi-fi-flaw-lets.html",
-      "source": "The Hacker News",
-      "pubDate": "2026-10-19T06:29:44.000Z",
-      "snippet": "A flaw in Broadcom's Wi-Fi setup software lets an attacker within radio range run code as root on Broadcom-based routers, without the network password or any pairing step, security researcher Quentin Kaiser&nbsp;disclose…"
-    },
-    {
-      "title": "OpenCode Console Breach May Have Exposed OpenAI, Anthropic, and Google API Keys",
-      "link": "https://thehackernews.com/2026/10/opencode-console-breach-may-have.html",
-      "source": "The Hacker News",
-      "pubDate": "2026-10-19T06:07:08.000Z",
-      "snippet": "An intruder reached a legacy system at OpenCode on the night of October 16 and may have exposed the third-party AI provider keys that users had saved in OpenCode Console, the company said. Console is OpenCode's optional…"
-    },
-    {
-      "title": "Hackers exploit SiteGuard WAF flaw to run commands as admins",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-siteguard-waf-flaw-to-run-commands-as-system-root/",
-      "source": "BleepingComputer",
-      "pubDate": "2026-10-18T14:23:16.000Z",
-      "snippet": "Attackers are targeting an OS command injection vulnerability in SiteGuard Server Edition that lets them execute commands as root or SYSTEM on affected servers. [...]"
-    },
-    {
-      "title": "ConnectWise Suspends Cloud Backup After Attackers Compromise Microsoft 365 Tenants",
-      "link": "https://thehackernews.com/2026/10/connectwise-suspends-cloud-backup-after.html",
-      "source": "The Hacker News",
-      "pubDate": "2026-10-18T08:23:02.000Z",
-      "snippet": "ConnectWise on Saturday said it has disabled seven ConnectWise application identities as it continues its investigation into an incident in which unknown threat actors obtained unauthorized access to the application iden…"
-    },
-    {
-      "title": "Hackers breach Microsoft 365 tenants via ConnectWise supply-chain attack",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-breach-microsoft-365-tenants-via-connectwise-supply-chain-attack/",
-      "source": "BleepingComputer",
-      "pubDate": "2026-10-17T15:18:51.000Z",
-      "snippet": "ConnectWise has shut down customer access to its Cloud Backup service (formerly SkyKick Cloud Backup) after hackers accessed application identities and compromised Microsoft 365 tenants. [...]"
-    },
-    {
-      "title": "MALFEX npm Package 'imgdecode' Hides Shellcode Loader in Windows Native Addon",
-      "link": "https://thehackernews.com/2026/10/malfex-npm-package-imgdecode-hides.html",
-      "source": "The Hacker News",
-      "pubDate": "2026-10-17T11:11:56.000Z",
-      "snippet": "Cybersecurity researchers have discovered a malicious npm package that's part of a recently disclosed software supply chain attack campaign dubbed MALFEX. The package, named \"imgdecode,\" was uploaded to the package regis…"
-    },
-    {
-      "title": "Hackers Use Compromised ConnectWise Credential to Sign In to 173 Microsoft 365 Tenants",
-      "link": "https://thehackernews.com/2026/10/hackers-use-compromised-connectwise.html",
-      "source": "The Hacker News",
-      "pubDate": "2026-10-17T06:16:46.000Z",
-      "snippet": "Cybersecurity researchers are sounding the alarm related to an active campaign in which unknown threat actors are abusing a compromised Microsoft 365 (M365) credential belonging to ConnectWise Cloud Backup (formerly SkyK…"
     },
     {
       "title": "BeyondTrust Remote Support Zero-Day Continues Trend of Exploited Edge Bugs",
@@ -406,20 +420,6 @@
       "source": "Dark Reading",
       "pubDate": "2026-10-16T13:00:00.000Z",
       "snippet": "As agents escape containment and access external systems, responsibility remains human. Accountability, however, is much less settled."
-    },
-    {
-      "title": "SecTor 2026 Reveals a Rapidly Shifting Cybersecurity Landscape",
-      "link": "https://www.darkreading.com/cybersecurity-operations/sector-2026-reveals-a-rapidly-shifting-cybersecurity-landscape",
-      "source": "Dark Reading",
-      "pubDate": "2026-10-15T22:10:08.000Z",
-      "snippet": "The event closed in Toronto last week, with experts sharing critical perspectives on emerging risks, drawing record attendance and marking 22% growth."
-    },
-    {
-      "title": "F-Secure Launches Victim-First Scam Encyclopedia Covering 50+ Types of Consumer Fraud",
-      "link": "https://www.darkreading.com/threat-intelligence/f-secure-launches-victim-first-scam-encyclopedia-covering-50-types-of-consumer-fraud",
-      "source": "Dark Reading",
-      "pubDate": "2026-10-15T21:55:07.000Z",
-      "snippet": "Built from decades of threat intelligence research, the new resource explains scams from the victims' perspective and tracks emerging forms of cyber crime."
     }
   ]
 }
