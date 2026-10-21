@@ -1,6 +1,153 @@
 {
-  "generatedAt": "2026-10-21T11:51:35.673Z",
+  "generatedAt": "2026-10-21T17:14:10.786Z",
   "items": [
+    {
+      "title": "Google Hardens Chrome Against ClickFix Attacks, Insecure HTTP Connections",
+      "link": "https://www.securityweek.com/google-hardens-chrome-against-clickfix-attacks-insecure-http-connections/",
+      "source": "SecurityWeek",
+      "pubDate": "2026-10-21T17:00:00.000Z",
+      "snippet": "Protections have been added against scams and social engineering, including new site warnings and server-side Gemini analysis. The post Google Hardens Chrome Against ClickFix Attacks, Insecure HTTP Connections appeared f…"
+    },
+    {
+      "title": "PHP2Shell Patches Land as First Exploitation Attempts Hit Sensors",
+      "link": "https://www.securityweek.com/php2shell-patches-land-as-first-exploitation-attempts-hit-sensors/",
+      "source": "SecurityWeek",
+      "pubDate": "2026-10-21T16:50:40.000Z",
+      "snippet": "The two RCE bugs can be exploited against WordPress, Drupal, Joomla, and other popular applications. The post PHP2Shell Patches Land as First Exploitation Attempts Hit Sensors appeared first on SecurityWeek ."
+    },
+    {
+      "title": "OVHcloud GitHub Compromise Tied to GlassWorm Threat Actors",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/ovhcloud-github-compromise-glassworm-threat-actors",
+      "source": "Dark Reading",
+      "pubDate": "2026-10-21T16:50:15.000Z",
+      "snippet": "A developer's GitHub account that was compromised several months earlier was used to push malicious code to unsuspecting users."
+    },
+    {
+      "title": "OpenAI agents disabled safety monitoring, one lied about it",
+      "link": "https://www.bleepingcomputer.com/news/security/openai-agents-disabled-safety-monitoring-one-lied-about-it/",
+      "source": "BleepingComputer",
+      "pubDate": "2026-10-21T16:26:53.000Z",
+      "snippet": "OpenAI agents powered by the GPT-6.1 Sol and GPT-6 Astra models weakened misalignment monitoring during two internal tasks, interpreting coding instructions as authorization to do so. [...]"
+    },
+    {
+      "title": "Optiv Launches CyberBOT Cybersecurity Awareness Training Program",
+      "link": "https://www.darkreading.com/cybersecurity-operations/optiv-launches-cyberbot-cybersecurity-awareness-training-program",
+      "source": "Dark Reading",
+      "pubDate": "2026-10-21T15:44:48.000Z",
+      "snippet": "Hands-on sessions provide educators, nonprofits, and community leaders with an accessible resource to foster year-round cyber awareness and build more resilient communities."
+    },
+    {
+      "title": "Survey Finds High-Profile Executives Feel Untouchable as Digital Exposure Turns Into Physical Risk",
+      "link": "https://www.darkreading.com/cybersecurity-operations/360-privacy-survey-high-profile-executives-feel-untouchable",
+      "source": "Dark Reading",
+      "pubDate": "2026-10-21T15:29:09.000Z",
+      "snippet": "360 Privacy finds more than 8 in 10 security and wealth professionals say cybersecurity and physical security can no longer be separated."
+    },
+    {
+      "title": "Widespread PHP Flaw May Cause Many Site Outages Today",
+      "link": "https://krebsonsecurity.com/2026/10/widespread-php-flaw-may-cause-many-site-outages-today/",
+      "source": "Krebs on Security",
+      "pubDate": "2026-10-21T15:26:07.000Z",
+      "snippet": "Expect to see quite a few websites serving \"404\" or \"Page Not Found\" errors today: Nearly 70 percent of websites need to update their core software to fix a pair of vulnerabilities that allow an attacker to seize full co…"
+    },
+    {
+      "title": "‘Context Bombs’ Cut AI Attack Success by Misleading Agents With Fake Targets",
+      "link": "https://www.securityweek.com/context-bombs-cut-ai-attack-success-by-misleading-agents-with-fake-targets/",
+      "source": "SecurityWeek",
+      "pubDate": "2026-10-21T15:00:00.000Z",
+      "snippet": "Deceptive prompts lure AI agents into decoys and dead ends, cutting attack success by up to 91% in tests and raising the cost of a successful attack 23-fold. The post ‘Context Bombs’ Cut AI Attack Success by Misleading A…"
+    },
+    {
+      "title": "High-Severity Flaws Exploited in Three Days as Ransomware Dominates Q3: Rapid7",
+      "link": "https://www.securityweek.com/high-severity-flaws-exploited-in-three-days-as-ransomware-dominates-q3-rapid7/",
+      "source": "SecurityWeek",
+      "pubDate": "2026-10-21T14:45:00.000Z",
+      "snippet": "Rapid7’s Q3 analysis finds high-severity flaws exploited within three days on average, while AI appeared in just 8% of tracked incidents. The post High-Severity Flaws Exploited in Three Days as Ransomware Dominates Q3: R…"
+    },
+    {
+      "title": "Hundreds of websites taken offline as concern grows over two PHP vulnerabilities",
+      "link": "https://therecord.media/php-script-vulnerabilities-warnings",
+      "source": "The Record",
+      "pubDate": "2026-10-21T14:17:00.000Z",
+      "snippet": "The maintainers of the globally used PHP scripting language released patches for two vulnerabilities after alerting users that the bugs were severe."
+    },
+    {
+      "title": "PHP ships emergency patches for critical PHP2Shell flaws",
+      "link": "https://www.bleepingcomputer.com/news/security/php-ships-emergency-patches-for-critical-php2shell-flaws/",
+      "source": "BleepingComputer",
+      "pubDate": "2026-10-21T14:07:05.000Z",
+      "snippet": "The PHP security team released emergency security patches for two critical remote code execution (RCE) vulnerabilities (CVE-2026-109618 and CVE-2026-109619) tracked collectively as PHP2Shell. [...]"
+    },
+    {
+      "title": "ClickFix has never been bigger, and AI tools are its most convincing lure yet",
+      "link": "https://www.bleepingcomputer.com/news/security/clickfix-has-never-been-bigger-and-ai-tools-are-its-most-convincing-lure-yet/",
+      "source": "BleepingComputer",
+      "pubDate": "2026-10-21T14:00:10.000Z",
+      "snippet": "ClickFix attacks are surging as cybercriminals use fake AI installers, malicious search results, and trusted chatbot platforms to trick users into executing malware. Push Security examines how these attacks evade traditi…"
+    },
+    {
+      "title": "PHP Issues Emergency Patches for Two Critical PHP2Shell RCE Flaws as Exploit Attempts Emerge",
+      "link": "https://thehackernews.com/2026/10/php-issues-emergency-patches-for-two.html",
+      "source": "The Hacker News",
+      "pubDate": "2026-10-21T14:00:00.000Z",
+      "snippet": "PHP has released emergency updates that fix two critical flaws in the language itself, letting an attacker without an account run code on a web server. The fixes are in PHP 8.5.12, 8.4.27, 8.3.36 and 8.2.35, and the PHP…"
+    },
+    {
+      "title": "Asymptote Labs Lands $5.5 Million Seed for AI Agent Runtime Security",
+      "link": "https://www.securityweek.com/asymptote-labs-lands-5-5-million-seed-for-ai-agent-runtime-security/",
+      "source": "SecurityWeek",
+      "pubDate": "2026-10-21T13:17:35.000Z",
+      "snippet": "Asymptote Labs raises $5.5M seed led by Tower Research Ventures to commercialize its Beacon AI agent runtime security platform. The post Asymptote Labs Lands $5.5 Million Seed for AI Agent Runtime Security appeared first…"
+    },
+    {
+      "title": "Google Chrome Adds ClickFix Warnings to Stop Users From Running Malicious Commands",
+      "link": "https://thehackernews.com/2026/10/google-chrome-adds-clickfix-warnings-to.html",
+      "source": "The Hacker News",
+      "pubDate": "2026-10-21T13:15:09.000Z",
+      "snippet": "Google on Tuesday said it's rolling out improved safeguards in its Chrome browser to secure users against ClickFix attacks when Enhanced Protection is enabled. ClickFix is a popular social engineering technique in which…"
+    },
+    {
+      "title": "Decades-Old Windows Utility Powers Modern ClickFix Attack",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/decades-old-windows-utility-modern-clickfix-attack",
+      "source": "Dark Reading",
+      "pubDate": "2026-10-21T13:00:00.000Z",
+      "snippet": "The attack uses malicious Google search results related to Amazon and leverages the 'finger' utility to launch a CAPTCHA that installs malware, including the Lumma stealer."
+    },
+    {
+      "title": "Memory Bugs Account for Most of Chrome&#8217;s 353 New Security Fixes",
+      "link": "https://www.securityweek.com/memory-bugs-account-for-most-of-chromes-353-new-security-fixes/",
+      "source": "SecurityWeek",
+      "pubDate": "2026-10-21T12:57:47.000Z",
+      "snippet": "The update fixes 353 flaws, including 163 memory corruption and 125 use-after-free vulnerabilities. The post Memory Bugs Account for Most of Chrome&#8217;s 353 New Security Fixes appeared first on SecurityWeek ."
+    },
+    {
+      "title": "OpenAI Agents Silenced Security Team Alerts, Removed Misalignment Monitor",
+      "link": "https://www.securityweek.com/openai-agents-silenced-security-team-alerts-removed-misalignment-monitor/",
+      "source": "SecurityWeek",
+      "pubDate": "2026-10-21T12:34:22.000Z",
+      "snippet": "In two internal incidents, agents read routine coding instructions as permission to weaken monitoring, and one gave a false answer about it. The post OpenAI Agents Silenced Security Team Alerts, Removed Misalignment Moni…"
+    },
+    {
+      "title": "Microsoft PowerToys adds CursorHide, Button Lock mouse tools",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-powertoys-adds-cursorhide-button-lock-mouse-tools/",
+      "source": "BleepingComputer",
+      "pubDate": "2026-10-21T12:20:34.000Z",
+      "snippet": "Microsoft has released PowerToys 0.102, with two new mouse utilities, new command-line tools, and Command Palette improvements. [...]"
+    },
+    {
+      "title": "China-Aligned Bronze Sandcastle Abuses Sandboxie DLL Sideloading to Deploy Backdoors",
+      "link": "https://thehackernews.com/2026/10/china-aligned-bronze-sandcastle-abuses.html",
+      "source": "The Hacker News",
+      "pubDate": "2026-10-21T12:05:00.000Z",
+      "snippet": "Cybersecurity researchers have disclosed details of a previously undocumented China-aligned threat cluster known as Bronze Sandcastle that has been observed targeting organizations in Asia and Africa since mid-2025. \"The…"
+    },
+    {
+      "title": "Generative AI Is Erasing Behavioral Tells, Weakening Behavior-Only Detection, Proofpoint Reports",
+      "link": "https://thehackernews.com/2026/10/generative-ai-is-erasing-behavioral.html",
+      "source": "The Hacker News",
+      "pubDate": "2026-10-21T11:53:34.000Z",
+      "snippet": "Generative AI has changed what a malicious email looks like. Messages that once gave themselves away through clumsy wording, generic pretexts, and reused templates now arrive fluent, personalized, and unique to each reci…"
+    },
     {
       "title": "Browsers Block eMudhra Intermediate CAs Over Recoverable Private Keys",
       "link": "https://www.securityweek.com/browsers-block-emudhra-intermediate-cas-over-recoverable-private-keys/",
@@ -93,32 +240,11 @@
       "snippet": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added four vulnerabilities to its Known Exploited Vulnerabilities (KEV) catalog, including four vulnerabilities impacting Plex Media Server that…"
     },
     {
-      "title": "PHP2Shell: Mass Exploitation Looms for Leaked Critical PHP Flaws",
-      "link": "https://www.securityweek.com/php2shell-mass-exploitation-looms-for-leaked-critical-php-flaws/",
-      "source": "SecurityWeek",
-      "pubDate": "2026-10-21T07:02:06.000Z",
-      "snippet": "Tracked as CVE-2026-109618 and CVE-2026-109619, the bugs could potentially lead to unauthenticated remote code execution. The post PHP2Shell: Mass Exploitation Looms for Leaked Critical PHP Flaws appeared first on Securi…"
-    },
-    {
       "title": "Hackers Hid Vasilek Backdoor in VMware Tools During 2-Year Russian Healthcare Intrusion",
       "link": "https://thehackernews.com/2026/10/hackers-hid-vasilek-backdoor-in-vmware.html",
       "source": "The Hacker News",
       "pubDate": "2026-10-21T06:05:15.000Z",
       "snippet": "A Belarus-aligned hacktivist group spent nearly two years within the network of a Russian healthcare organization. According to a report published by Russian cybersecurity firm Solar, the activity has been attributed to…"
-    },
-    {
-      "title": "Hijacked Developer Account Used to Plant Stealer in OVHcloud CLI",
-      "link": "https://www.securityweek.com/hijacked-developer-account-used-to-plant-stealer-in-ovhcloud-cli/",
-      "source": "SecurityWeek",
-      "pubDate": "2026-10-21T06:02:27.000Z",
-      "snippet": "Researchers say the developer’s account was compromised in March with a GlassWorm-linked loader. The post Hijacked Developer Account Used to Plant Stealer in OVHcloud CLI appeared first on SecurityWeek ."
-    },
-    {
-      "title": "Accenture, Dragos, SANS Launch $10M Initiative to Defend Small US Utilities",
-      "link": "https://www.securityweek.com/accenture-dragos-sans-launch-10m-initiative-to-defend-small-us-utilities/",
-      "source": "SecurityWeek",
-      "pubDate": "2026-10-21T04:22:11.000Z",
-      "snippet": "The first phase will cover up to 500 utilities, which will get free security tools, equipment, deployment help and training. The post Accenture, Dragos, SANS Launch $10M Initiative to Defend Small US Utilities appeared f…"
     },
     {
       "title": "Stolen UpdraftCentral keys used to backdoor WordPress sites",
@@ -205,13 +331,6 @@
       "snippet": "The private keys of eight eMudhra intermediate certificate authority (CA) certificates are compromised,&nbsp;Mozilla&nbsp;and&nbsp;Google's Chrome Root Program&nbsp;confirms on October 20. An intermediate CA signs the ce…"
     },
     {
-      "title": "US Agencies Detail Incident Response Practices for Rogue AI Agents",
-      "link": "https://www.securityweek.com/us-agencies-detail-incident-response-practices-for-rogue-ai-agents/",
-      "source": "SecurityWeek",
-      "pubDate": "2026-10-20T15:45:00.000Z",
-      "snippet": "NIST, CISA and NSA share ten voluntary practices for preparing for, detecting, responding to, recovering from, and reporting rogue AI agent incidents. The post US Agencies Detail Incident Response Practices for Rogue AI…"
-    },
-    {
       "title": "Critical FortiSIEM Flaw Gets Public Exploit PoC for Unauthenticated Remote Code Execution",
       "link": "https://thehackernews.com/2026/10/critical-fortisiem-flaw-gets-public.html",
       "source": "The Hacker News",
@@ -223,21 +342,7 @@
       "link": "https://www.darkreading.com/application-security/close-identity-gaps-sdlc-before-ai",
       "source": "Dark Reading",
       "pubDate": "2026-10-20T15:35:45.000Z",
-      "snippet": "Artificial Intelligence is complicating security in the software development lifecycle, but a Dark Reading roundtable found collaboration, better identity visibility, and reduced testing costs offer CISOs a way ahead."
-    },
-    {
-      "title": "Qilin and INC Ransomware Groups Exploit Palo Alto Networks Flaw to Bypass MFA",
-      "link": "https://thehackernews.com/2026/10/qilin-and-inc-ransomware-groups-exploit.html",
-      "source": "The Hacker News",
-      "pubDate": "2026-10-20T15:32:27.000Z",
-      "snippet": "Palo Alto Networks has disclosed that it's continuing to observe exploitation of a now-patched security flaw impacting&nbsp; PAN-OS and Prisma Access by ransomware actors. The activity relates to CVE-2026-0257 (CVSS scor…"
-    },
-    {
-      "title": "EU cyber law won’t force fixes for fridge controllers hit in French attack",
-      "link": "https://therecord.media/eu-cyber-law-wont-force-fixes-for-fridges-in-french-attack",
-      "source": "The Record",
-      "pubDate": "2026-10-20T14:55:00.000Z",
-      "snippet": "The EU’s Cyber Resilience Act that took effect last month only requires companies to fix vulnerabilities and issue free updates during a product's support period, which manufacturers define."
+      "snippet": "Artificial intelligence is complicating security in the software development life cycle, but a Dark Reading roundtable found collaboration, better identity visibility, and reduced testing costs offer CISOs a way ahead."
     },
     {
       "title": "Hackers Abuse AI Pen-Test Tool Cairn to Automate Massive Attack Spree",
@@ -254,32 +359,11 @@
       "snippet": "The U.S. Department of Homeland Security (DHS) is ordering federal civilian agencies to stop using DeepSeek products and remove them from government systems. [...]"
     },
     {
-      "title": "Hackers Use Autonomous AI Agents to Breach Company Websites, Target Over 1,200 Sites",
-      "link": "https://thehackernews.com/2026/10/hackers-use-autonomous-ai-agents-to.html",
-      "source": "The Hacker News",
-      "pubDate": "2026-10-20T14:07:17.000Z",
-      "snippet": "A Chinese-speaking criminal pointed autonomous AI agents at company websites and let them break in with almost no help, and a security researcher watched it happen because the operators left their control panels open on…"
-    },
-    {
-      "title": "AOMEI Backupper Compromised in Short-Burst Supply Chain Campaign",
-      "link": "https://www.securityweek.com/aomei-backupper-compromised-in-short-burst-supply-chain-campaign/",
-      "source": "SecurityWeek",
-      "pubDate": "2026-10-20T13:51:01.000Z",
-      "snippet": "Across multiple short compromise windows, users were served a downloader for the ShinyRoad modular backdoor framework. The post AOMEI Backupper Compromised in Short-Burst Supply Chain Campaign appeared first on SecurityW…"
-    },
-    {
       "title": "CJIS v6.1 Compliance: 5 Practical Priorities for Agencies",
       "link": "https://www.bleepingcomputer.com/news/security/cjis-v61-compliance-5-practical-priorities-for-agencies/",
       "source": "BleepingComputer",
       "pubDate": "2026-10-20T13:51:00.000Z",
       "snippet": "CJIS v6.1 requires agencies to maintain strong authentication, account security, and audit controls while demonstrating ongoing compliance. Specops outlines five practical priorities covering MFA, account management, pas…"
-    },
-    {
-      "title": "The Key to AI Software Security Isn’t Speed, It’s Maturity",
-      "link": "https://www.securityweek.com/the-key-to-ai-software-security-isnt-speed-its-maturity/",
-      "source": "SecurityWeek",
-      "pubDate": "2026-10-20T13:34:23.000Z",
-      "snippet": "Where your developers sit on the AI adoption scale has a real impact on how you are addressing security risk. The post The Key to AI Software Security Isn’t Speed, It’s Maturity appeared first on SecurityWeek ."
     },
     {
       "title": "Hacker gets 8 years for stealing $3.3 million from taxpayers",
@@ -289,60 +373,11 @@
       "snippet": "A Nigerian national was sentenced to eight years in prison for his involvement in a series of spearphishing attacks targeting US tax preparation businesses since 2019. [...]"
     },
     {
-      "title": "Ahold Delhaize Restoring Services Disrupted by Cyberattack",
-      "link": "https://www.securityweek.com/ahold-delhaize-restoring-services-disrupted-by-cyberattack/",
-      "source": "SecurityWeek",
-      "pubDate": "2026-10-20T13:02:18.000Z",
-      "snippet": "The company has restored many websites and apps in Europe and expects e-commerce brands in the US to be restored in days. The post Ahold Delhaize Restoring Services Disrupted by Cyberattack appeared first on SecurityWeek…"
-    },
-    {
-      "title": "Pegasus Spyware Infection Confirmed on Serbian University Rector's iPhone Days Before Election",
-      "link": "https://thehackernews.com/2026/10/pegasus-spyware-infection-confirmed-on.html",
-      "source": "The Hacker News",
-      "pubDate": "2026-10-20T12:59:44.000Z",
-      "snippet": "The iPhone of Vladan Đokić, rector of the University of Belgrade and a prominent supporter of Serbia's student protest movement, was infected with NSO Group's Pegasus spyware in 2026, the&nbsp;Citizen Lab said&nbsp;on Oc…"
-    },
-    {
       "title": "Windows Server 2025 gets support for quick machine recovery",
       "link": "https://www.bleepingcomputer.com/news/microsoft/windows-server-2025-gets-support-for-quick-machine-recovery/",
       "source": "BleepingComputer",
       "pubDate": "2026-10-20T12:16:32.000Z",
       "snippet": "Microsoft announced that IT administrators can now use quick machine recovery on Windows Server 2025 after installing the October 2026 security update. [...]"
-    },
-    {
-      "title": "WhatsApp Hid Instructions in Help Pages Telling Its AI Chatbot Not to Recommend Privacy Regulators",
-      "link": "https://thehackernews.com/2026/10/whatsapp-hid-instructions-in-help-pages.html",
-      "source": "The Hacker News",
-      "pubDate": "2026-10-20T11:41:06.000Z",
-      "snippet": "WhatsApp's help pages carried hidden instructions for its support chatbot that told it not to recommend a data protection authority or regulator to users who could no longer delete their accounts, even though WhatsApp's…"
-    },
-    {
-      "title": "OVHcloud CLI releases backdoored on GitHub to steal developer secrets",
-      "link": "https://www.bleepingcomputer.com/news/security/ovhcloud-cli-releases-backdoored-on-github-to-steal-developer-secrets/",
-      "source": "BleepingComputer",
-      "pubDate": "2026-10-20T11:31:22.000Z",
-      "snippet": "French cloud and hosting provider OVHcloud is warning users that attackers compromised its open-source command-line interface (CLI) tool to distribute information-stealing malware. [...]"
-    },
-    {
-      "title": "Ahold Delhaize: Cyberattack affects services across US and Europe",
-      "link": "https://www.bleepingcomputer.com/news/security/ahold-delhaize-cyberattack-affects-services-across-us-and-europe/",
-      "source": "BleepingComputer",
-      "pubDate": "2026-10-20T11:18:35.000Z",
-      "snippet": "Ahold Delhaize, one of the world's largest food retail chains, confirmed that last week's cyberattack disrupted services at stores across Europe and the United States. [...]"
-    },
-    {
-      "title": "Revolut outage disrupts online banking operations worldwide",
-      "link": "https://www.bleepingcomputer.com/news/security/revolut-outage-disrupts-online-banking-operations-worldwide/",
-      "source": "BleepingComputer",
-      "pubDate": "2026-10-20T09:46:44.000Z",
-      "snippet": "Fintech company Revolut is working to resolve a massive outage that disrupted most of its services worldwide earlier today. [...]"
-    },
-    {
-      "title": "Nikkei discloses third data breach in a month, 1.8M records exposed",
-      "link": "https://www.bleepingcomputer.com/news/security/nikkei-discloses-third-data-breach-in-a-month-18m-records-exposed/",
-      "source": "BleepingComputer",
-      "pubDate": "2026-10-19T21:49:48.000Z",
-      "snippet": "Nikkei Inc. disclosed a new data breach, the third in about a month, that exposed 1.83 million personal information records. [...]"
     },
     {
       "title": "Researchers Infiltrate Microsoft Tech Support Scam Operation",
@@ -385,41 +420,6 @@
       "source": "Krebs on Security",
       "pubDate": "2026-10-19T13:48:56.000Z",
       "snippet": "U.S. federal investigators pursuing the ShinyHunters hacking group that recently stole highly sensitive data from the FBI have identified executives at two different ransomware negotiation firms who maintained unusually…"
-    },
-    {
-      "title": "BeyondTrust Remote Support Zero-Day Continues Trend of Exploited Edge Bugs",
-      "link": "https://www.darkreading.com/endpoint-security/beyondtrust-remote-support-exploited-edge-bugs",
-      "source": "Dark Reading",
-      "pubDate": "2026-10-16T20:34:37.000Z",
-      "snippet": "Ivanti, Cisco, and Palo Alto Networks all had vulnerabilities in edge devices come under fire this week. Now BeyondTrust joins the group."
-    },
-    {
-      "title": "Fake Claude, ChatGPT Attacks Surge, Putting Developers at Risk",
-      "link": "https://www.darkreading.com/application-security/fake-claude-chatgpt-attacks-developers-risk",
-      "source": "Dark Reading",
-      "pubDate": "2026-10-16T19:49:30.000Z",
-      "snippet": "Campaigns that impersonate popular AI brands are on the rise, and they typically use ClickFix-like tactics to target unsuspecting enterprise employees."
-    },
-    {
-      "title": "Biomemory Launches DNA Shield, First Commercial Product Built on Its Molecular IT Platform",
-      "link": "https://www.darkreading.com/data-privacy/biomemory-launches-dna-shield",
-      "source": "Dark Reading",
-      "pubDate": "2026-10-16T19:22:12.000Z",
-      "snippet": "The launch follows the acquisition of catalog's assets and the appointment of Laurent Guengant as CEO earlier this year."
-    },
-    {
-      "title": "Enterprise AI Enters Risk Management Phase as Security Concerns Rise",
-      "link": "https://www.darkreading.com/cyber-risk/enterprise-ai-risk-management-phase-security-concerns-rise",
-      "source": "Dark Reading",
-      "pubDate": "2026-10-16T19:13:59.000Z",
-      "snippet": "Companies are increasingly discovering that the challenge with AI is no longer adoption, but execution."
-    },
-    {
-      "title": "AI Takes Control of Robotic Arm in 16 Minutes Flat",
-      "link": "https://www.darkreading.com/ics-ot-security/ai-takes-control-robotic-arm-16-minutes",
-      "source": "Dark Reading",
-      "pubDate": "2026-10-16T18:37:50.000Z",
-      "snippet": "Most OT devices at utilities, factories, and elsewhere have been deployed for a decade or more, but operators need to get agile and deploy new cyber defenses."
     }
   ]
 }
