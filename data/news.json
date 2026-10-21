@@ -1,6 +1,34 @@
 {
-  "generatedAt": "2026-10-20T21:38:53.311Z",
+  "generatedAt": "2026-10-21T04:50:40.794Z",
   "items": [
+    {
+      "title": "Accenture, Dragos, SANS Launch $10M Initiative to Defend Small US Utilities",
+      "link": "https://www.securityweek.com/accenture-dragos-sans-launch-10m-initiative-to-defend-small-us-utilities/",
+      "source": "SecurityWeek",
+      "pubDate": "2026-10-21T04:22:11.000Z",
+      "snippet": "The first phase will cover up to 500 utilities, which will get free security tools, equipment, deployment help and training. The post Accenture, Dragos, SANS Launch $10M Initiative to Defend Small US Utilities appeared f…"
+    },
+    {
+      "title": "Stolen UpdraftCentral keys used to backdoor WordPress sites",
+      "link": "https://www.bleepingcomputer.com/news/security/stolen-updraftcentral-keys-used-to-backdoor-wordpress-sites/",
+      "source": "BleepingComputer",
+      "pubDate": "2026-10-21T01:01:50.000Z",
+      "snippet": "A threat actor breached TeamUpdraft's website, a developer of popular WordPress backup and security plugins, potentially compromising UpdraftCentral connection keys that can send commands to connected websites. [...]"
+    },
+    {
+      "title": "Mozilla, Google, Apple block compromised eMudhra CA certificates",
+      "link": "https://www.bleepingcomputer.com/news/security/mozilla-google-apple-block-compromised-emudhra-ca-certificates/",
+      "source": "BleepingComputer",
+      "pubDate": "2026-10-21T00:46:42.000Z",
+      "snippet": "Certificate authority eMudhra revoked eight compromised intermediate certificates after researchers found their private keys were so weak that anyone could recover them almost instantly and use them to forge trusted cert…"
+    },
+    {
+      "title": "Tech Giants Block eMudhra Certificates Tied to 8 Compromised Keys",
+      "link": "https://www.darkreading.com/cyber-risk/tech-giants-emudhra-certificates-compromised-keys",
+      "source": "Dark Reading",
+      "pubDate": "2026-10-20T21:45:47.000Z",
+      "snippet": "Google, Mozilla, Apple, the Go project and others moved swiftly to block the affected certificates from the Indian CA, though it's unclear how the keys were compromised."
+    },
     {
       "title": "PHP warns admins of two critical flaws, emergency patches coming tomorrow",
       "link": "https://www.bleepingcomputer.com/news/security/php-warns-admins-of-two-critical-flaws-emergency-patches-coming-tomorrow/",
@@ -331,32 +359,11 @@
       "snippet": "Researchers say attackers authenticated into Microsoft 365 tenants using ConnectWise credentials; ConnectWise says customer impact remains unconfirmed."
     },
     {
-      "title": "Bullhorn takes staffing platform offline to contain cyberattack",
-      "link": "https://www.bleepingcomputer.com/news/security/bullhorn-takes-staffing-platform-offline-to-contain-cyberattack/",
-      "source": "BleepingComputer",
-      "pubDate": "2026-10-19T18:51:13.000Z",
-      "snippet": "Staffing software company Bullhorn has disabled access to its platform to contain a cyberattack that caused a system-wide outage. [...]"
-    },
-    {
-      "title": "Siemens Software Center Vulnerability Exploited in ClickFix Malware Attacks",
-      "link": "https://www.securityweek.com/siemens-software-center-vulnerability-exploited-in-clickfix-malware-attacks/",
-      "source": "SecurityWeek",
-      "pubDate": "2026-10-19T18:15:39.000Z",
-      "snippet": "Attackers paired a genuine, signed copy of Siemens Software Center with malicious DLLs to infect Windows PCs via ClickFix lures. The post Siemens Software Center Vulnerability Exploited in ClickFix Malware Attacks appear…"
-    },
-    {
       "title": "Hackers Exploit Plex2Shell Flaws to Install Crypto Miners and Linux Proxy Backdoor",
       "link": "https://thehackernews.com/2026/10/hackers-exploit-plex2shell-flaws-to.html",
       "source": "The Hacker News",
       "pubDate": "2026-10-19T17:32:13.000Z",
       "snippet": "Threat actors have begun to exploit a chain of vulnerabilities in Plex Media Server to deploy cryptocurrency miners and reverse proxy software, a day after a proof-of-concept (PoC) went public. According to a researcher…"
-    },
-    {
-      "title": "OpenCode hack exposes API keys amid AI distillation attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/opencode-hack-exposes-api-keys-amid-ai-distillation-attacks/",
-      "source": "BleepingComputer",
-      "pubDate": "2026-10-19T17:27:15.000Z",
-      "snippet": "The open-source AI coding project OpenCode has notified a small number of users that API keys they used with external providers were exposed in a security breach. [...]"
     },
     {
       "title": "OnlyFans Copyright Takedowns Expose Compromised Websites",
@@ -413,13 +420,6 @@
       "source": "Dark Reading",
       "pubDate": "2026-10-16T18:37:50.000Z",
       "snippet": "Most OT devices at utilities, factories, and elsewhere have been deployed for a decade or more, but operators need to get agile and deploy new cyber defenses."
-    },
-    {
-      "title": "When Your Ransomware Negotiator Works for the Other Side",
-      "link": "https://www.darkreading.com/cyber-risk/when-your-ransomware-negotiator-works-other-side",
-      "source": "Dark Reading",
-      "pubDate": "2026-10-16T14:00:00.000Z",
-      "snippet": "The shocking arrest of a well-known ransomware negotiator reveals the critical need for vendor program oversight."
     }
   ]
 }
