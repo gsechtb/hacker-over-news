@@ -1,6 +1,13 @@
 {
-  "generatedAt": "2026-10-21T21:44:30.244Z",
+  "generatedAt": "2026-10-22T04:49:52.011Z",
   "items": [
+    {
+      "title": "Google Chrome adds Gemini-powered scam detection, warns users of ClickFix attacks",
+      "link": "https://www.bleepingcomputer.com/news/google/google-chrome-adds-gemini-powered-scam-detection-warns-users-of-clickfix-attacks/",
+      "source": "BleepingComputer",
+      "pubDate": "2026-10-21T22:16:26.000Z",
+      "snippet": "Chrome is getting new scam protections that use Gemini to detect deceptive websites and warn users when they copy suspicious commands from ClickFix attacks. [...]"
+    },
     {
       "title": "Japan's Onamae Desktop Cloud hacked, up to 27,000 servers affected",
       "link": "https://www.bleepingcomputer.com/news/security/japans-onamae-desktop-cloud-hacked-up-to-27-000-servers-affected/",
@@ -399,13 +406,6 @@
       "source": "Dark Reading",
       "pubDate": "2026-10-20T14:36:05.000Z",
       "snippet": "A Chinese-speaking attacker has compromised hundreds of websites across the globe, looting from big fish like John Deere, SharkNinja, and engine manufacturer Cummins."
-    },
-    {
-      "title": "DHS bans DeepSeek products across US federal civilian agencies",
-      "link": "https://www.bleepingcomputer.com/news/security/dhs-bans-deepseek-products-across-us-federal-civilian-agencies/",
-      "source": "BleepingComputer",
-      "pubDate": "2026-10-20T14:19:05.000Z",
-      "snippet": "The U.S. Department of Homeland Security (DHS) is ordering federal civilian agencies to stop using DeepSeek products and remove them from government systems. [...]"
     },
     {
       "title": "Researchers Infiltrate Microsoft Tech Support Scam Operation",
