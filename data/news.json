@@ -1,6 +1,97 @@
 {
-  "generatedAt": "2026-10-22T11:55:25.245Z",
+  "generatedAt": "2026-10-22T17:12:33.828Z",
   "items": [
+    {
+      "title": "Microsoft blames ConnectWise attacks on Chinese state hacker using ARTEX AI agents",
+      "link": "https://therecord.media/china-cyber-connectwise-ai",
+      "source": "The Record",
+      "pubDate": "2026-10-22T16:30:00.000Z",
+      "snippet": "A Chinese government-aligned hacking group used automated tools to carry out the recent supply chain attack on IT management software company ConnectWise and is using the same techniques to try to compromise organization…"
+    },
+    {
+      "title": "Meta Ordered to Pay $25 Billion After Court Finds 43 Million Privacy Violations",
+      "link": "https://thehackernews.com/2026/10/meta-ordered-to-pay-25-billion-after.html",
+      "source": "The Hacker News",
+      "pubDate": "2026-10-22T16:12:31.000Z",
+      "snippet": "Social media giant Meta was ordered to pay 25 billion in penalties by a New Mexico court on Wednesday as part of a data privacy lawsuit that sprang from the company's Cambridge Analytica data scandal, which came to light…"
+    },
+    {
+      "title": "Microsoft shares how to fix broken Exchange Online EWS apps",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-how-to-fix-broken-exchange-online-ews-apps/",
+      "source": "BleepingComputer",
+      "pubDate": "2026-10-22T15:49:32.000Z",
+      "snippet": "Microsoft says IT admins can re-enable the retired Exchange Web Services (EWS) API in Exchange Online to fix EWS apps that have stopped working. [...]"
+    },
+    {
+      "title": "Hacker Conversations: Corey Thuen and the Evil Bit",
+      "link": "https://www.securityweek.com/hacker-conversations-corey-thuen-and-the-evil-bit/",
+      "source": "SecurityWeek",
+      "pubDate": "2026-10-22T14:31:34.000Z",
+      "snippet": "Corey Thuen hires hackers for what he calls ‘the evil bit’ — an adversarial streak he believes is either there or it isn’t. The post Hacker Conversations: Corey Thuen and the Evil Bit appeared first on SecurityWeek ."
+    },
+    {
+      "title": "Machine speed attacks require machine speed detection and response",
+      "link": "https://www.bleepingcomputer.com/news/security/machine-speed-attacks-require-machine-speed-detection-and-response/",
+      "source": "BleepingComputer",
+      "pubDate": "2026-10-22T14:02:12.000Z",
+      "snippet": "Attackers can steal credentials and begin exfiltrating data within minutes, often before security teams can respond. Exaforce examines real-world attacks involving stolen GitHub tokens, malicious AI installers, and MFA p…"
+    },
+    {
+      "title": "INTERPOL Arrests 1,462 Suspects, Disrupts 10,909 Cybercrime Networks in Global Crackdown",
+      "link": "https://thehackernews.com/2026/10/interpol-arrests-1462-suspects-disrupts.html",
+      "source": "The Hacker News",
+      "pubDate": "2026-10-22T13:38:22.000Z",
+      "snippet": "INTERPOL on Thursday announced that a coordinated law enforcement action has disrupted 10,909 malicious networks and recovered more than $105 million in illicit funds. In tandem, the effort saw law enforcement agencies f…"
+    },
+    {
+      "title": "Cybercrime crackdown across Africa leads to 1,462 arrests, $105 million seized",
+      "link": "https://therecord.media/africa-cybercrime-interpol-arrests",
+      "source": "The Record",
+      "pubDate": "2026-10-22T13:30:00.000Z",
+      "snippet": "More than 1,400 suspected cybercriminals were arrested across Africa this summer as part of a crackdown on the gangs perpetrating online fraud, ransomware and business email compromise attacks, Interpol said."
+    },
+    {
+      "title": "Amazon says PHP2Shell exploitation began 4 days before patches",
+      "link": "https://www.bleepingcomputer.com/news/security/amazon-says-php2shell-exploitation-began-4-days-before-patches/",
+      "source": "BleepingComputer",
+      "pubDate": "2026-10-22T13:09:12.000Z",
+      "snippet": "Security researchers at Amazon Threat Intelligence say attackers began targeting the PHP2Shell flaws four days before security patches were released on Wednesday. [...]"
+    },
+    {
+      "title": "Indurex Raises $8 Million to Expand Industrial Cybersecurity Platform",
+      "link": "https://www.securityweek.com/indurex-raises-8-million-to-expand-industrial-cybersecurity-platform/",
+      "source": "SecurityWeek",
+      "pubDate": "2026-10-22T13:00:00.000Z",
+      "snippet": "The Amsterdam-based company plans to use the funding for research and development and commercial expansion in Europe and the Middle East. The post Indurex Raises $8 Million to Expand Industrial Cybersecurity Platform app…"
+    },
+    {
+      "title": "Signal Vulnerability Lets Malicious Callers Block Hang-Ups",
+      "link": "https://www.securityweek.com/signal-vulnerability-lets-malicious-callers-block-hang-ups/",
+      "source": "SecurityWeek",
+      "pubDate": "2026-10-22T12:34:31.000Z",
+      "snippet": "Affecting the open source calling library RingRTC, the bug prevented calls from ending properly. The post Signal Vulnerability Lets Malicious Callers Block Hang-Ups appeared first on SecurityWeek ."
+    },
+    {
+      "title": "Tech and Security Companies Respond to PHP2Shell Vulnerabilities",
+      "link": "https://www.securityweek.com/tech-and-security-companies-respond-to-php2shell-vulnerabilities/",
+      "source": "SecurityWeek",
+      "pubDate": "2026-10-22T12:20:23.000Z",
+      "snippet": "Vendors are checking their products for PHP2Shell, security firms are shipping detections, and governments are urging immediate patching. The post Tech and Security Companies Respond to PHP2Shell Vulnerabilities appeared…"
+    },
+    {
+      "title": "South Carolina officials offer assistance after state capital hit with cyberattack",
+      "link": "https://therecord.media/south-carolina-officials-offer-assistance-cyber-incident",
+      "source": "The Record",
+      "pubDate": "2026-10-22T12:14:00.000Z",
+      "snippet": "The systems impacted by the attack include the MyColaSC platform that citizens use to pay utility bills, report non-emergency issues and access other city services."
+    },
+    {
+      "title": "The AI Agent Nobody Owns: Watch Expert Webinar On Your Newest Insider Threat",
+      "link": "https://thehackernews.com/2026/10/the-ai-agent-nobody-owns-watch-expert.html",
+      "source": "The Hacker News",
+      "pubDate": "2026-10-22T11:45:00.000Z",
+      "snippet": "Right now, there is probably an AI agent running on a laptop somewhere in your network. It stores API keys and database passwords, can access your internal systems, and works without anyone watching. Nobody reviewed its…"
+    },
     {
       "title": "GitLab warns of new max severity code execution vulnerability",
       "link": "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-new-max-severity-code-execution-vulnerability/",
@@ -184,13 +275,6 @@
       "snippet": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning that attackers are actively exploiting four vulnerabilities in Plex Media Server. [...]"
     },
     {
-      "title": "Democrat lawmakers say Russia is aiming to undermine party ahead of midterms",
-      "link": "https://therecord.media/democrat-lawmakers-say-russia-is-aiming-to-undermine-party",
-      "source": "The Record",
-      "pubDate": "2026-10-21T18:28:00.000Z",
-      "snippet": "The pair stressed the latest update showed no country is pursuing the technically challenging effort to interfere with or hack into the country’s election infrastructure or tamper directly with votes."
-    },
-    {
       "title": "LiteLLM Compromised in Supply Chain Attack Delivering Credential Stealer and Backdoor",
       "link": "https://thehackernews.com/2026/10/litellm-compromised-in-supply-chain.html",
       "source": "The Hacker News",
@@ -198,25 +282,11 @@
       "snippet": "The popular LiteLLM Python package has been compromised as part of a software supply chain attack that delivered a credential stealer and a backdoor, according to reports from SafeDep, Socket, StepSecurity, and Upwind. T…"
     },
     {
-      "title": "PHP says AI review of critical bugs first sparked alarm in August, but signs surfaced in 2024",
-      "link": "https://therecord.media/php-foundation-statement-critical-vulnerabilities",
-      "source": "The Record",
-      "pubDate": "2026-10-21T17:30:00.000Z",
-      "snippet": "In a lengthy statement about two critical vulnerabilities, the PHP Foundation explained how one dated to 2024, how a recent third-party review by AI companies heightened attention on both, why it scrambled to post inform…"
-    },
-    {
       "title": "Google Hardens Chrome Against ClickFix Attacks, Insecure HTTP Connections",
       "link": "https://www.securityweek.com/google-hardens-chrome-against-clickfix-attacks-insecure-http-connections/",
       "source": "SecurityWeek",
       "pubDate": "2026-10-21T17:00:00.000Z",
       "snippet": "Protections have been added against scams and social engineering, including new site warnings and server-side Gemini analysis. The post Google Hardens Chrome Against ClickFix Attacks, Insecure HTTP Connections appeared f…"
-    },
-    {
-      "title": "PHP2Shell Patches Land as First Exploitation Attempts Hit Sensors",
-      "link": "https://www.securityweek.com/php2shell-patches-land-as-first-exploitation-attempts-hit-sensors/",
-      "source": "SecurityWeek",
-      "pubDate": "2026-10-21T16:50:40.000Z",
-      "snippet": "Several cybersecurity companies saw exploitation attempts of CVE-2026-109618 and CVE-2026-109619 before PHP released the patches. The post PHP2Shell Patches Land as First Exploitation Attempts Hit Sensors appeared first…"
     },
     {
       "title": "OVHcloud GitHub Compromise Tied to GlassWorm Threat Actors",
@@ -261,27 +331,6 @@
       "snippet": "Expect to see quite a few websites serving \"404\" or \"Page Not Found\" errors today: Nearly 70 percent of websites need to update their core software to fix a pair of vulnerabilities that allow an attacker to seize full co…"
     },
     {
-      "title": "‘Context Bombs’ Cut AI Attack Success by Misleading Agents With Fake Targets",
-      "link": "https://www.securityweek.com/context-bombs-cut-ai-attack-success-by-misleading-agents-with-fake-targets/",
-      "source": "SecurityWeek",
-      "pubDate": "2026-10-21T15:00:00.000Z",
-      "snippet": "Deceptive prompts lure AI agents into decoys and dead ends, cutting attack success by up to 91% in tests and raising the cost of a successful attack 23-fold. The post ‘Context Bombs’ Cut AI Attack Success by Misleading A…"
-    },
-    {
-      "title": "High-Severity Flaws Exploited in Three Days as Ransomware Dominates Q3: Rapid7",
-      "link": "https://www.securityweek.com/high-severity-flaws-exploited-in-three-days-as-ransomware-dominates-q3-rapid7/",
-      "source": "SecurityWeek",
-      "pubDate": "2026-10-21T14:45:00.000Z",
-      "snippet": "Rapid7’s Q3 analysis finds high-severity flaws exploited within three days on average, while AI appeared in just 8% of tracked incidents. The post High-Severity Flaws Exploited in Three Days as Ransomware Dominates Q3: R…"
-    },
-    {
-      "title": "Russian hackers teamed up to wipe data at Ukrainian grain firm",
-      "link": "https://therecord.media/ukraine-hackers-russia-grain-sandworm",
-      "source": "The Record",
-      "pubDate": "2026-10-21T14:45:00.000Z",
-      "snippet": "The Russian state-linked hacking group Sandworm collaborated with another threat actor to carry out a destructive cyberattack against a Ukrainian grain logistics company last year, researchers said Thursday."
-    },
-    {
       "title": "PHP ships emergency patches for critical PHP2Shell flaws",
       "link": "https://www.bleepingcomputer.com/news/security/php-ships-emergency-patches-for-critical-php2shell-flaws/",
       "source": "BleepingComputer",
@@ -301,13 +350,6 @@
       "source": "The Hacker News",
       "pubDate": "2026-10-21T14:00:00.000Z",
       "snippet": "PHP has released emergency updates that fix two critical flaws in the language itself, letting an attacker without an account run code on a web server. The fixes are in PHP 8.5.12, 8.4.27, 8.3.36 and 8.2.35, and the PHP…"
-    },
-    {
-      "title": "Asymptote Labs Lands $5.5 Million Seed for AI Agent Runtime Security",
-      "link": "https://www.securityweek.com/asymptote-labs-lands-5-5-million-seed-for-ai-agent-runtime-security/",
-      "source": "SecurityWeek",
-      "pubDate": "2026-10-21T13:17:35.000Z",
-      "snippet": "Asymptote Labs raises $5.5M seed led by Tower Research Ventures to commercialize its Beacon AI agent runtime security platform. The post Asymptote Labs Lands $5.5 Million Seed for AI Agent Runtime Security appeared first…"
     },
     {
       "title": "Google Chrome Adds ClickFix Warnings to Stop Users From Running Malicious Commands",
@@ -331,27 +373,6 @@
       "snippet": "Microsoft has released PowerToys 0.102, with two new mouse utilities, new command-line tools, and Command Palette improvements. [...]"
     },
     {
-      "title": "China-Aligned Bronze Sandcastle Abuses Sandboxie DLL Sideloading to Deploy Backdoors",
-      "link": "https://thehackernews.com/2026/10/china-aligned-bronze-sandcastle-abuses.html",
-      "source": "The Hacker News",
-      "pubDate": "2026-10-21T12:05:00.000Z",
-      "snippet": "Cybersecurity researchers have disclosed details of a previously undocumented China-aligned threat cluster known as Bronze Sandcastle that has been observed targeting organizations in Asia and Africa since mid-2025. \"The…"
-    },
-    {
-      "title": "Generative AI Is Erasing Behavioral Tells, Weakening Behavior-Only Detection, Proofpoint Reports",
-      "link": "https://thehackernews.com/2026/10/generative-ai-is-erasing-behavioral.html",
-      "source": "The Hacker News",
-      "pubDate": "2026-10-21T11:53:34.000Z",
-      "snippet": "Generative AI has changed what a malicious email looks like. Messages that once gave themselves away through clumsy wording, generic pretexts, and reused templates now arrive fluent, personalized, and unique to each reci…"
-    },
-    {
-      "title": "PHP2Shell: What Actually Protects You Before the 14:00 UTC PHP RCE Patch, and What Doesn't",
-      "link": "https://thehackernews.com/2026/10/php2shell-what-actually-protects-you.html",
-      "source": "The Hacker News",
-      "pubDate": "2026-10-21T10:36:53.000Z",
-      "snippet": "You cannot fully block the two critical PHP flaws called PHP2Shell before today's fix, and the one setting being passed around as a workaround is not enough on its own, the security firm that suggested it now says. PHP w…"
-    },
-    {
       "title": "Microsoft says October updates didn’t actually fix VPN issues",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-didnt-actually-fix-vpn-issues-caused-by-windows-updates/",
       "source": "BleepingComputer",
@@ -366,32 +387,11 @@
       "snippet": "The Cybersecurity and Infrastructure Security Agency (CISA) says the SafePay ransomware gang has breached over 600 critical infrastructure organizations worldwide since 2024. [...]"
     },
     {
-      "title": "Stolen UpdraftCentral keys used to backdoor WordPress sites",
-      "link": "https://www.bleepingcomputer.com/news/security/stolen-updraftcentral-keys-used-to-backdoor-wordpress-sites/",
-      "source": "BleepingComputer",
-      "pubDate": "2026-10-21T01:01:50.000Z",
-      "snippet": "A threat actor breached TeamUpdraft's website, a developer of popular WordPress backup and security plugins, potentially compromising UpdraftCentral connection keys that can send commands to connected websites. [...]"
-    },
-    {
-      "title": "Mozilla, Google, Apple block compromised eMudhra CA certificates",
-      "link": "https://www.bleepingcomputer.com/news/security/mozilla-google-apple-block-compromised-emudhra-ca-certificates/",
-      "source": "BleepingComputer",
-      "pubDate": "2026-10-21T00:46:42.000Z",
-      "snippet": "Certificate authority eMudhra revoked eight compromised intermediate certificates after researchers found their private keys were so weak that anyone could recover them almost instantly and use them to forge trusted cert…"
-    },
-    {
       "title": "Tech Giants Block eMudhra Certificates Tied to 8 Compromised Keys",
       "link": "https://www.darkreading.com/cyber-risk/tech-giants-emudhra-certificates-compromised-keys",
       "source": "Dark Reading",
       "pubDate": "2026-10-20T21:45:47.000Z",
       "snippet": "Google, Mozilla, Apple, the Go project and others moved swiftly to block the affected certificates from the Indian CA, though it's unclear how the keys were compromised."
-    },
-    {
-      "title": "PHP warns admins of two critical flaws, emergency patches coming tomorrow",
-      "link": "https://www.bleepingcomputer.com/news/security/php-warns-admins-of-two-critical-flaws-emergency-patches-coming-tomorrow/",
-      "source": "BleepingComputer",
-      "pubDate": "2026-10-20T20:56:43.000Z",
-      "snippet": "The PHP security team is warning administrators to prepare for emergency security updates tomorrow to address two critical vulnerabilities, as information about the flaws has reportedly leaked ahead of their scheduled di…"
     },
     {
       "title": "Ex-OpenAI Engineer Detained After Planting Secret Recorder at HQ",
