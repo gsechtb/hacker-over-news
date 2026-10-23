@@ -1,6 +1,69 @@
 {
-  "generatedAt": "2026-10-23T17:09:29.781Z",
+  "generatedAt": "2026-10-23T21:26:02.680Z",
   "items": [
+    {
+      "title": "Trust Is Not What It Seems — And Fraudsters Are Counting on It",
+      "link": "https://www.darkreading.com/cyber-risk/trust-is-not-what-it-seems-and-fraudsters-are-counting-on-it",
+      "source": "Dark Reading",
+      "pubDate": "2026-10-23T20:57:56.000Z",
+      "snippet": "Threat actors don't need to rely on malware to breach organizations anymore. They're simply calling help desks and politely asking for access, with a little help from artificial intelligence."
+    },
+    {
+      "title": "Abandoned Popcorn Time app exposed millions of device to RCE attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/abandoned-popcorn-time-app-exposed-millions-of-device-to-rce-attacks/",
+      "source": "BleepingComputer",
+      "pubDate": "2026-10-23T20:55:05.000Z",
+      "snippet": "Researchers remotely disabled a vulnerable updater in the abandoned Time4Popcorn app, a fork of the Popcorn Time BitTorrent client, closing a security flaw that could have allowed attackers to execute malicious code with…"
+    },
+    {
+      "title": "Exposed to PHP2Shell? Cyber Experts Weigh in With Advice",
+      "link": "https://www.darkreading.com/application-security/exposed-php2shell-cyber-experts-advice",
+      "source": "Dark Reading",
+      "pubDate": "2026-10-23T19:41:23.000Z",
+      "snippet": "Fixing the critical PHP flaws is not as simple as clicking &quot;Update.&quot; Here's how to assess your risk, and what you can do to protect yourself."
+    },
+    {
+      "title": "Microsoft Teams to get AI-powered, context-aware phishing detection",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-to-get-ai-powered-context-aware-phishing-detection/",
+      "source": "BleepingComputer",
+      "pubDate": "2026-10-23T18:54:41.000Z",
+      "snippet": "Microsoft has announced plans to add AI-powered phishing detection to Teams messages starting in early November 2026. [...]"
+    },
+    {
+      "title": "BlackX UEFI Bootkit Bypasses Secure Boot on Patched Windows Systems Missing Revocations",
+      "link": "https://thehackernews.com/2026/10/blackx-uefi-bootkit-bypasses-secure.html",
+      "source": "The Hacker News",
+      "pubDate": "2026-10-23T18:50:13.000Z",
+      "snippet": "Diplomatic organizations in Central Asia have been targeted by a sophisticated new Unified Extensible Firmware Interface (UEFI) bootkit called BlackX. The activity, which singled out diplomatic entities in Tajikistan, Uz…"
+    },
+    {
+      "title": "Ruby Fixes Three Regex Engine Bugs Responsible for Four Critical GitLab RCE Flaws",
+      "link": "https://thehackernews.com/2026/10/ruby-fixes-three-regex-engine-bugs.html",
+      "source": "The Hacker News",
+      "pubDate": "2026-10-23T17:54:08.000Z",
+      "snippet": "Ruby has released versions 4.0.9, 3.4.12, and 3.3.13 to fix three bugs in Onigmo, the regular expression engine built into the language. The bugs lie behind four critical security flaws that GitLab patched over the past…"
+    },
+    {
+      "title": "Exposed Infrastructure Reveals How Ransomware Affiliates Used AI Agents to Execute Intrusions",
+      "link": "https://thehackernews.com/2026/10/exposed-infrastructure-reveals-how.html",
+      "source": "The Hacker News",
+      "pubDate": "2026-10-23T17:50:47.000Z",
+      "snippet": "Cybersecurity researchers have discovered an artificial intelligence (AI)-driven intrusion ecosystem run by affiliates of the INC and The Gentlemen ransomware groups. Central to the operation is an \"Autonomous Red Team K…"
+    },
+    {
+      "title": "FCC bans two devices with surveillance chips linked to Huawei",
+      "link": "https://therecord.media/fcc-bans-devices-huawei-surveillance-chips",
+      "source": "The Record",
+      "pubDate": "2026-10-23T17:28:00.000Z",
+      "snippet": "The banned items — a wireless video transmitter and dashboard camera — are made with chips manufactured by Huawei subsidiary HiSilicon, which markets its products as “designed for the surveillance market.”"
+    },
+    {
+      "title": "AI Tools Are Generating Massive Attacks for Little Cost",
+      "link": "https://www.darkreading.com/cybersecurity-operations/ai-tools-massive-attacks-little-cost",
+      "source": "Dark Reading",
+      "pubDate": "2026-10-23T17:26:59.000Z",
+      "snippet": "One campaign targets 105 sites using open-weight models; in another, public models gained full domain control for $12. Cyber-defense will have to change."
+    },
     {
       "title": "Microsoft: Windows Server 2016 reaches end of support in January",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2016-reaches-end-of-support-in-january/",
@@ -90,7 +153,7 @@
       "link": "https://www.darkreading.com/cybersecurity-operations/ai-agents-insider-threats-inside-microsoft-unified-security-stack",
       "source": "Dark Reading",
       "pubDate": "2026-10-23T11:38:28.000Z",
-      "snippet": "Microsoft's Project Perception adds Guardian Agents to monitor and contain anomalous AI agents, but experts warn that policing unpredictable agents with other agents may multiply — not contain — the risk."
+      "snippet": "Microsoft's Project Perception adds Guardian Agents to monitor and contain anomalous AI agents, but experts warn that policing unpredictable agents with other agents may compound — not contain — the risk."
     },
     {
       "title": "PHP Warns of Another Unpatched RCE Risk Two Days After Emergency PHP2Shell Patches",
@@ -100,7 +163,7 @@
       "snippet": "PHP has warned of another way an attacker could run code on a web server, two days after it shipped emergency fixes for the critical PHP2Shell flaws. The new issue, assigned CVE-2026-115560, affects only web applications…"
     },
     {
-      "title": "Russian-Linked Hackers Used New Mesh Network Backdoor in Destructive Ukraine Attack",
+      "title": "Russia-Linked Hackers Used New Mesh Network Backdoor in Destructive Ukraine Attack",
       "link": "https://thehackernews.com/2026/10/russian-linked-hackers-used-new-mesh.html",
       "source": "The Hacker News",
       "pubDate": "2026-10-23T11:11:23.000Z",
@@ -184,6 +247,13 @@
       "snippet": "After a three-month lull, Prince of Persia hid a Tornado C&#038;C server on US shared hosting, its first US-based server since 2016. The post Iran&#8217;s Prince of Persia APT Hosts C&#038;C in US for First Time Since 20…"
     },
     {
+      "title": "Reports of PHP bug exploitation attempts grow as experts downplay viability of exploits",
+      "link": "https://therecord.media/php-php2shell-exploitation-attempts-pocs",
+      "source": "The Record",
+      "pubDate": "2026-10-23T04:00:00.000Z",
+      "snippet": "The headline-grabbing bugs known colloquially as PHP2Shell are giving cyber analysts a lot to track — and a lot to debunk."
+    },
+    {
       "title": "State Bank of India Suffers a Customer PII Data Leak",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/state-bank-india-customer-pii-data-leak",
       "source": "Dark Reading",
@@ -254,13 +324,6 @@
       "snippet": "Attackers are exploiting a zero-day SQL injection flaw in Arista's VeloCloud Orchestrator (VCO), the&nbsp;central management system&nbsp;for VeloCloud SD-WAN networks, the company said in an&nbsp;advisory&nbsp;on October…"
     },
     {
-      "title": "Indian tech company eMudhra announces withdrawal from certificate business after security incident",
-      "link": "https://therecord.media/indian-tech-company-announces-withdrawal-certificate-business-incident",
-      "source": "The Record",
-      "pubDate": "2026-10-22T18:46:00.000Z",
-      "snippet": "The issue was publicized by cybersecurity researcher Scott Helme, who published a blog saying that instead of a random 384-bit number, one of the company's private keys was just the number four."
-    },
-    {
       "title": "eMudhra to Exit Global SSL/TLS Business After 8 Intermediate CA Keys Found Easily Guessable",
       "link": "https://thehackernews.com/2026/10/emudhra-to-exit-global-ssltls-business.html",
       "source": "The Hacker News",
@@ -289,20 +352,6 @@
       "snippet": "Linux servers running KSMBD, the kernel's built-in SMB server, are exposed to two publicly reported remote code execution flaws rated 9.0 by&nbsp;Trend Micro's Zero Day Initiative, with no fix yet in the mainline kernel.…"
     },
     {
-      "title": "Microsoft blames ConnectWise attacks on Chinese state hacker using ARTEX AI agents",
-      "link": "https://therecord.media/china-cyber-connectwise-ai",
-      "source": "The Record",
-      "pubDate": "2026-10-22T16:30:00.000Z",
-      "snippet": "A Chinese government-aligned hacking group used automated tools to carry out the recent supply chain attack on IT management software company ConnectWise and is using the same techniques to try to compromise organization…"
-    },
-    {
-      "title": "Meta Ordered to Pay $25 Billion After Court Finds 43 Million Privacy Violations",
-      "link": "https://thehackernews.com/2026/10/meta-ordered-to-pay-25-billion-after.html",
-      "source": "The Hacker News",
-      "pubDate": "2026-10-22T16:12:31.000Z",
-      "snippet": "Social media giant Meta was ordered to pay 25 billion in penalties by a New Mexico court on Wednesday as part of a data privacy lawsuit that sprang from the company's Cambridge Analytica data scandal, which came to light…"
-    },
-    {
       "title": "Microsoft shares how to fix broken Exchange Online EWS apps",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-how-to-fix-broken-exchange-online-ews-apps/",
       "source": "BleepingComputer",
@@ -321,7 +370,7 @@
       "link": "https://www.darkreading.com/cyber-risk/cyber-insurance-covering-ai-damage",
       "source": "Dark Reading",
       "pubDate": "2026-10-22T14:21:22.000Z",
-      "snippet": "Insurers are split on AI risk: some build specialized agentic AI coverage, while major carriers quietly exclude it — leaving enterprises exposed without their knowledge."
+      "snippet": "Some build specialized agentic AI coverage, while major carriers quietly exclude it — leaving enterprises exposed without their knowledge."
     },
     {
       "title": "Machine speed attacks require machine speed detection and response",
@@ -329,13 +378,6 @@
       "source": "BleepingComputer",
       "pubDate": "2026-10-22T14:02:12.000Z",
       "snippet": "Attackers can steal credentials and begin exfiltrating data within minutes, often before security teams can respond. Exaforce examines real-world attacks involving stolen GitHub tokens, malicious AI installers, and MFA p…"
-    },
-    {
-      "title": "INTERPOL Arrests 1,462 Suspects, Disrupts 10,909 Cybercrime Networks in Global Crackdown",
-      "link": "https://thehackernews.com/2026/10/interpol-arrests-1462-suspects-disrupts.html",
-      "source": "The Hacker News",
-      "pubDate": "2026-10-22T13:38:22.000Z",
-      "snippet": "INTERPOL on Thursday announced that a coordinated law enforcement action has disrupted 10,909 malicious networks and recovered more than $105 million in illicit funds. In tandem, the effort saw law enforcement agencies f…"
     },
     {
       "title": "Amazon says PHP2Shell exploitation began 4 days before patches",
@@ -352,32 +394,11 @@
       "snippet": "GitLab has released security patches for a maximum-severity Regular Expression Compiler flaw that can let remote attackers run arbitrary code on vulnerable servers. [...]"
     },
     {
-      "title": "Railway Says Intruder May Have Accessed Customer Secrets, Urges Credential Rotation",
-      "link": "https://thehackernews.com/2026/10/railway-says-intruder-may-have-accessed.html",
-      "source": "The Hacker News",
-      "pubDate": "2026-10-22T11:15:42.000Z",
-      "snippet": "Platform-as-a-Service (PaaS) provider Railway on Wednesday disclosed \"anomalous activity\" related to systems that store customer environment variables. Upon further investigation, the company found that an unauthorized t…"
-    },
-    {
-      "title": "Authorities disrupt nearly 11,000 cybercrime networks in Africa",
-      "link": "https://www.bleepingcomputer.com/news/security/authorities-disrupt-nearly-11-000-cybercrime-networks-in-africa/",
-      "source": "BleepingComputer",
-      "pubDate": "2026-10-22T08:27:11.000Z",
-      "snippet": "Law enforcement agencies have disrupted nearly 11,000 cybercriminal networks and arrested more than 1,400 people in Operation Serengeti III, which targeted business email compromise, ransomware, and online scams. [...]"
-    },
-    {
       "title": "UAE Transitions 50% of Government Services to Agentic AI",
       "link": "https://www.darkreading.com/cybersecurity-operations/uae-transitions-50-government-services-agentic-ai",
       "source": "Dark Reading",
       "pubDate": "2026-10-22T05:00:00.000Z",
       "snippet": "The United Arab Emirates says it's creating a foundation of security and safety as it transforms its public service footprint."
-    },
-    {
-      "title": "Google Chrome adds Gemini-powered scam detection, warns users of ClickFix attacks",
-      "link": "https://www.bleepingcomputer.com/news/google/google-chrome-adds-gemini-powered-scam-detection-warns-users-of-clickfix-attacks/",
-      "source": "BleepingComputer",
-      "pubDate": "2026-10-21T22:16:26.000Z",
-      "snippet": "Chrome is getting new scam protections that use Gemini to detect deceptive websites and warn users when they copy suspicious commands from ClickFix attacks. [...]"
     },
     {
       "title": "TiDB Breach Exposes Flawed Cloud Security Assumptions",
@@ -399,27 +420,6 @@
       "source": "Dark Reading",
       "pubDate": "2026-10-21T20:03:14.000Z",
       "snippet": "Research finds that, among respondents experiencing data loss, only 16% said DLP blocked their most significant incidents before data left the organization."
-    },
-    {
-      "title": "'PHP2Shell' Bugs Signal Red Alert for Security Industry",
-      "link": "https://www.darkreading.com/application-security/php2shell-bugs-red-alert-security-industry",
-      "source": "Dark Reading",
-      "pubDate": "2026-10-21T19:19:17.000Z",
-      "snippet": "Security teams are scrambling to remediate two critical PHP vulnerabilities following leaked details and reports of exploitation attempts."
-    },
-    {
-      "title": "OVHcloud GitHub Compromise Tied to GlassWorm Threat Actors",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/ovhcloud-github-compromise-glassworm-threat-actors",
-      "source": "Dark Reading",
-      "pubDate": "2026-10-21T16:50:15.000Z",
-      "snippet": "A developer's GitHub account that was compromised several months earlier was used to push malicious code to unsuspecting users."
-    },
-    {
-      "title": "Optiv Launches CyberBOT Cybersecurity Awareness Training Program",
-      "link": "https://www.darkreading.com/cybersecurity-operations/optiv-launches-cyberbot-cybersecurity-awareness-training-program",
-      "source": "Dark Reading",
-      "pubDate": "2026-10-21T15:44:48.000Z",
-      "snippet": "Hands-on sessions provide educators, nonprofits, and community leaders with an accessible resource to foster year-round cyber awareness and build more resilient communities."
     }
   ]
 }
