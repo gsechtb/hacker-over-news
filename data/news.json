@@ -1,8 +1,99 @@
 {
-  "generatedAt": "2026-10-23T11:41:17.867Z",
+  "generatedAt": "2026-10-23T17:09:29.781Z",
   "items": [
     {
-      "title": "URGENT - PHP Warns of Another Unpatched RCE Two Days After Emergency PHP2Shell Patches",
+      "title": "Microsoft: Windows Server 2016 reaches end of support in January",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2016-reaches-end-of-support-in-january/",
+      "source": "BleepingComputer",
+      "pubDate": "2026-10-23T17:05:07.000Z",
+      "snippet": "Microsoft says Windows Server 2016 will stop receiving security updates after it reaches the end of support in January 2027. [...]"
+    },
+    {
+      "title": "Quest Diagnostics confirms data breach exposed patient records",
+      "link": "https://www.bleepingcomputer.com/news/security/quest-diagnostics-confirms-data-breach-exposed-patient-records/",
+      "source": "BleepingComputer",
+      "pubDate": "2026-10-23T16:40:07.000Z",
+      "snippet": "American clinical laboratory company Quest Diagnostics disclosed that patient records have been exposed after a threat actor gained unauthorized access to its Quanum LSM system. [...]"
+    },
+    {
+      "title": "PHP shares mitigation for new RCE vulnerability with no patch",
+      "link": "https://www.bleepingcomputer.com/news/security/php-shares-mitigation-for-new-and-unpatched-rce-vulnerability/",
+      "source": "BleepingComputer",
+      "pubDate": "2026-10-23T15:38:05.000Z",
+      "snippet": "The PHP security team has shared mitigation measures for a new remote code execution vulnerability that affects systems with non-default configurations and has no patch. [...]"
+    },
+    {
+      "title": "In Other News: Tor Exit Relays Hijacked, Banks Spot Rogue AI Agents, Self-Rebuilding macOS Ransomware",
+      "link": "https://www.securityweek.com/in-other-news-tor-exit-relays-hijacked-banks-spot-rogue-ai-agents-self-rebuilding-macos-ransomware/",
+      "source": "SecurityWeek",
+      "pubDate": "2026-10-23T14:23:37.000Z",
+      "snippet": "Noteworthy stories that might have slipped under the radar: Russia’s APT28 hit NATO defense firms, PingCAP source code stolen, ShinyHunters negotiator probe. The post In Other News: Tor Exit Relays Hijacked, Banks Spot R…"
+    },
+    {
+      "title": "You gave your AI agent access, but who is giving it orders?",
+      "link": "https://www.bleepingcomputer.com/news/security/you-gave-your-ai-agent-access-but-who-is-giving-it-orders/",
+      "source": "BleepingComputer",
+      "pubDate": "2026-10-23T14:00:10.000Z",
+      "snippet": "AI agents can be manipulated through malicious emails, websites, and plugins into executing commands, stealing data, or deleting files using their legitimate permissions. Gen Digital explains how its Agent Trust Hub help…"
+    },
+    {
+      "title": "Why Caribbean Threats Cascade Into Global Cyber-Risk",
+      "link": "https://www.darkreading.com/cyber-risk/why-caribbean-threats-cascade-global-cyber-risk",
+      "source": "Dark Reading",
+      "pubDate": "2026-10-23T14:00:00.000Z",
+      "snippet": "The region is demonstrating what happens when exploits accelerate but assurance does not."
+    },
+    {
+      "title": "Hackers Breach Enterprise Firewalls and VPNs, Exposing Over 70,000 Credentials",
+      "link": "https://thehackernews.com/2026/10/hackers-breach-enterprise-firewalls-and.html",
+      "source": "The Hacker News",
+      "pubDate": "2026-10-23T13:50:56.000Z",
+      "snippet": "Cybersecurity researchers have disclosed details of a large-scale campaign that has targeted exposed network edge devices such as Fortinet FortiGate and Palo Alto Networks GlobalProtect firewalls. \"Artifacts from this in…"
+    },
+    {
+      "title": "Cyber Insurance's New Reality: Underwriting Isn't Enough",
+      "link": "https://www.darkreading.com/cyber-risk/cyber-insurances-underwriting-isnt-enough",
+      "source": "Dark Reading",
+      "pubDate": "2026-10-23T13:30:00.000Z",
+      "snippet": "Rising AI, social engineering, and cloud risks are pushing carriers beyond risk transfer and deeper into cybersecurity itself."
+    },
+    {
+      "title": "UK proposes 14-year prison terms for undersea cable sabotage",
+      "link": "https://therecord.media/uk-undersea-cables-sabotage-new-sentencing-guidelines",
+      "source": "The Record",
+      "pubDate": "2026-10-23T13:26:00.000Z",
+      "snippet": "In an era of hybrid threats, the British government wants to update the Submarine Telegraph Act 1885, which carries a maximum fine of £1,000 and five years’ imprisonment in cases of deliberate damage."
+    },
+    {
+      "title": "Quest Diagnostics warns of potential data theft after attack on lab service system",
+      "link": "https://therecord.media/quest-diagnostics-network-intrusion",
+      "source": "The Record",
+      "pubDate": "2026-10-23T12:52:00.000Z",
+      "snippet": "Nationwide lab test company Quest Diagnostics said one of its key systems may have experienced a breach of patient data."
+    },
+    {
+      "title": "HPE patches eight max severity RCE and auth bypass AOS flaws",
+      "link": "https://www.bleepingcomputer.com/news/security/hpe-patches-eight-max-severity-rce-and-auth-bypass-aos-flaws/",
+      "source": "BleepingComputer",
+      "pubDate": "2026-10-23T12:48:00.000Z",
+      "snippet": "Hewlett Packard Enterprise (HPE) released security updates to patch 72 vulnerabilities in the Aruba Operating System (ArubaOS), including eight maximum-severity authentication bypass and code execution issues. [...]"
+    },
+    {
+      "title": "Mirai Botnet Operators Join PHP2Shell Attacks as ASLR Bypass Exploits Emerge",
+      "link": "https://www.securityweek.com/mirai-botnet-operators-join-php2shell-attacks-as-aslr-bypass-exploits-emerge/",
+      "source": "SecurityWeek",
+      "pubDate": "2026-10-23T12:45:52.000Z",
+      "snippet": "Researchers tie PHP2Shell attempts to a Mirai botnet and show an ASLR bypass, but no successful compromise has been confirmed yet. The post Mirai Botnet Operators Join PHP2Shell Attacks as ASLR Bypass Exploits Emerge app…"
+    },
+    {
+      "title": "AI Agents as Insider Threats: Inside Microsoft's Bet on a Unified Security Stack",
+      "link": "https://www.darkreading.com/cybersecurity-operations/ai-agents-insider-threats-inside-microsoft-unified-security-stack",
+      "source": "Dark Reading",
+      "pubDate": "2026-10-23T11:38:28.000Z",
+      "snippet": "Microsoft's Project Perception adds Guardian Agents to monitor and contain anomalous AI agents, but experts warn that policing unpredictable agents with other agents may multiply — not contain — the risk."
+    },
+    {
+      "title": "PHP Warns of Another Unpatched RCE Risk Two Days After Emergency PHP2Shell Patches",
       "link": "https://thehackernews.com/2026/10/urgent-php-warns-of-another-unpatched.html",
       "source": "The Hacker News",
       "pubDate": "2026-10-23T11:25:43.000Z",
@@ -23,11 +114,11 @@
       "snippet": "The state-sponsored hackers targeted hundreds of organizations and gained privileged access to some environments. The post China APT Uses AI Pentest Tool Artex in ConnectWise Attacks appeared first on SecurityWeek ."
     },
     {
-      "title": "Attackers Exploit Third VeloCloud Orchestrator Zero-Day in Four Months",
+      "title": "Attackers Exploit Third Arista VCO Zero-Day in Four Months",
       "link": "https://www.securityweek.com/attackers-exploit-third-velocloud-orchestrator-zero-day-in-four-months/",
       "source": "SecurityWeek",
       "pubDate": "2026-10-23T09:58:34.000Z",
-      "snippet": "The critical-severity SQL injection flaw allows attackers to access privileged internal functionality and gain operator privileges. The post Attackers Exploit Third VeloCloud Orchestrator Zero-Day in Four Months appeared…"
+      "snippet": "The critical-severity SQL injection flaw allows attackers to access privileged internal functionality and gain operator privileges. The post Attackers Exploit Third Arista VCO Zero-Day in Four Months appeared first on Se…"
     },
     {
       "title": "Critical Flaw in Python’s Popular Pillow Image Library Allows Code Execution via a Crafted Image",
@@ -58,11 +149,11 @@
       "snippet": "The hackers stole 11 million email addresses from CAPCOM ID and changed the login passwords for 196 accounts. The post 11 Million Impacted by Capcom Data Breach appeared first on SecurityWeek ."
     },
     {
-      "title": "Quest Diagnostics Reports Cyber Breach Affecting &#8216;Certain Patient Records&#8217;",
+      "title": "Quest Diagnostics Data Breach Exposed &#8216;Certain Patient Records&#8217;",
       "link": "https://www.securityweek.com/quest-diagnostics-reports-cyber-breach-affecting-certain-patient-records/",
       "source": "SecurityWeek",
       "pubDate": "2026-10-23T08:25:06.000Z",
-      "snippet": "In a regulatory filing, Quest Diagnostics reported unauthorized access to its Quanum Lab Services Manager, a platform where certain clients can place test orders. The post Quest Diagnostics Reports Cyber Breach Affecting…"
+      "snippet": "In a regulatory filing, Quest Diagnostics reported unauthorized access to its Quanum Lab Services Manager, a platform where certain clients can place test orders. The post Quest Diagnostics Data Breach Exposed &#8216;Cer…"
     },
     {
       "title": "LiteLLM Compromised in Fresh Supply Chain Attack",
@@ -226,6 +317,13 @@
       "snippet": "Corey Thuen hires hackers for what he calls ‘the evil bit’ — an adversarial streak he believes is either there or it isn’t. The post Hacker Conversations: Corey Thuen and the Evil Bit appeared first on SecurityWeek ."
     },
     {
+      "title": "As AI Risks Grow, Insurers Split on Covering the Damage",
+      "link": "https://www.darkreading.com/cyber-risk/cyber-insurance-covering-ai-damage",
+      "source": "Dark Reading",
+      "pubDate": "2026-10-22T14:21:22.000Z",
+      "snippet": "Insurers are split on AI risk: some build specialized agentic AI coverage, while major carriers quietly exclude it — leaving enterprises exposed without their knowledge."
+    },
+    {
       "title": "Machine speed attacks require machine speed detection and response",
       "link": "https://www.bleepingcomputer.com/news/security/machine-speed-attacks-require-machine-speed-detection-and-response/",
       "source": "BleepingComputer",
@@ -240,39 +338,11 @@
       "snippet": "INTERPOL on Thursday announced that a coordinated law enforcement action has disrupted 10,909 malicious networks and recovered more than $105 million in illicit funds. In tandem, the effort saw law enforcement agencies f…"
     },
     {
-      "title": "Cybercrime crackdown across Africa leads to 1,462 arrests, $105 million seized",
-      "link": "https://therecord.media/africa-cybercrime-interpol-arrests",
-      "source": "The Record",
-      "pubDate": "2026-10-22T13:30:00.000Z",
-      "snippet": "More than 1,400 suspected cybercriminals were arrested across Africa this summer as part of a crackdown on the gangs perpetrating online fraud, ransomware and business email compromise attacks, Interpol said."
-    },
-    {
       "title": "Amazon says PHP2Shell exploitation began 4 days before patches",
       "link": "https://www.bleepingcomputer.com/news/security/amazon-says-php2shell-exploitation-began-4-days-before-patches/",
       "source": "BleepingComputer",
       "pubDate": "2026-10-22T13:09:12.000Z",
       "snippet": "Security researchers at Amazon Threat Intelligence say attackers began targeting the PHP2Shell flaws four days before security patches were released on Wednesday. [...]"
-    },
-    {
-      "title": "Indurex Raises $8 Million to Expand Industrial Cybersecurity Platform",
-      "link": "https://www.securityweek.com/indurex-raises-8-million-to-expand-industrial-cybersecurity-platform/",
-      "source": "SecurityWeek",
-      "pubDate": "2026-10-22T13:00:00.000Z",
-      "snippet": "The Amsterdam-based company plans to use the funding for research and development and commercial expansion in Europe and the Middle East. The post Indurex Raises $8 Million to Expand Industrial Cybersecurity Platform app…"
-    },
-    {
-      "title": "Signal Vulnerability Lets Malicious Callers Block Hang-Ups",
-      "link": "https://www.securityweek.com/signal-vulnerability-lets-malicious-callers-block-hang-ups/",
-      "source": "SecurityWeek",
-      "pubDate": "2026-10-22T12:34:31.000Z",
-      "snippet": "Affecting the open source calling library RingRTC, the bug prevented calls from ending properly. The post Signal Vulnerability Lets Malicious Callers Block Hang-Ups appeared first on SecurityWeek ."
-    },
-    {
-      "title": "South Carolina officials offer assistance after state capital hit with cyberattack",
-      "link": "https://therecord.media/south-carolina-officials-offer-assistance-cyber-incident",
-      "source": "The Record",
-      "pubDate": "2026-10-22T12:14:00.000Z",
-      "snippet": "The systems impacted by the attack include the MyColaSC platform that citizens use to pay utility bills, report non-emergency issues and access other city services."
     },
     {
       "title": "GitLab warns of new max severity code execution vulnerability",
@@ -287,13 +357,6 @@
       "source": "The Hacker News",
       "pubDate": "2026-10-22T11:15:42.000Z",
       "snippet": "Platform-as-a-Service (PaaS) provider Railway on Wednesday disclosed \"anomalous activity\" related to systems that store customer environment variables. Upon further investigation, the company found that an unauthorized t…"
-    },
-    {
-      "title": "OpenCode Flaw Lets Malicious MCP Servers Execute Code During Sign-In on Windows and WSL",
-      "link": "https://thehackernews.com/2026/10/opencode-flaw-lets-malicious-mcp.html",
-      "source": "The Hacker News",
-      "pubDate": "2026-10-22T10:44:05.000Z",
-      "snippet": "A flaw in the OpenCode AI coding agent allowed a malicious or hijacked MCP server to run code on a developer's Windows or WSL machine when the developer signed in. OpenCode connects to MCP (Model Context Protocol) server…"
     },
     {
       "title": "Authorities disrupt nearly 11,000 cybercrime networks in Africa",
@@ -317,25 +380,11 @@
       "snippet": "Chrome is getting new scam protections that use Gemini to detect deceptive websites and warn users when they copy suspicious commands from ClickFix attacks. [...]"
     },
     {
-      "title": "Japan's Onamae Desktop Cloud hacked, up to 27,000 servers affected",
-      "link": "https://www.bleepingcomputer.com/news/security/japans-onamae-desktop-cloud-hacked-up-to-27-000-servers-affected/",
-      "source": "BleepingComputer",
-      "pubDate": "2026-10-21T21:43:27.000Z",
-      "snippet": "Hackers compromised the infrastructure of Onamae Desktop Cloud, a popular provider of VPS services in Japan, and installed malware on up to 26,739 customers' servers. [...]"
-    },
-    {
       "title": "TiDB Breach Exposes Flawed Cloud Security Assumptions",
       "link": "https://www.darkreading.com/cloud-security/tidb-breach-flawed-cloud-security",
       "source": "Dark Reading",
       "pubDate": "2026-10-21T21:15:39.000Z",
       "snippet": "Cloud providers may be storing sensitive customer data, without either party knowing it. But when a provider is breached, the unseen information comes to light."
-    },
-    {
-      "title": "Lazarus hackers use post-quantum cryptography for malware delivery",
-      "link": "https://www.bleepingcomputer.com/news/security/lazarus-hackers-use-post-quantum-cryptography-for-malware-delivery/",
-      "source": "BleepingComputer",
-      "pubDate": "2026-10-21T20:31:48.000Z",
-      "snippet": "North Korean hackers are using a post-quantum cryptographic mechanism to secure malicious payload delivery in new operations that combine old and new malware. [...]"
     },
     {
       "title": "Marvell, Microsoft &amp; Oracle Work to Standardize Data Center Hardware Security",
@@ -359,13 +408,6 @@
       "snippet": "Security teams are scrambling to remediate two critical PHP vulnerabilities following leaked details and reports of exploitation attempts."
     },
     {
-      "title": "CISA: Hackers chain Plex flaws in Plex2Shell attacks to breach servers",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-hackers-chain-plex-flaws-in-plex2shell-attacks-to-breach-servers/",
-      "source": "BleepingComputer",
-      "pubDate": "2026-10-21T18:34:42.000Z",
-      "snippet": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning that attackers are actively exploiting four vulnerabilities in Plex Media Server. [...]"
-    },
-    {
       "title": "OVHcloud GitHub Compromise Tied to GlassWorm Threat Actors",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/ovhcloud-github-compromise-glassworm-threat-actors",
       "source": "Dark Reading",
@@ -373,53 +415,11 @@
       "snippet": "A developer's GitHub account that was compromised several months earlier was used to push malicious code to unsuspecting users."
     },
     {
-      "title": "OpenAI agents disabled safety monitoring, one lied about it",
-      "link": "https://www.bleepingcomputer.com/news/security/openai-agents-disabled-safety-monitoring-one-lied-about-it/",
-      "source": "BleepingComputer",
-      "pubDate": "2026-10-21T16:26:53.000Z",
-      "snippet": "OpenAI agents powered by the GPT-6.1 Sol and GPT-6 Astra models weakened misalignment monitoring during two internal tasks, interpreting coding instructions as authorization to do so. [...]"
-    },
-    {
       "title": "Optiv Launches CyberBOT Cybersecurity Awareness Training Program",
       "link": "https://www.darkreading.com/cybersecurity-operations/optiv-launches-cyberbot-cybersecurity-awareness-training-program",
       "source": "Dark Reading",
       "pubDate": "2026-10-21T15:44:48.000Z",
       "snippet": "Hands-on sessions provide educators, nonprofits, and community leaders with an accessible resource to foster year-round cyber awareness and build more resilient communities."
-    },
-    {
-      "title": "Survey Finds High-Profile Executives Feel Untouchable as Digital Exposure Turns Into Physical Risk",
-      "link": "https://www.darkreading.com/cybersecurity-operations/360-privacy-survey-high-profile-executives-feel-untouchable",
-      "source": "Dark Reading",
-      "pubDate": "2026-10-21T15:29:09.000Z",
-      "snippet": "360 Privacy finds more than 8 in 10 security and wealth professionals say cybersecurity and physical security can no longer be separated."
-    },
-    {
-      "title": "Widespread PHP Flaw May Cause Many Site Outages Today",
-      "link": "https://krebsonsecurity.com/2026/10/widespread-php-flaw-may-cause-many-site-outages-today/",
-      "source": "Krebs on Security",
-      "pubDate": "2026-10-21T15:26:07.000Z",
-      "snippet": "Expect to see quite a few websites serving \"404\" or \"Page Not Found\" errors today: Nearly 70 percent of websites need to update their core software to fix a pair of vulnerabilities that allow an attacker to seize full co…"
-    },
-    {
-      "title": "PHP ships emergency patches for critical PHP2Shell flaws",
-      "link": "https://www.bleepingcomputer.com/news/security/php-ships-emergency-patches-for-critical-php2shell-flaws/",
-      "source": "BleepingComputer",
-      "pubDate": "2026-10-21T14:07:05.000Z",
-      "snippet": "The PHP security team released emergency security patches for two critical remote code execution (RCE) vulnerabilities (CVE-2026-109618 and CVE-2026-109619) tracked collectively as PHP2Shell. [...]"
-    },
-    {
-      "title": "Decades-Old Windows Utility Powers Modern ClickFix Attack",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/decades-old-windows-utility-modern-clickfix-attack",
-      "source": "Dark Reading",
-      "pubDate": "2026-10-21T13:00:00.000Z",
-      "snippet": "The attack uses malicious Google search results related to Amazon and leverages the &quot;finger&quot; utility to launch a CAPTCHA that installs malware, including the Lumma stealer."
-    },
-    {
-      "title": "Tech Giants Block eMudhra Certificates Tied to 8 Compromised Keys",
-      "link": "https://www.darkreading.com/cyber-risk/tech-giants-emudhra-certificates-compromised-keys",
-      "source": "Dark Reading",
-      "pubDate": "2026-10-20T21:45:47.000Z",
-      "snippet": "Google, Mozilla, Apple, the Go project and others moved swiftly to block the affected certificates from the Indian CA, though it's unclear how the keys were compromised."
     }
   ]
 }
