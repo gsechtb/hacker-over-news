@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T21:26:02.680Z",
+  "generatedAt": "2026-10-24T04:39:00.303Z",
   "items": [
     {
       "title": "Trust Is Not What It Seems — And Fraudsters Are Counting on It",
@@ -9,7 +9,7 @@
       "snippet": "Threat actors don't need to rely on malware to breach organizations anymore. They're simply calling help desks and politely asking for access, with a little help from artificial intelligence."
     },
     {
-      "title": "Abandoned Popcorn Time app exposed millions of device to RCE attacks",
+      "title": "Abandoned Popcorn Time app exposed millions of devices to RCE attacks",
       "link": "https://www.bleepingcomputer.com/news/security/abandoned-popcorn-time-app-exposed-millions-of-device-to-rce-attacks/",
       "source": "BleepingComputer",
       "pubDate": "2026-10-23T20:55:05.000Z",
