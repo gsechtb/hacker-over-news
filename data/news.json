@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-10-25T04:43:40.324Z",
+  "generatedAt": "2026-10-25T11:32:27.588Z",
   "items": [
+    {
+      "title": "Former Unit 8200 Officers Raise $34 Million for Agentic SecOps Startup Mave",
+      "link": "https://www.securityweek.com/former-unit-8200-officers-raise-34-million-for-agentic-secops-startup-mave/",
+      "source": "SecurityWeek",
+      "pubDate": "2026-10-25T11:00:00.000Z",
+      "snippet": "Founded in 2025 by Unit 8200 alumni, Tel Aviv-based Mave uses AI agents to investigate alerts across existing security stacks. The post Former Unit 8200 Officers Raise $34 Million for Agentic SecOps Startup Mave appeared…"
+    },
+    {
+      "title": "OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication",
+      "link": "https://thehackernews.com/2026/10/openai-ai-agents-demonstrate-vm-escapes.html",
+      "source": "The Hacker News",
+      "pubDate": "2026-10-25T06:54:29.000Z",
+      "snippet": "OpenAI has announced plans to conduct frontier model training with no live internet access, as it resumes reinforcement learning (RL) training and internal inference of its most advanced AI models. \"Based on the current…"
+    },
     {
       "title": "BlackX UEFI bootkit exploits Baton Drop flaw to bypass Secure Boot",
       "link": "https://www.bleepingcomputer.com/news/security/blackx-uefi-bootkit-exploits-baton-drop-flaw-to-bypass-secure-boot/",
@@ -275,13 +289,6 @@
       "snippet": "Atlassian’s October bulletin lists 176 vulnerability entries, including 14 critical-severity issues, all in third-party components. The post Atlassian Patches 75 Flaws in Data Center and Server Products appeared first on…"
     },
     {
-      "title": "PHP2Shell Exploit Attempts Hit Millions as Attackers Try to Deploy Mirai Malware",
-      "link": "https://thehackernews.com/2026/10/php2shell-exploit-attempts-hit-millions.html",
-      "source": "The Hacker News",
-      "pubDate": "2026-10-23T07:40:45.000Z",
-      "snippet": "Threat actors have been observed unsuccessfully attempting to exploit the newly disclosed PHP2Shell vulnerabilities to rope infected systems into a Mirai botnet variant called Potassium, as it emerges that weaponizing th…"
-    },
-    {
       "title": "Iran&#8217;s Prince of Persia APT Hosts C&#038;C in US for First Time Since 2016",
       "link": "https://www.securityweek.com/irans-prince-of-persia-apt-hosts-cc-in-us-for-first-time-since-2016/",
       "source": "SecurityWeek",
@@ -364,13 +371,6 @@
       "source": "BleepingComputer",
       "pubDate": "2026-10-22T15:49:32.000Z",
       "snippet": "Microsoft says IT admins can re-enable the retired Exchange Web Services (EWS) API in Exchange Online to fix EWS apps that have stopped working. [...]"
-    },
-    {
-      "title": "Hacker Conversations: Corey Thuen and the Evil Bit",
-      "link": "https://www.securityweek.com/hacker-conversations-corey-thuen-and-the-evil-bit/",
-      "source": "SecurityWeek",
-      "pubDate": "2026-10-22T14:31:34.000Z",
-      "snippet": "Corey Thuen hires hackers for what he calls ‘the evil bit’ — an adversarial streak he believes is either there or it isn’t. The post Hacker Conversations: Corey Thuen and the Evil Bit appeared first on SecurityWeek ."
     },
     {
       "title": "As AI Risks Grow, Insurers Split on Covering the Damage",
