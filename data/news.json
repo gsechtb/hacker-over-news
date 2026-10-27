@@ -1,6 +1,76 @@
 {
-  "generatedAt": "2026-10-27T18:03:38.402Z",
+  "generatedAt": "2026-10-27T22:15:28.144Z",
   "items": [
+    {
+      "title": "UNM Health ransomware attack disrupts patient care, surgeries",
+      "link": "https://www.bleepingcomputer.com/news/security/unm-health-ransomware-attack-disrupts-patient-care-surgeries/",
+      "source": "BleepingComputer",
+      "pubDate": "2026-10-27T22:07:34.000Z",
+      "snippet": "The University of New Mexico Health Sciences Center disclosed a cyberattack that caused system outages and disrupted patient care and academic activities. [...]"
+    },
+    {
+      "title": "3 Frameworks to Protect CISOs &amp; Orgs Against AI Liability",
+      "link": "https://www.darkreading.com/cyber-risk/3-frameworks-cisos-ai-liability",
+      "source": "Dark Reading",
+      "pubDate": "2026-10-27T21:15:03.000Z",
+      "snippet": "Cyber leaders can get ahead of AI liability with rigorous documentation, transparency, and smart contract negotiations with AI vendors."
+    },
+    {
+      "title": "Hackers hijack Convertr analytics script to steal payment card data",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-convertr-analytics-script-to-steal-payment-card-data/",
+      "source": "BleepingComputer",
+      "pubDate": "2026-10-27T20:57:25.000Z",
+      "snippet": "A credit card skimming group reportedly compromised a shared analytics script used by e-commerce platform Convertr to steal shoppers' payment data during checkout. [...]"
+    },
+    {
+      "title": "External Teams Chats Anchor 15-Minute Malware Delivery",
+      "link": "https://www.darkreading.com/cloud-security/email-bombing-external-teams-chats-repeatable-access-path",
+      "source": "Dark Reading",
+      "pubDate": "2026-10-27T20:42:40.000Z",
+      "snippet": "Main bombing sis getting a new look with a wide-scale, ongoing social engineering campaign that might be tied to the Black Basta ransomware gang."
+    },
+    {
+      "title": "Nefilim, Hive ransomware operator given five-year-plus sentence after guilty plea",
+      "link": "https://therecord.media/nefilim-hive-ransomware-operator-70-months-prison",
+      "source": "The Record",
+      "pubDate": "2026-10-27T20:40:00.000Z",
+      "snippet": "Ukrainian national Artem Stryzhak, 36, had pleaded guilty last year to charges related to participating in at least two well-known ransomware groups."
+    },
+    {
+      "title": "SBOMs Alone Can't Reveal the Scope of a Supply Chain Attack",
+      "link": "https://www.darkreading.com/cyber-risk/sboms-alone-scope-supply-chain-attack",
+      "source": "Dark Reading",
+      "pubDate": "2026-10-27T19:58:06.000Z",
+      "snippet": "A recent Shai-Hulud attack shows defenders need real-time visibility into production code and affected services to respond to supply chain compromises."
+    },
+    {
+      "title": "US indicts Malaysian national after Madagascar scam operation uncovered",
+      "link": "https://therecord.media/malaysian-national-indicted-after-scam-centers-raid-madagascar",
+      "source": "The Record",
+      "pubDate": "2026-10-27T19:30:00.000Z",
+      "snippet": "DOJ action against five foreign nationals — plus a sting in Madagascar — highlight the expanding global reach of the scam center industry."
+    },
+    {
+      "title": "CyberStrikeAI Uses 44 AI Agents to Automate Hacking Operations Against Japan Targets",
+      "link": "https://thehackernews.com/2026/10/cyberstrikeai-uses-44-ai-agents-to.html",
+      "source": "The Hacker News",
+      "pubDate": "2026-10-27T18:26:46.000Z",
+      "snippet": "Cybersecurity researchers have disclosed details of three cyber attacks targeting organizations in Japan in which artificial intelligence (AI) was a key element, either in the driving seat or to assist a human operator.…"
+    },
+    {
+      "title": "Microsoft releases Windows OOB updates to distrust eMudhra certificates",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-oob-updates-to-distrust-emudhra-certificates/",
+      "source": "BleepingComputer",
+      "pubDate": "2026-10-27T18:20:28.000Z",
+      "snippet": "Microsoft has released out-of-band (OOB) Windows updates to remove trust in certificates tied to compromised eMudhra certificate authority keys, protecting systems that do not receive automatic certificate trust updates.…"
+    },
+    {
+      "title": "Beware the Slasher: AI Could Kill Off Cybersecurity Pros' Skills",
+      "link": "https://www.darkreading.com/cybersecurity-operations/ai-kill-off-cybersecurity-pros-skills",
+      "source": "Dark Reading",
+      "pubDate": "2026-10-27T17:43:07.000Z",
+      "snippet": "Nathan Hamiel outlines potential SecOps horror in the AI midst, as core technical capabilities go the way of reading an atlas or remembering phone numbers."
+    },
     {
       "title": "'Aokigahara' Stealer Targets 'Developer Keyrings' &amp; AI Assistants",
       "link": "https://www.darkreading.com/endpoint-security/aokigahara-stealer-developer-keyrings-ai-assistants",
@@ -77,20 +147,6 @@
       "source": "SecurityWeek",
       "pubDate": "2026-10-27T13:30:28.000Z",
       "snippet": "A leaked SquareML access key could have been used to access a database containing personal and health information. The post Vendor Key Leak Puts Data of 238,000 Denver Health Plan Members at Risk appeared first on Securi…"
-    },
-    {
-      "title": "Moscow faces internet disruptions as foreign leaders gather for summits",
-      "link": "https://therecord.media/moscow-faces-internet-disruptions-as-foreign-leaders-gather",
-      "source": "The Record",
-      "pubDate": "2026-10-27T13:20:00.000Z",
-      "snippet": "The restrictions will be in place from October 27 to 29, coinciding with the Gas Exporting Countries Forum summit and the Russia-Africa summit, Russia's Ministry of Digital Development said Monday."
-    },
-    {
-      "title": "CISA warns of PHP bug exploitation attempts, gives federal agencies days to patch",
-      "link": "https://therecord.media/php-vulnerabilities-cisa-kev",
-      "source": "The Record",
-      "pubDate": "2026-10-27T13:16:00.000Z",
-      "snippet": "CISA added the widely publicized PHP vulnerabilities to the KEV, but didn't specify what kind of exploitation it was observing."
     },
     {
       "title": "HPE Patches Dozens of Critical Flaws in Networking Products",
@@ -324,39 +380,11 @@
       "snippet": "This2Shell, That2Shell, Everything2Shell. That's pretty much how the last week went. Critical bugs that let attackers run code remotely are showing up everywhere. Hackers are scanning for targets, some flaws are already…"
     },
     {
-      "title": "When an AI Agent Is the Incident, the Identity Record Is the Evidence",
-      "link": "https://www.bleepingcomputer.com/news/security/when-an-ai-agent-is-the-incident-the-identity-record-is-the-evidence/",
-      "source": "BleepingComputer",
-      "pubDate": "2026-10-26T14:00:10.000Z",
-      "snippet": "A new NIST, CISA, and NSA guide treats runaway agents as incidents to be rehearsed. The hard part of the response is answering whose authority the agent used, and that answer has to exist before the incident does. [...]"
-    },
-    {
       "title": "10 Software Security Practices Built for the Next 250 Years",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/10-software-security-practices-built-250-years",
       "source": "Dark Reading",
       "pubDate": "2026-10-26T14:00:00.000Z",
       "snippet": "This Cybersecurity Awareness Month's theme, &quot;Securing the Next 250,&quot; asks us to look beyond vulnerabilities and consider what will make our digital systems resilient for generations."
-    },
-    {
-      "title": "Chinese man extradited for role in $36 million cryptocurrency scam",
-      "link": "https://www.bleepingcomputer.com/news/security/chinese-man-extradited-for-role-in-36-million-cryptocurrency-scam/",
-      "source": "BleepingComputer",
-      "pubDate": "2026-10-26T13:56:44.000Z",
-      "snippet": "A Chinese national was arraigned in California after being extradited from the Netherlands for his alleged involvement in a cryptocurrency investment scam that stole nearly $37 million from 174 victims in the United Stat…"
-    },
-    {
-      "title": "Two Critical Wasmtime Flaws Could Let Malicious WebAssembly Modules Escape Sandboxes",
-      "link": "https://thehackernews.com/2026/10/two-critical-wasmtime-flaws-could-let.html",
-      "source": "The Hacker News",
-      "pubDate": "2026-10-26T11:52:41.000Z",
-      "snippet": "Two critical flaws in&nbsp;Wasmtime, a WebAssembly runtime that can be built into other software, could allow a malicious WebAssembly module to escape the sandbox intended to contain it, the project's maintainers say. An…"
-    },
-    {
-      "title": "Kali Linux 2026.3 released with 6 new tools, desktop updates",
-      "link": "https://www.bleepingcomputer.com/news/linux/kali-linux-20263-released-with-6-new-tools-desktop-updates/",
-      "source": "BleepingComputer",
-      "pubDate": "2026-10-26T10:26:52.000Z",
-      "snippet": "Kali Linux has released version 2026.3, its third release this year, featuring six new hacking tools, desktop environment improvements, refreshed build scripts, and more. [...]"
     },
     {
       "title": "Trust Is Not What It Seems — and Fraudsters Are Counting on It",
@@ -392,34 +420,6 @@
       "source": "Dark Reading",
       "pubDate": "2026-10-23T13:30:00.000Z",
       "snippet": "Rising AI, social engineering, and cloud risks are pushing carriers beyond risk transfer and deeper into cybersecurity itself."
-    },
-    {
-      "title": "AI Agents as Insider Threats: Inside Microsoft's Bet on a Unified Security Stack",
-      "link": "https://www.darkreading.com/cybersecurity-operations/ai-agents-insider-threats-inside-microsoft-unified-security-stack",
-      "source": "Dark Reading",
-      "pubDate": "2026-10-23T11:38:28.000Z",
-      "snippet": "Microsoft's Project Perception adds Guardian Agents to monitor and contain anomalous AI agents, but experts warn that policing unpredictable agents with other agents may compound — not contain — the risk."
-    },
-    {
-      "title": "State Bank of India Suffers a Customer PII Data Leak",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/state-bank-india-customer-pii-data-leak",
-      "source": "Dark Reading",
-      "pubDate": "2026-10-23T03:30:00.000Z",
-      "snippet": "Relatively small data breaches in India can turn quite serious, thanks to a sophisticated underground market for trading PII."
-    },
-    {
-      "title": "Microsoft Links Storm-0940 to ConnectWise Supply Chain Attack",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/microsoft-storm-0940-connectwise-supply-chain-attack",
-      "source": "Dark Reading",
-      "pubDate": "2026-10-22T20:42:17.000Z",
-      "snippet": "The China-linked actor used an AI-enabled penetration-testing tool to automate and accelerate its attack on more than 2,200 tenants."
-    },
-    {
-      "title": "What We Missed: Feds Lasso Texas Laptop Farms",
-      "link": "https://www.darkreading.com/insider-threats/texas-laptop-farms-north-korean-it-workers",
-      "source": "Dark Reading",
-      "pubDate": "2026-10-22T20:33:10.000Z",
-      "snippet": "In this video, Dark Reading editors discuss some of the news they didn't get a chance to cover, from busting up North Korea's stateside infrastructure in &quot;Operation Lonestar Justice&quot; to Staples' gift card bonan…"
     }
   ]
 }
