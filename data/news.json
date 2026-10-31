@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T22:22:21.357Z",
+  "generatedAt": "2026-10-31T05:44:45.908Z",
   "items": [
     {
       "title": "Critical Linux kernel flaw allows remote root attacks on MPTCP servers",
@@ -21,6 +21,13 @@
       "source": "Dark Reading",
       "pubDate": "2026-10-30T20:05:58.000Z",
       "snippet": "Two serious security issues hit Cursor on the same day, highlighting the risks for AI-powered integrated development environments (IDEs)."
+    },
+    {
+      "title": "Behind the Scenes of How Operation Blackout Went Down",
+      "link": "https://www.darkreading.com/cybersecurity-operations/behind-the-scenes-how-operation-blackout-went-down",
+      "source": "Dark Reading",
+      "pubDate": "2026-10-30T19:46:08.000Z",
+      "snippet": "A recent law enforcement operation to dismantle harmful scam centers was a big success. A threat intelligence expert walks us through what happened and why he wants more of the same."
     },
     {
       "title": "Fashion retailer Resolve says hackers stole payment card information",
@@ -413,13 +420,6 @@
       "source": "Dark Reading",
       "pubDate": "2026-10-28T14:37:52.000Z",
       "snippet": "The threat actor lurked behind bots posing as agents from OpenAI, Anthropic, Meta, and others to find exposed data."
-    },
-    {
-      "title": "Third Serengeti Sweep Tops 1,400 Arrests as Investigations Mature",
-      "link": "https://www.darkreading.com/cybersecurity-operations/third-serengeti-sweep-1400-arrests-investigations-mature",
-      "source": "Dark Reading",
-      "pubDate": "2026-10-28T06:00:00.000Z",
-      "snippet": "Interpol's annual Operation Serengeti, now in its third iteration, led to 1,462 arrests across 20 African countries and the US, recovering $105 million in stolen funds."
     }
   ]
 }
