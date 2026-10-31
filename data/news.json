@@ -1,6 +1,41 @@
 {
-  "generatedAt": "2026-10-31T12:34:28.063Z",
+  "generatedAt": "2026-10-31T21:37:13.515Z",
   "items": [
+    {
+      "title": "Northflank security breach leads to abuse of customers' AI API keys",
+      "link": "https://www.bleepingcomputer.com/news/security/northflank-security-breach-leads-to-abuse-of-customers-ai-api-keys/",
+      "source": "BleepingComputer",
+      "pubDate": "2026-10-31T18:01:12.000Z",
+      "snippet": "Cloud application hosting platform Northflank is warning customers to rotate all credentials and secrets stored on its platform after a security breach led to unauthorized use of customers' AI API keys. [...]"
+    },
+    {
+      "title": "New Android SMS of Death exploit can remotely crash unpatched phones",
+      "link": "https://www.bleepingcomputer.com/news/security/new-android-sms-of-death-exploit-can-remotely-crash-unpatched-phones/",
+      "source": "BleepingComputer",
+      "pubDate": "2026-10-31T15:35:11.000Z",
+      "snippet": "A security researcher has released a proof-of-concept exploit for a recently patched Android vulnerability, dubbed \"SMS of Death\" and tracked as CVE-2026-58882, that lets attackers remotely disrupt cellular service or cr…"
+    },
+    {
+      "title": "Reddit to lock content behind logins to fight scrapers",
+      "link": "https://www.bleepingcomputer.com/news/security/reddit-to-lock-content-behind-logins-to-fight-scrapers/",
+      "source": "BleepingComputer",
+      "pubDate": "2026-10-31T14:05:15.000Z",
+      "snippet": "Reddit announced in a post by co-founder Steve Huffman that the site will gradually become a \"logged-in service,\" offering limited access to visitors without accounts. [...]"
+    },
+    {
+      "title": "From Beginner to Bug Hunter: Learning Cybersecurity in the AI Era.",
+      "link": "https://www.bleepingcomputer.com/news/security/from-beginner-to-bug-hunter-learning-cybersecurity-in-the-ai-era/",
+      "source": "BleepingComputer",
+      "pubDate": "2026-10-31T13:10:19.000Z",
+      "snippet": "AI-generated vulnerability reports are overwhelming some bug bounty programs, making it harder for aspiring security researchers to know where to start. TryHackMe explains how beginners can build practical cybersecurity…"
+    },
+    {
+      "title": "Chainalysis discloses data breach from \"offensive agentic techniques\"",
+      "link": "https://www.bleepingcomputer.com/news/security/chainalysis-discloses-data-breach-from-offensive-agentic-techniques/",
+      "source": "BleepingComputer",
+      "pubDate": "2026-10-31T12:50:09.000Z",
+      "snippet": "Blockchain analytics firm Chainalysis disclosed a data breach after attackers used \"offensive agentic techniques\" to access internal systems and tools, exposing customer names, email addresses, user IDs, and organization…"
+    },
     {
       "title": "Chainalysis Confirms Intrusion Into Internal Tools and Exposure of Customer Identity Data",
       "link": "https://thehackernews.com/2026/10/chainalysis-confirms-intrusion-into.html",
@@ -310,27 +345,6 @@
       "snippet": "Cryptocurrency exchange Binance is investigating a potential security breach involving up to $5.8 billion in digital assets, in what could become the largest cryptocurrency hack in history. [...]"
     },
     {
-      "title": "Hugging Face malware campaign returns to hijack GPUs for crypto mining",
-      "link": "https://www.bleepingcomputer.com/news/security/hugging-face-malware-campaign-returns-to-hijack-gpus-for-crypto-mining/",
-      "source": "BleepingComputer",
-      "pubDate": "2026-10-29T22:09:24.000Z",
-      "snippet": "A crypto-mining campaign abusing Hugging Face models returned days after takedown, hijacking GPU servers and planting backdoors, with one model downloaded over 28,000 times. Separately, a fake Solana starter kit on GitHu…"
-    },
-    {
-      "title": "Japan Airlines suffers third-party data breach exposing passenger info",
-      "link": "https://www.bleepingcomputer.com/news/security/japan-airlines-suffers-third-party-data-breach-exposing-passenger-info/",
-      "source": "BleepingComputer",
-      "pubDate": "2026-10-29T22:08:04.000Z",
-      "snippet": "Japan Airlines (JAL) has announced that a data breach at Amadeus's Passenger Service System exposed the data of about 92,000 customers. [...]"
-    },
-    {
-      "title": "Polymarket halts trading after crypto-draining script breach, $2.5M traced",
-      "link": "https://www.bleepingcomputer.com/news/security/polymarket-halts-trading-after-crypto-draining-script-breach-25m-traced/",
-      "source": "BleepingComputer",
-      "pubDate": "2026-10-29T21:47:25.000Z",
-      "snippet": "Prediction market platform Polymarket temporarily suspended trading on Thursday after hackers compromised a third-party service to distribute cryptocurrency-draining JavaScript, with approximately $2.5 million in assets…"
-    },
-    {
       "title": "Anthropic-Themed Phishing Emails Bypass Top Security Tools",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/anthropic-phishing-emails-bypass-security-tools",
       "source": "Dark Reading",
@@ -352,25 +366,11 @@
       "snippet": "As artificial intelligence squeezes early-career learning opportunities, capture-the-flag contests could be one way to help pick up the slack."
     },
     {
-      "title": "Fake crypto app on Apple App Store linked to $23K wallet theft",
-      "link": "https://www.bleepingcomputer.com/news/security/fake-crypto-app-on-apple-app-store-linked-to-23k-wallet-theft/",
-      "source": "BleepingComputer",
-      "pubDate": "2026-10-29T19:23:41.000Z",
-      "snippet": "A fake cryptocurrency trading app called Padre Terminal, previously available on the Apple App Store for iOS devices, has been linked to the theft of approximately $23,000 from 27 Solana wallets. [...]"
-    },
-    {
       "title": "ThreatsDay: Critical Firewall Flaws, Banking Trojans Rented, Weaponized PDF, Token Theft + 26 More Stories",
       "link": "https://thehackernews.com/2026/10/threatsday-critical-firewall-flaws.html",
       "source": "The Hacker News",
       "pubDate": "2026-10-29T19:11:58.000Z",
       "snippet": "Some attacks take real skill. Others just need someone to leave a door open. This week has both. Exposed passwords, old bugs still getting exploited, and trusted software doing things it shouldn't. There's a strange mix…"
-    },
-    {
-      "title": "Hackers exploit Cisco SD-WAN flaw to deploy custom KeyDrift malware",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-cisco-sd-wan-flaw-to-deploy-custom-keydrift-malware/",
-      "source": "BleepingComputer",
-      "pubDate": "2026-10-29T18:38:26.000Z",
-      "snippet": "A newly identified advanced persistent threat (APT) group tracked as UAT-11473 was observed exploiting CVE-2026-20127, an authentication-bypass flaw in Cisco Catalyst SD-WAN Controllers, to deploy a custom malware framew…"
     },
     {
       "title": "Claude Model Builds Exploits Across Major Browsers &amp; OSes",
