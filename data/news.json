@@ -1,6 +1,13 @@
 {
-  "generatedAt": "2026-11-01T22:04:36.706Z",
+  "generatedAt": "2026-11-02T06:07:29.387Z",
   "items": [
+    {
+      "title": "New VOLTA Infostealer Uses Claude, Gemini, and Kimi AI to Rank Victims by Financial Value",
+      "link": "https://thehackernews.com/2026/11/new-volta-infostealer-uses-claude.html",
+      "source": "The Hacker News",
+      "pubDate": "2026-11-02T05:51:07.000Z",
+      "snippet": "Cybersecurity researchers have discovered a new Windows infostealer malware called VOLTA-AUTODOXER (aka VOLTA) that makes use of a large language model (LLM) to rank a victim's stolen data by their monetization value. Li…"
+    },
     {
       "title": "FBI links $6.3 billion Binance crypto heist to North Korean hackers",
       "link": "https://www.bleepingcomputer.com/news/security/fbi-links-63-billion-binance-crypto-heist-to-north-korean-hackers/",
@@ -48,7 +55,7 @@
       "link": "https://thehackernews.com/2026/11/fbi-links-north-koreas-tradertraitor-to.html",
       "source": "The Hacker News",
       "pubDate": "2026-11-01T07:03:00.000Z",
-      "snippet": "The U.S. Federal Bureau of Investigation (FBI) has officially attributed the theft of more than $6 billion in virtual assets to TraderTraitor, a North Korea-aligned elite hacking group also tracked as Jade Sleet, Pressur…"
+      "snippet": "The U.S. Federal Bureau of Investigation (FBI) has officially attributed the theft of more than $6 billion in virtual assets from Binance to TraderTraitor, a North Korea-aligned elite hacking group also tracked as Jade S…"
     },
     {
       "title": "NetamLoader Malware Targets Government Windows 10 Systems in Asia via .NET Injection",
@@ -336,13 +343,6 @@
       "source": "SecurityWeek",
       "pubDate": "2026-10-30T09:32:27.000Z",
       "snippet": "Tracked as CVE-2026-97229, the bug allows unauthenticated attackers to execute arbitrary code on the server. The post Max-Severity GitLab Vulnerability Exploited Against Alpine Linux appeared first on SecurityWeek ."
-    },
-    {
-      "title": "Official Claude Code Extension on Cursor Marketplace Trojanized with Persistent SSH Backdoor",
-      "link": "https://thehackernews.com/2026/10/official-claude-code-vs-code-extension.html",
-      "source": "The Hacker News",
-      "pubDate": "2026-10-30T08:55:47.000Z",
-      "snippet": "Cybersecurity researchers have disclosed that a trojanized version of Anthropic's official Claude Code extension was distributed through the Cursor Marketplace as a legitimate update, attempting to install a persistent S…"
     },
     {
       "title": "As Russia's Cyberwar Evolves, Belarus Steps Forward",
