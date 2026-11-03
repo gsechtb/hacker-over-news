@@ -1,6 +1,153 @@
 {
-  "generatedAt": "2026-11-03T14:18:24.187Z",
+  "generatedAt": "2026-11-03T23:25:15.090Z",
   "items": [
+    {
+      "title": "Hackers hijack cPGuard autoupdate to deploy backdoor, steal data",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-cpguard-autoupdate-to-deploy-backdoor-steal-data/",
+      "source": "BleepingComputer",
+      "pubDate": "2026-11-03T22:18:50.000Z",
+      "snippet": "Attackers have compromised the update infrastructure for the cPGuard web security suite to distribute a backdoor and a data-stealing script. [...]"
+    },
+    {
+      "title": "Fresh European Fridge Attacks Put Cold-Chain Security in Focus",
+      "link": "https://www.darkreading.com/ics-ot-security/fresh-european-fridge-attacks-cold-chain-security",
+      "source": "Dark Reading",
+      "pubDate": "2026-11-03T22:16:49.000Z",
+      "snippet": "Beyond food storage, the same combination of Internet connectivity, remote access, and inadequate security practices can put temperature-controlled infrastructure across other critical sectors at risk."
+    },
+    {
+      "title": "Germany Busts 'Crime-as-a-Service' Investment Fraud Outfit",
+      "link": "https://www.darkreading.com/cybersecurity-operations/germany-crime-service-investment-fraud",
+      "source": "Dark Reading",
+      "pubDate": "2026-11-03T21:57:12.000Z",
+      "snippet": "German police led a multinational probe that exposed an alleged crime-as-a-service provider supplying fraudulent trading platforms to investment scammers."
+    },
+    {
+      "title": "WorkOS says attacker used ARTEX AI to breach internal sales app",
+      "link": "https://www.bleepingcomputer.com/news/security/workos-says-attacker-used-artex-ai-to-breach-internal-sales-app/",
+      "source": "BleepingComputer",
+      "pubDate": "2026-11-03T21:28:44.000Z",
+      "snippet": "Developer platform WorkOS suffered a data breach after a threat actor accessed business contact records and summaries of customer communications. [...]"
+    },
+    {
+      "title": "Binance says fake job interview led to $6.3 billion crypto heist",
+      "link": "https://www.bleepingcomputer.com/news/security/binance-says-fake-job-interview-led-to-63-billion-crypto-heist/",
+      "source": "BleepingComputer",
+      "pubDate": "2026-11-03T20:05:50.000Z",
+      "snippet": "Cryptocurrency exchange Binance says North Korean hackers used a fake job interview to trick an employee into installing malware that ultimately let them compromise the company's wallet infrastructure and steal about $6.…"
+    },
+    {
+      "title": "Google dismantles massive botnet hidden in Android TV boxes",
+      "link": "https://therecord.media/google-dismantles-botnet-hidden-android-tv-boxes",
+      "source": "The Record",
+      "pubDate": "2026-11-03T19:48:00.000Z",
+      "snippet": "The overwhelming majority of the infected devices in the X.CPE botnet are Android TV set-top boxes, Google said, adding that they observed a number of other infected Android-based IoT devices, including telehealth device…"
+    },
+    {
+      "title": "Google: LLMjacking attacks rack up $1 million in cloud AI charges",
+      "link": "https://www.bleepingcomputer.com/news/security/google-llmjacking-attacks-rack-up-1-million-in-cloud-ai-charges/",
+      "source": "BleepingComputer",
+      "pubDate": "2026-11-03T18:51:04.000Z",
+      "snippet": "Large language model hijacking attacks, also known as LLMjacking, are generating large fraudulent cloud charges, with some organizations losing more than $100,000 per day. [...]"
+    },
+    {
+      "title": "mSecure Warns Users to Change Passwords, Reset 2FA and Passkeys After Suspicious Activity",
+      "link": "https://thehackernews.com/2026/11/msecure-warns-users-to-change-passwords.html",
+      "source": "The Hacker News",
+      "pubDate": "2026-11-03T18:46:38.000Z",
+      "snippet": "Customers of the mSecure password manager are being urged to act now to protect the confidential information they store in it, possibly by changing passwords, resetting two-factor authentication (2FA), and removing passk…"
+    },
+    {
+      "title": "Several German lawmakers and foreign policy staff received Apple warnings on spyware",
+      "link": "https://therecord.media/german-officials-among-apple-spyware-warning-recipients",
+      "source": "The Record",
+      "pubDate": "2026-11-03T18:44:00.000Z",
+      "snippet": "Members of Germany's political elite were among the spyware targets in 99 countries that Apple personally warned recently."
+    },
+    {
+      "title": "Chainstack Reports Production Systems Breach Exposing Customer Data and Password Hashes",
+      "link": "https://thehackernews.com/2026/11/chainstack-reports-production-systems.html",
+      "source": "The Hacker News",
+      "pubDate": "2026-11-03T18:16:19.000Z",
+      "snippet": "Blockchain infrastructure provider Chainstack on Tuesday disclosed that it was targeted in a cyber attack that allowed an unauthorized party to gain access to some parts of its infrastructure. The incident is assessed to…"
+    },
+    {
+      "title": "British businesses caught in Europe-wide supermarket fridge attacks",
+      "link": "https://therecord.media/british-businesses-caught-in-europe-wide-supermarket-fridge-attacks",
+      "source": "The Record",
+      "pubDate": "2026-11-03T17:43:00.000Z",
+      "snippet": "Supermarket and grocery store refrigerator controls across Europe were hacked in the early hours of Monday in the second such wave of attacks in recent weeks — following a first wave in France — with unidentified perpetr…"
+    },
+    {
+      "title": "Binance Reveals How Fake Job Interviews and AI Tool Abuse Led to $6.43 Billion Theft",
+      "link": "https://thehackernews.com/2026/11/binance-reveals-how-fake-job-interviews.html",
+      "source": "The Hacker News",
+      "pubDate": "2026-11-03T16:55:58.000Z",
+      "snippet": "Binance on Tuesday said the record-setting theft of $6.43 billion in assets from the world's largest cryptocurrency exchange was the culmination of a \"sophisticated, multi-stage campaign\" that involved the use of a tampe…"
+    },
+    {
+      "title": "Binance CEO says ‘months-long campaign’ led to $6.3 billion theft as N. Korea denies responsibility",
+      "link": "https://therecord.media/binance-cryptocurrency-theft-months-long-campaign-nkorea",
+      "source": "The Record",
+      "pubDate": "2026-11-03T16:42:00.000Z",
+      "snippet": "North Korean attackers \"combined a range of techniques, including social engineering by fake recruitment interviews,\" Binance said about the multibillion-dollar crypto heist it discovered in October."
+    },
+    {
+      "title": "Barracuda Flaws Could Be Chained to Bypass Authorization and Gain Root Access",
+      "link": "https://thehackernews.com/2026/11/barracuda-flaws-could-be-chained-to.html",
+      "source": "The Hacker News",
+      "pubDate": "2026-11-03T15:59:19.000Z",
+      "snippet": "Barracuda has disclosed details of two vulnerabilities affecting its products that, if chained together, could allow an attacker to bypass authorization controls and gain root access to a susceptible device. The vulnerab…"
+    },
+    {
+      "title": "Google Warns LLMjacking Attacks Are Costing Some Enterprises Up to $1 Million in Cloud Charges",
+      "link": "https://thehackernews.com/2026/11/google-warns-llmjacking-attacks-are.html",
+      "source": "The Hacker News",
+      "pubDate": "2026-11-03T15:41:53.000Z",
+      "snippet": "Google on Monday warned that threat actors are hijacking enterprise access to Large Language Models (LLMs) to fraudulently leverage expensive computing resources and AI services. The tactic is called LLMjacking, a form o…"
+    },
+    {
+      "title": "9 Cyber Awareness Tips That Actually Match Today's Maze of Threats",
+      "link": "https://www.darkreading.com/cyber-risk/9-cyber-awareness-tips-todays-maze-threats",
+      "source": "Dark Reading",
+      "pubDate": "2026-11-03T15:38:20.000Z",
+      "snippet": "Practical guidance on safer search, stronger login security, better executive protection, and other habits that help reduce enterprise risk."
+    },
+    {
+      "title": "LLMjacking Emerges as Thriving Cybercriminal Enterprise",
+      "link": "https://www.darkreading.com/cloud-security/llmjacking-thriving-cybercriminal-enterprise",
+      "source": "Dark Reading",
+      "pubDate": "2026-11-03T15:35:50.000Z",
+      "snippet": "Cybercriminals have turned reselling cloud access to LLMs into a lucrative business model, with some victims paying as much as $1 million in resource consumption before access was revoked."
+    },
+    {
+      "title": "cPGuard Update Channel Hijacked to Backdoor Linux Servers and Collect Password Hashes",
+      "link": "https://thehackernews.com/2026/11/cpguard-update-channel-hijacked-to.html",
+      "source": "The Hacker News",
+      "pubDate": "2026-11-03T15:16:32.000Z",
+      "snippet": "An attacker broke into the update system of the cPGuard security tool on November 2 and used it to send a malicious script to customers' Linux servers. The script installed a backdoor and collected password hashes and ot…"
+    },
+    {
+      "title": "Barracuda warns of critical flaws allowing root access to devices",
+      "link": "https://www.bleepingcomputer.com/news/security/barracuda-warns-of-critical-flaws-allowing-root-access-to-devices/",
+      "source": "BleepingComputer",
+      "pubDate": "2026-11-03T15:06:16.000Z",
+      "snippet": "Cybersecurity company Barracuda Networks warned customers to patch two vulnerabilities that can let attackers run commands with root privileges. [...]"
+    },
+    {
+      "title": "Gartner Predicts SOCs Will Have 50% More Engineers Than Analysts by 2028",
+      "link": "https://www.bleepingcomputer.com/news/security/gartner-predicts-socs-will-have-50-percent-more-engineers-than-analysts-by-2028/",
+      "source": "BleepingComputer",
+      "pubDate": "2026-11-03T15:00:10.000Z",
+      "snippet": "Gartner predicts that security operations centers will have 50% more engineers than analysts by 2028 as AI agents take over routine alert handling. Prophet Security examines how AI is reshaping SOC roles, from analyst re…"
+    },
+    {
+      "title": "Frontline Education Data Breach Impacts Over 1.3 Million",
+      "link": "https://www.securityweek.com/frontline-education-data-breach-impacts-over-1-3-million/",
+      "source": "SecurityWeek",
+      "pubDate": "2026-11-03T14:32:38.000Z",
+      "snippet": "Hackers exploited a flaw in third-party software and stole the personal information of school district staff and students. The post Frontline Education Data Breach Impacts Over 1.3 Million appeared first on SecurityWeek…"
+    },
     {
       "title": "CrowdStrike Reportedly Paying $495 Million for AI Security Firms Fiddler, Dreadnode",
       "link": "https://www.securityweek.com/crowdstrike-reportedly-paying-495-million-for-ai-security-firms-fiddler-dreadnode/",
@@ -28,13 +175,6 @@
       "source": "The Record",
       "pubDate": "2026-11-03T13:50:00.000Z",
       "snippet": "Russia's Interior Ministry said Monday that police had dismantled the group's infrastructure and identified its suspected members following an investigation conducted with assistance from cybersecurity firm Kaspersky."
-    },
-    {
-      "title": "Russia-linked cyber spies target Ukraine's war crimes investigations, military aid routes",
-      "link": "https://therecord.media/russia-linked-cyber-spies-target-ukraine-war-support",
-      "source": "The Record",
-      "pubDate": "2026-11-03T13:39:00.000Z",
-      "snippet": "The hackers use relatively simple malware to steal sensitive documents, login credentials and other information from Ukrainian organizations, particularly those near the front line and the Russian border."
     },
     {
       "title": "Police seizes over 100 servers in investment scam crackdown",
@@ -163,13 +303,6 @@
       "snippet": "Google said today it worked with industry partners to dismantle a botnet made up of more than 1.3 million Android TV set-top boxes that ship with malicious software which secretly rents the user's Internet connection out…"
     },
     {
-      "title": "UK faces ‘unprecedented rise’ in cyberattacks in coming months, warns cyber chief",
-      "link": "https://therecord.media/uk-ncsc-predicts-rise-cyberattacks-coming-months",
-      "source": "The Record",
-      "pubDate": "2026-11-03T00:01:00.000Z",
-      "snippet": "\"[V]ulnerabilities that have been tolerated for far too long can now be discovered and exploited at a scale that was once unimaginable,\" the NCSC's chief will warn in releasing the agency's annual report."
-    },
-    {
       "title": "One Compromised Laptop, Billions Lost: The Binance Attack-Path Warning",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/binance-hack-test-attack-paths",
       "source": "Dark Reading",
@@ -177,25 +310,11 @@
       "snippet": "The record theft shows how weak system separation, inadequate controls, and untested attack possibilities can turn one breach into systemic loss."
     },
     {
-      "title": "Largest crypto exchange in Brazil confirms cyberattack as millions flow out of platform",
-      "link": "https://therecord.media/mercado-bitcoin-brazil-cryptocurrency-heist",
-      "source": "The Record",
-      "pubDate": "2026-11-02T21:42:00.000Z",
-      "snippet": "Blockchain security companies said more than $46 million left the Mercado Bitcoin platform."
-    },
-    {
       "title": "Chinese hackers use ARTEX AI in automated attacks against 200 orgs",
       "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-use-artex-ai-in-automated-attacks-against-200-orgs/",
       "source": "BleepingComputer",
       "pubDate": "2026-11-02T21:40:14.000Z",
       "snippet": "Chinese hackers used ARTEX, an open-source, multi-agent AI penetration-testing framework, in attacks against more than 200 organizations across 14 countries. [...]"
-    },
-    {
-      "title": "Michigan State cyber incident claimed by ransomware gang behind recent hospital attack",
-      "link": "https://therecord.media/michigan-state-university-byod-gang-cyber-incident",
-      "source": "The Record",
-      "pubDate": "2026-11-02T19:54:00.000Z",
-      "snippet": "A recent post by the BYOD gang appears to line up with a security incident that prompted campus-wide action at Michigan State University. BYOD drew attention in October for an attack on the University of New Mexico."
     },
     {
       "title": "Fintech platform Sageworks taken offline after suspected cyberattack",
@@ -217,13 +336,6 @@
       "source": "The Hacker News",
       "pubDate": "2026-11-02T16:57:56.000Z",
       "snippet": "Some attacks this week didn't need much of a trick. A fake support call, a trusted extension, a shared link, or a device with no password. Small things that people barely think about. Yet each was enough to cause serious…"
-    },
-    {
-      "title": "Google Disrupts 1.3 Million-Device Android Botnet, Says TV Box Maker Sold Criminal Access",
-      "link": "https://thehackernews.com/2026/11/google-disrupts-13-million-device.html",
-      "source": "The Hacker News",
-      "pubDate": "2026-11-02T15:50:26.000Z",
-      "snippet": "A botnet of more than 1.3 million Android devices, mostly TV set-top boxes, lost control of its servers in late October in a takedown led by Google. Google says&nbsp;it is highly confident that device maker Videostrong i…"
     },
     {
       "title": "BTCPay Server warns of hot wallet crypto thefts on outdated instances",
@@ -254,13 +366,6 @@
       "snippet": "The latest &quot;Digital Defense Report&quot; identifies government agencies as prime targets for AI attacks but doesn't mention that they are broadly being targeted through Microsoft bugs."
     },
     {
-      "title": "DarkBlinders Compromises Israeli Target and Iraqi Kurdish Government Cloud Environment",
-      "link": "https://thehackernews.com/2026/11/darkblinders-compromises-israeli-target.html",
-      "source": "The Hacker News",
-      "pubDate": "2026-11-02T14:46:05.000Z",
-      "snippet": "Cybersecurity researchers have disclosed details of a cyber espionage campaign targeting Israel and the Kurdistan Region of Iraq by an Iran state-aligned threat actor between August and October 2026. According to a repor…"
-    },
-    {
       "title": "Florida Student Aid Website Hack Puts Data of 4.9 Million People at Risk",
       "link": "https://www.securityweek.com/florida-student-aid-website-hack-puts-data-of-4-9-million-people-at-risk/",
       "source": "SecurityWeek",
@@ -268,88 +373,11 @@
       "snippet": "The Florida Department of Education says SSNs and other personal data may have been exposed in a breach of its financial aid website. The post Florida Student Aid Website Hack Puts Data of 4.9 Million People at Risk appe…"
     },
     {
-      "title": "Hackers disrupt refrigeration systems at European supermarkets",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-disrupt-refrigeration-systems-at-european-supermarkets/",
-      "source": "BleepingComputer",
-      "pubDate": "2026-11-02T14:28:39.000Z",
-      "snippet": "A cyberattack on refrigeration systems has disrupted stores run by multiple supermarket chains across several European countries after hackers remotely changed temperature settings on freezers and cooling systems. [...]"
-    },
-    {
       "title": "PapRAT Cyber-Espionage Campaign Leaves a 'Bitter' Taste in South Asia",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/paprat-cyberespionage-campaign-bitter-south-asia",
       "source": "Dark Reading",
       "pubDate": "2026-11-02T14:00:00.000Z",
       "snippet": "Organizations in the region face growing cyberattacks from the known India-linked threat group, which leverages legitimate Windows functionality in three distinct attack chains."
-    },
-    {
-      "title": "Microsoft fixes Smart App Control broken by October Windows update",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-smart-app-control-broken-by-october-windows-update/",
-      "source": "BleepingComputer",
-      "pubDate": "2026-11-02T13:57:29.000Z",
-      "snippet": "Microsoft has resolved a known issue that prevented some users from activating the Smart App Control security feature after installing the October 2026 KB5127648 Windows 11 security update. [...]"
-    },
-    {
-      "title": "Revolve Data Breach Impacts at Least 200,000 People",
-      "link": "https://www.securityweek.com/revolve-data-breach-impacts-at-least-180000-people/",
-      "source": "SecurityWeek",
-      "pubDate": "2026-11-02T13:35:21.000Z",
-      "snippet": "Hackers accessed its online shopping platform and stole customers’ personal and payment card information. The post Revolve Data Breach Impacts at Least 200,000 People appeared first on SecurityWeek ."
-    },
-    {
-      "title": "Over 1,000 GitLab servers vulnerable to ongoing RCE attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/over-1-000-gitlab-servers-vulnerable-to-code-execution-attacks/",
-      "source": "BleepingComputer",
-      "pubDate": "2026-11-02T12:47:00.000Z",
-      "snippet": "Over 1,000 Internet-exposed GitLab servers are still unpatched against a maximum-severity flaw actively exploited in remote code execution attacks. [...]"
-    },
-    {
-      "title": "Critical Langflow Flaws Could Let Unauthenticated Attackers Run Code on Servers",
-      "link": "https://thehackernews.com/2026/11/critical-langflow-flaws-could-let.html",
-      "source": "The Hacker News",
-      "pubDate": "2026-11-02T11:50:00.000Z",
-      "snippet": "Two critical flaws in Langflow could let a remote attacker with no account bypass authentication or run arbitrary code,&nbsp;IBM said last week. Langflow is an open-source tool for building AI agents and workflows, and&n…"
-    },
-    {
-      "title": "Is Your SOC Ready for AI Agents? A Maturity Check Before You Deploy",
-      "link": "https://thehackernews.com/2026/11/is-your-soc-ready-for-ai-agents.html",
-      "source": "The Hacker News",
-      "pubDate": "2026-11-02T11:30:00.000Z",
-      "snippet": "Forty percent of security teams now use AI every day, and another 56% are testing it. Only 4% have no plans to adopt it, according to Prophet Security's State of AI in Security Operations 2026 survey of more than 250 CIS…"
-    },
-    {
-      "title": "Synology warns of C3RB3R ransomware attacks targeting NAS devices",
-      "link": "https://www.bleepingcomputer.com/news/security/synology-warns-customers-of-ongoing-c3rb3r-ransomware-attacks/",
-      "source": "BleepingComputer",
-      "pubDate": "2026-11-02T11:28:42.000Z",
-      "snippet": "Taiwanese network-attached storage (NAS) appliance maker Synology warned customers to update their devices immediately due to a surge in C3RB3r ransomware attacks. [...]"
-    },
-    {
-      "title": "Attackers Pose as IT Support on Microsoft Teams, Abuse AD CS to Steal Company Data",
-      "link": "https://thehackernews.com/2026/11/attackers-pose-as-it-support-on.html",
-      "source": "The Hacker News",
-      "pubDate": "2026-11-02T11:08:45.000Z",
-      "snippet": "Attackers posing as IT support on Microsoft Teams talked employees into giving them remote control of their PCs. They then used insecure Active Directory Certificate Services (AD CS) settings to obtain login certificates…"
-    },
-    {
-      "title": "Government Linux Servers Targeted With SysGoRAT and Suspected AI-Generated Scripts",
-      "link": "https://thehackernews.com/2026/11/government-linux-servers-targeted-with.html",
-      "source": "The Hacker News",
-      "pubDate": "2026-11-02T10:49:59.000Z",
-      "snippet": "Cybersecurity researchers have disclosed details of a cyber espionage campaign specifically targeting Linux infrastructure associated with government entities and state-affiliated infrastructure. The activity, observed b…"
-    },
-    {
-      "title": "Ivanti patches two more Connect Secure zero-days chained in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/ivanti-patches-two-more-connect-secure-zero-days-chained-in-attacks/",
-      "source": "BleepingComputer",
-      "pubDate": "2026-11-02T09:33:26.000Z",
-      "snippet": "Ivanti released security updates to patch two more Connect Secure (ICS) remote access gateway flaws that have been chained in zero-day attacks since at least October 1. [...]"
-    },
-    {
-      "title": "FBI links $6.3 billion Binance crypto heist to North Korean hackers",
-      "link": "https://www.bleepingcomputer.com/news/security/fbi-links-63-billion-binance-crypto-heist-to-north-korean-hackers/",
-      "source": "BleepingComputer",
-      "pubDate": "2026-11-01T19:57:53.000Z",
-      "snippet": "The FBI has confirmed that North Korean state-sponsored hackers known as TraderTraitor were behind the $6.3 billion crypto-theft attack on Binance, making it the largest cryptocurrency heist on record. [...]"
     },
     {
       "title": "Investors Dish on New Startups &amp; What They'd Back Next",
@@ -392,34 +420,6 @@
       "source": "Dark Reading",
       "pubDate": "2026-10-30T08:00:00.000Z",
       "snippet": "The &quot;FrostyNeighbor&quot; advanced persistent threat (APT) launched a destructive attack in Ukraine and is raising concerns about deeper alignment with Russian cyber objectives."
-    },
-    {
-      "title": "Anthropic-Themed Phishing Emails Bypass Top Security Tools",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/anthropic-phishing-emails-bypass-security-tools",
-      "source": "Dark Reading",
-      "pubDate": "2026-10-29T21:21:56.000Z",
-      "snippet": "Obvious phishing emails with numerous red flags are somehow getting past some of the industry-leading secure email gateway (SEG) products."
-    },
-    {
-      "title": "Rethinking Cybersecurity Awareness in the AI Era",
-      "link": "https://www.darkreading.com/cyber-risk/rethinking-cybersecurity-awareness-ai-era",
-      "source": "Dark Reading",
-      "pubDate": "2026-10-29T20:15:37.000Z",
-      "snippet": "This installment of the Reporters' Notebook video series discusses some of the trends and topics from Cybersecurity Awareness Month, from using AI for better training to educating next-generation workforces on modern ris…"
-    },
-    {
-      "title": "Why CTF Competitions May Be More Important Than Ever",
-      "link": "https://www.darkreading.com/cybersecurity-operations/why-ctf-more-important-than-ever",
-      "source": "Dark Reading",
-      "pubDate": "2026-10-29T19:56:44.000Z",
-      "snippet": "As artificial intelligence squeezes early-career learning opportunities, capture-the-flag contests could be one way to help pick up the slack."
-    },
-    {
-      "title": "Claude Model Builds Exploits Across Major Browsers &amp; OSes",
-      "link": "https://www.darkreading.com/application-security/claude-model-exploits-major-browsers-oses",
-      "source": "Dark Reading",
-      "pubDate": "2026-10-29T18:15:59.000Z",
-      "snippet": "An unreleased version of the AI model has found and chained multiple vulnerabilities in Chrome, Safari, Android, Windows, and Linux, Anthropic says."
     }
   ]
 }
