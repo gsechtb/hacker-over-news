@@ -1,8 +1,85 @@
 {
-  "generatedAt": "2026-11-02T15:57:24.154Z",
+  "generatedAt": "2026-11-03T01:00:13.119Z",
   "items": [
     {
-      "title": "BTCPay Server warns of hot wallet thefts targeting outdated instances",
+      "title": "UK faces ‘unprecedented rise’ in cyberattacks in coming months, warns cyber chief",
+      "link": "https://therecord.media/uk-ncsc-predicts-rise-cyberattacks-coming-months",
+      "source": "The Record",
+      "pubDate": "2026-11-03T00:01:00.000Z",
+      "snippet": "\"[V]ulnerabilities that have been tolerated for far too long can now be discovered and exploited at a scale that was once unimaginable,\" the NCSC's chief will warn in releasing the agency's annual report."
+    },
+    {
+      "title": "One Compromised Laptop, Billions Lost: The Binance Attack-Path Warning",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/binance-hack-test-attack-paths",
+      "source": "Dark Reading",
+      "pubDate": "2026-11-02T22:27:24.000Z",
+      "snippet": "The record theft shows how weak system separation, inadequate controls, and untested attack possibilities can turn one breach into systemic loss."
+    },
+    {
+      "title": "Largest crypto exchange in Brazil confirms cyberattack as millions flow out of platform",
+      "link": "https://therecord.media/mercado-bitcoin-brazil-cryptocurrency-heist",
+      "source": "The Record",
+      "pubDate": "2026-11-02T21:42:00.000Z",
+      "snippet": "Blockchain security companies said more than $46 million left the Mercado Bitcoin platform."
+    },
+    {
+      "title": "Chinese hackers use ARTEX AI in automated attacks against 200 orgs",
+      "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-use-artex-ai-in-automated-attacks-against-200-orgs/",
+      "source": "BleepingComputer",
+      "pubDate": "2026-11-02T21:40:14.000Z",
+      "snippet": "Chinese hackers used ARTEX, an open-source, multi-agent AI penetration-testing framework, in attacks against more than 200 organizations across 14 countries. [...]"
+    },
+    {
+      "title": "Michigan State cyber incident claimed by ransomware gang behind recent hospital attack",
+      "link": "https://therecord.media/michigan-state-university-byod-gang-cyber-incident",
+      "source": "The Record",
+      "pubDate": "2026-11-02T19:54:00.000Z",
+      "snippet": "A recent post by the BYOD gang appears to line up with a security incident that prompted campus-wide action at Michigan State University. BYOD drew attention in October for an attack on the University of New Mexico."
+    },
+    {
+      "title": "Fintech platform Sageworks taken offline after suspected cyberattack",
+      "link": "https://www.bleepingcomputer.com/news/security/fintech-platform-sageworks-taken-offline-after-suspected-cyberattack/",
+      "source": "BleepingComputer",
+      "pubDate": "2026-11-02T19:00:45.000Z",
+      "snippet": "Financial technology company Abrigo has restored its Sageworks risk management application, except for borrower-facing capabilities, following an outage triggered by \"irregular activity\" in its environment. [...]"
+    },
+    {
+      "title": "Google disrupts million-device XCPE Android malware botnet, bans TV box maker",
+      "link": "https://www.bleepingcomputer.com/news/security/google-disrupts-million-device-xcpe-android-malware-botnet-bans-tv-box-maker/",
+      "source": "BleepingComputer",
+      "pubDate": "2026-11-02T18:16:34.000Z",
+      "snippet": "Google and industry partners have dismantled the XCPE malware botnet consisting of more than 1.3 million Android TV streaming TV boxes that Google says its manufacturer intentionally infected with malware to generate rev…"
+    },
+    {
+      "title": "Polymarket pledges to give $3.9 million back to victims after site compromise",
+      "link": "https://therecord.media/polymarket-returning-funds-to-customers-after-site-compromise",
+      "source": "The Record",
+      "pubDate": "2026-11-02T17:05:20.000Z",
+      "snippet": "In a post-mortem about an October 29 incident, prediction market Polymarket said it will pay people back what they lost, as well as compensate them for the site's downtime."
+    },
+    {
+      "title": "⚡ Weekly Recap: Critical CVEs, Linux DDoS Botnet, Device-Code Phishing, Android Spyware and More",
+      "link": "https://thehackernews.com/2026/11/weekly-recap-critical-cves-linux-ddos.html",
+      "source": "The Hacker News",
+      "pubDate": "2026-11-02T16:57:56.000Z",
+      "snippet": "Some attacks this week didn't need much of a trick. A fake support call, a trusted extension, a shared link, or a device with no password. Small things that people barely think about. Yet each was enough to cause serious…"
+    },
+    {
+      "title": "Russia's statistics agency confirms cyberattack claimed by Belarusian and Ukrainian hackers",
+      "link": "https://therecord.media/hackers-ukraine-belarus-russia",
+      "source": "The Record",
+      "pubDate": "2026-11-02T16:30:00.000Z",
+      "snippet": "An alliance of Belarusian and pro-Ukrainian hackers claimed to have taken out Russia's federal statistics agency, Rosstat, and stolen vast amounts of sensitive government data in a cyberattack."
+    },
+    {
+      "title": "Google Disrupts 1.3 Million-Device Android Botnet, Says TV Box Maker Sold Criminal Access",
+      "link": "https://thehackernews.com/2026/11/google-disrupts-13-million-device.html",
+      "source": "The Hacker News",
+      "pubDate": "2026-11-02T15:50:26.000Z",
+      "snippet": "A botnet of more than 1.3 million Android devices, mostly TV set-top boxes, lost control of its servers in late October in a takedown led by Google. Google says&nbsp;it is highly confident that device maker Videostrong i…"
+    },
+    {
+      "title": "BTCPay Server warns of hot wallet crypto thefts on outdated instances",
       "link": "https://www.bleepingcomputer.com/news/security/btcpay-server-warns-of-hot-wallet-thefts-targeting-outdated-instances/",
       "source": "BleepingComputer",
       "pubDate": "2026-11-02T15:03:07.000Z",
@@ -44,20 +121,6 @@
       "snippet": "The Florida Department of Education says SSNs and other personal data may have been exposed in a breach of its financial aid website. The post Florida Student Aid Website Hack Puts Data of 4.9 Million People at Risk appe…"
     },
     {
-      "title": "Apple warns users in 99 countries of mercenary spyware",
-      "link": "https://therecord.media/apple-warns-users-99-countries-mercenary-spyware",
-      "source": "The Record",
-      "pubDate": "2026-11-02T14:42:00.000Z",
-      "snippet": "Apple does not attribute attacks or the notices to specific malicious actors or geographical regions, the notification said, due to the “extreme cost, sophistication, and worldwide nature of mercenary spyware attacks [wh…"
-    },
-    {
-      "title": "Russian and Ukrainian hackers hijack emergency apps to spread fake nuclear attack warnings",
-      "link": "https://therecord.media/ukraine-hackers-russia-alert-system",
-      "source": "The Record",
-      "pubDate": "2026-11-02T14:30:00.000Z",
-      "snippet": "A popular Ukrainian air raid alert system was hacked over the weekend, prompting a cyber group to breach a similar Russian system in retaliation."
-    },
-    {
       "title": "Hackers disrupt refrigeration systems at European supermarkets",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-disrupt-refrigeration-systems-at-european-supermarkets/",
       "source": "BleepingComputer",
@@ -65,11 +128,11 @@
       "snippet": "A cyberattack on refrigeration systems has disrupted stores run by multiple supermarket chains across several European countries after hackers remotely changed temperature settings on freezers and cooling systems. [...]"
     },
     {
-      "title": "PapRAT Cyber Espionage Campaign Leaves a 'BITTER' Taste in South Asia",
+      "title": "PapRAT Cyber-Espionage Campaign Leaves a 'Bitter' Taste in South Asia",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/paprat-cyberespionage-campaign-bitter-south-asia",
       "source": "Dark Reading",
       "pubDate": "2026-11-02T14:00:00.000Z",
-      "snippet": "Organizations in the region face attacks from the known India-linked threat group, which leverages legitimate Windows functionality in three distinct attack chains."
+      "snippet": "Organizations in the region face growing cyberattacks from the known India-linked threat group, which leverages legitimate Windows functionality in three distinct attack chains."
     },
     {
       "title": "Microsoft fixes Smart App Control broken by October Windows update",
@@ -91,13 +154,6 @@
       "source": "SecurityWeek",
       "pubDate": "2026-11-02T13:25:11.000Z",
       "snippet": "The top payout is for high-impact architectural research demonstrating full administrative control. The post Google Introduces $250,000 Root-in-Cloud Bug Bounty Reward appeared first on SecurityWeek ."
-    },
-    {
-      "title": "Second wave of suspected cyberattacks hits supermarket freezers across Europe",
-      "link": "https://therecord.media/cyberattack-grocery-freezers-europe",
-      "source": "The Record",
-      "pubDate": "2026-11-02T13:00:00.000Z",
-      "snippet": "Supermarket and grocery store refrigerators across Europe appear to have been hacked early Monday — the second such incident in recent weeks where attackers have manipulated temperature controls and caused stock to spoil…"
     },
     {
       "title": "Over 1,000 GitLab servers vulnerable to ongoing RCE attacks",
@@ -191,13 +247,6 @@
       "snippet": "Cybersecurity researchers have discovered a new Windows infostealer malware called VOLTA-AUTODOXER (aka VOLTA) that makes use of a large language model (LLM) to rank a victim's stolen data by their monetization value. Li…"
     },
     {
-      "title": "FBI blames N. Korea’s TraderTraitor for Binance theft, urges crypto industry to block transactions",
-      "link": "https://therecord.media/fbi-blames-tradertraitor-for-binance-hack",
-      "source": "The Record",
-      "pubDate": "2026-11-02T00:00:00.000Z",
-      "snippet": "The FBI and U.S. Secret Service alleged this weekend that North Korean hackers were responsible for stealing more than $6.3 billion from cryptocurrency platform Binance last week."
-    },
-    {
       "title": "FBI links $6.3 billion Binance crypto heist to North Korean hackers",
       "link": "https://www.bleepingcomputer.com/news/security/fbi-links-63-billion-binance-crypto-heist-to-north-korean-hackers/",
       "source": "BleepingComputer",
@@ -268,27 +317,6 @@
       "snippet": "A security researcher has released a proof-of-concept exploit for a recently patched Android vulnerability, dubbed \"SMS of Death\" and tracked as CVE-2026-58882, that lets attackers remotely disrupt cellular service or cr…"
     },
     {
-      "title": "Reddit to lock content behind logins to fight scrapers",
-      "link": "https://www.bleepingcomputer.com/news/security/reddit-to-lock-content-behind-logins-to-fight-scrapers/",
-      "source": "BleepingComputer",
-      "pubDate": "2026-10-31T14:05:15.000Z",
-      "snippet": "Reddit announced in a post by co-founder Steve Huffman that the site will gradually become a \"logged-in service,\" offering limited access to visitors without accounts. [...]"
-    },
-    {
-      "title": "From Beginner to Bug Hunter: Learning Cybersecurity in the AI Era.",
-      "link": "https://www.bleepingcomputer.com/news/security/from-beginner-to-bug-hunter-learning-cybersecurity-in-the-ai-era/",
-      "source": "BleepingComputer",
-      "pubDate": "2026-10-31T13:10:19.000Z",
-      "snippet": "AI-generated vulnerability reports are overwhelming some bug bounty programs, making it harder for aspiring security researchers to know where to start. TryHackMe explains how beginners can build practical cybersecurity…"
-    },
-    {
-      "title": "Chainalysis discloses data breach from \"offensive agentic techniques\"",
-      "link": "https://www.bleepingcomputer.com/news/security/chainalysis-discloses-data-breach-from-offensive-agentic-techniques/",
-      "source": "BleepingComputer",
-      "pubDate": "2026-10-31T12:50:09.000Z",
-      "snippet": "Blockchain analytics firm Chainalysis disclosed a data breach after attackers used \"offensive agentic techniques\" to access internal systems and tools, exposing customer names, email addresses, user IDs, and organization…"
-    },
-    {
       "title": "Chainalysis Confirms Intrusion Into Internal Tools and Exposure of Customer Identity Data",
       "link": "https://thehackernews.com/2026/10/chainalysis-confirms-intrusion-into.html",
       "source": "The Hacker News",
@@ -310,25 +338,11 @@
       "snippet": "A malicious ChatGPT share link could run an attacker's code in the logged-in session of anyone who opened it, allowing them to read their private conversations, researchers at&nbsp;the security firm Parameter&nbsp;showed…"
     },
     {
-      "title": "Cloudflare Reports 18.2 Million Network-Layer DDoS Attacks in Q3, Up 38%",
-      "link": "https://thehackernews.com/2026/10/cloudflare-reports-182-million-network.html",
-      "source": "The Hacker News",
-      "pubDate": "2026-10-31T04:56:12.000Z",
-      "snippet": "Threat actors are launching about 8,226 network-layer distributed denial-of-service (DDoS) attacks per hour, Cloudflare revealed Thursday. The web infrastructure and security company said it autonomously mitigated 18.2 m…"
-    },
-    {
       "title": "Investors Dish on New Startups &amp; What They'd Back Next",
       "link": "https://www.darkreading.com/cybersecurity-operations/investors-dish-new-startsup-what-back-next",
       "source": "Dark Reading",
       "pubDate": "2026-10-30T21:08:25.000Z",
       "snippet": "The cybersecurity market is difficult to predict, but a glimpse into the annual DataTribe Challenge shows what's trending and what's not."
-    },
-    {
-      "title": "DOJ raises privacy concerns over potential sale of Character.AI chats",
-      "link": "https://therecord.media/doj-raises-privacy-concerns-over-character-ai-sale",
-      "source": "The Record",
-      "pubDate": "2026-10-30T20:45:00.000Z",
-      "snippet": "The DOJ’s Executive Office for U.S. Trustees said a consumer privacy ombudsman is needed to advise the court on how to regulate what data from Character.AI can be sold and under what terms."
     },
     {
       "title": "Devs Hit by Trojanized Claude Code Extension for Cursor",
@@ -343,13 +357,6 @@
       "source": "Dark Reading",
       "pubDate": "2026-10-30T19:46:08.000Z",
       "snippet": "A recent law enforcement operation to dismantle harmful scam centers was a big success. A threat intelligence expert walks us through what happened and why he wants more of the same."
-    },
-    {
-      "title": "Chinese Hackers Use AI-Powered ARTEX to Target Over 200 Organizations Worldwide",
-      "link": "https://thehackernews.com/2026/10/chinese-hackers-use-ai-powered-artex-to.html",
-      "source": "The Hacker News",
-      "pubDate": "2026-10-30T16:58:44.000Z",
-      "snippet": "Chinese state-sponsored threat actors have been observed using a Go-based artificial intelligence (AI)-powered penetration testing framework called ARTEX in attacks aimed at high-value targets simultaneously. The activit…"
     },
     {
       "title": "L’Italia è afflitta da vulnerabilità informatiche, senza una causa chiara",
@@ -413,13 +420,6 @@
       "source": "Dark Reading",
       "pubDate": "2026-10-29T10:00:00.000Z",
       "snippet": "The enigmatic service is providing popular AI coding tools to mainland China and other regions where OpenAI and Anthropic products are not officially for sale — but with key security features turned off."
-    },
-    {
-      "title": "Cyber Vulnerabilities Besiege Italy, Absent Clear Cause",
-      "link": "https://www.darkreading.com/cybersecurity-analytics/cyber-vulnerabilities-besiege-italy",
-      "source": "Dark Reading",
-      "pubDate": "2026-10-29T08:00:00.000Z",
-      "snippet": "Researchers can't quite explain why cyber threats look so different in Italy compared with everywhere else."
     }
   ]
 }
