@@ -1,6 +1,13 @@
 {
-  "generatedAt": "2026-11-03T23:25:15.090Z",
+  "generatedAt": "2026-11-04T06:26:24.719Z",
   "items": [
+    {
+      "title": "Philippine Migrant Worker Data Likely Leaked in 69GB Government Breach",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/philippine-migrant-worker-data-69gb-government-breach",
+      "source": "Dark Reading",
+      "pubDate": "2026-11-04T02:00:00.000Z",
+      "snippet": "An unknown operator appears to have exfiltrated SQL Server backups from the Philippine Overseas Employment Administration in under a half hour."
+    },
     {
       "title": "Hackers hijack cPGuard autoupdate to deploy backdoor, steal data",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-cpguard-autoupdate-to-deploy-backdoor-steal-data/",
@@ -413,13 +420,6 @@
       "source": "Dark Reading",
       "pubDate": "2026-10-30T14:10:37.000Z",
       "snippet": "A security firm patched a decade-old app to prevent the takeover of millions of machines, highlighting that abandoned domains remain a boon to attackers."
-    },
-    {
-      "title": "As Russia's Cyberwar Evolves, Belarus Steps Forward",
-      "link": "https://www.darkreading.com/physical-security/russia-cyber-war-belarus-steps-forward",
-      "source": "Dark Reading",
-      "pubDate": "2026-10-30T08:00:00.000Z",
-      "snippet": "The &quot;FrostyNeighbor&quot; advanced persistent threat (APT) launched a destructive attack in Ukraine and is raising concerns about deeper alignment with Russian cyber objectives."
     }
   ]
 }
