@@ -1,6 +1,55 @@
 {
-  "generatedAt": "2026-11-04T19:46:59.165Z",
+  "generatedAt": "2026-11-05T06:49:54.879Z",
   "items": [
+    {
+      "title": "Hackers Exploit Patched Apple Flaw to Deliver Info-Stealing Malware, CISA Says",
+      "link": "https://thehackernews.com/2026/11/hackers-exploit-patched-apple-flaw-to.html",
+      "source": "The Hacker News",
+      "pubDate": "2026-11-05T05:17:04.000Z",
+      "snippet": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a medium-severity security flaw impacting multiple Apple operating systems to its Known Exploited Vulnerabilities (KEV) catalog, followi…"
+    },
+    {
+      "title": "Want to Rent an Internet Address at the White House?",
+      "link": "https://krebsonsecurity.com/2026/11/want-to-rent-an-internet-address-at-the-white-house/",
+      "source": "Krebs on Security",
+      "pubDate": "2026-11-05T04:36:17.000Z",
+      "snippet": "Several staffers at the White House are using computers or mobile devices equipped with residential proxy services that render their internet address available for others to rent, security experts warned today. One of th…"
+    },
+    {
+      "title": "OpenAI AI Pipeline Generates 948 Linux Root Escalation Exploits in 30-Hour Run",
+      "link": "https://thehackernews.com/2026/11/openai-ai-pipeline-generates-948-linux.html",
+      "source": "The Hacker News",
+      "pubDate": "2026-11-05T04:31:16.000Z",
+      "snippet": "OpenAI on Wednesday detailed a pipeline that employed an upcoming cyber-focused artificial intelligence (AI) model to validate and patch 948 local privilege escalation vulnerabilities in Linux for $1.2 million in API cos…"
+    },
+    {
+      "title": "Critical Rails Bug Threatens to Derail Vulnerable Servers",
+      "link": "https://www.darkreading.com/application-security/critical-rails-bug-derail-vulnerable-servers",
+      "source": "Dark Reading",
+      "pubDate": "2026-11-04T21:48:18.000Z",
+      "snippet": "An attacker could write arbitrary files and read sensitive files via images uploaded to the Rails Active Storage ImageMagick integration, possibly positioning a threat actor for lateral movement."
+    },
+    {
+      "title": "Vercel rolls out new protection against stolen session cookie attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/vercel-rolls-out-new-protection-against-stolen-session-cookie-attacks/",
+      "source": "BleepingComputer",
+      "pubDate": "2026-11-04T21:31:18.000Z",
+      "snippet": "Vercel is gradually rolling out Device Bound Session Credentials (DBSC) on its platform as a key defense against information stealer malware. [...]"
+    },
+    {
+      "title": "More Asian airlines announce data breaches after attack on Spanish IT provider Amadeus",
+      "link": "https://therecord.media/asian-airlines-announce-data-breach-it-provider-incident",
+      "source": "The Record",
+      "pubDate": "2026-11-04T21:30:00.000Z",
+      "snippet": "Japan Airlines, Cathay Pacific, Korean Air, Asiana Airlines, Singapore Airlines and Malaysia Airlines have all come forward over the last week to report data breaches traced back to Amadeus IT Group — a company that buil…"
+    },
+    {
+      "title": "Zyxel fixes zero-day exploited to hack nearly 1,000 network switches",
+      "link": "https://www.bleepingcomputer.com/news/security/zyxel-fixes-zero-day-exploited-to-hack-nearly-1-000-network-switches/",
+      "source": "BleepingComputer",
+      "pubDate": "2026-11-04T20:58:19.000Z",
+      "snippet": "Zyxel has patched a zero-day vulnerability in its GS1900 series network switches that hackers exploited to compromise nearly 1,000 devices worldwide and steal configuration files and credentials. [...]"
+    },
     {
       "title": "Canadian extradited to US for allegedly hacking schools in at least four states",
       "link": "https://therecord.media/canadian-nationals-accused-us-education-hacks-cryptomining",
@@ -104,7 +153,7 @@
       "link": "https://thehackernews.com/2026/11/apt29-linked-hackers-hijack-web.html",
       "source": "The Hacker News",
       "pubDate": "2026-11-04T14:27:52.000Z",
-      "snippet": "The Russia-linked threat actor known as APT29 is said to be behind a large-scale watering hole campaign targeting iOS and Android users through compromised websites, fake domains, and a supply chain attack involving a Uk…"
+      "snippet": "The Russia-linked threat actor known as APT29 is presumed to be behind a large-scale watering hole campaign targeting iOS and Android users through compromised websites, fake domains, and a supply chain attack involving…"
     },
     {
       "title": "Barracuda ESG Authentication Bypass Flaw Opens Path to Root",
@@ -133,13 +182,6 @@
       "source": "The Record",
       "pubDate": "2026-11-04T14:00:00.000Z",
       "snippet": "A major Russian web hosting provider is struggling to restore its services after a cyberattack destroyed data across its cloud infrastructure and disrupted hundreds of websites."
-    },
-    {
-      "title": "French blood service hit by Europe-wide cyberattacks on refrigeration",
-      "link": "https://therecord.media/france-cyberattack-blood-refrigeration",
-      "source": "The Record",
-      "pubDate": "2026-11-04T13:45:00.000Z",
-      "snippet": "Temperature controls were altered at three of France’s national blood service sites this week amid a wave of cyberattacks affecting refrigeration systems across Europe."
     },
     {
       "title": "US charges two Canadians accused of hacking US universities",
@@ -331,20 +373,6 @@
       "snippet": "Blockchain infrastructure provider Chainstack on Tuesday disclosed that it was targeted in a cyber attack that allowed an unauthorized party to gain access to some parts of its infrastructure. The incident is assessed to…"
     },
     {
-      "title": "Binance Reveals How Fake Job Interviews and AI Tool Abuse Led to $6.43 Billion Theft",
-      "link": "https://thehackernews.com/2026/11/binance-reveals-how-fake-job-interviews.html",
-      "source": "The Hacker News",
-      "pubDate": "2026-11-03T16:55:58.000Z",
-      "snippet": "Binance on Tuesday said the record-setting theft of $6.43 billion in assets from the world's largest cryptocurrency exchange was the culmination of a \"sophisticated, multi-stage campaign\" that involved the use of a tampe…"
-    },
-    {
-      "title": "Barracuda Flaws Could Be Chained to Bypass Authorization and Gain Root Access",
-      "link": "https://thehackernews.com/2026/11/barracuda-flaws-could-be-chained-to.html",
-      "source": "The Hacker News",
-      "pubDate": "2026-11-03T15:59:19.000Z",
-      "snippet": "Barracuda has disclosed details of two vulnerabilities affecting its products that, if chained together, could allow an attacker to bypass authorization controls and gain root access to a susceptible device. The vulnerab…"
-    },
-    {
       "title": "9 Cyber Awareness Tips That Actually Match Today's Maze of Threats",
       "link": "https://www.darkreading.com/cyber-risk/9-cyber-awareness-tips-todays-maze-threats",
       "source": "Dark Reading",
@@ -357,20 +385,6 @@
       "source": "Dark Reading",
       "pubDate": "2026-11-03T15:35:50.000Z",
       "snippet": "Cybercriminals have turned reselling cloud access to LLMs into a lucrative business model, with some victims paying as much as $1 million in resource consumption before access was revoked."
-    },
-    {
-      "title": "Barracuda warns of critical flaws allowing root access to devices",
-      "link": "https://www.bleepingcomputer.com/news/security/barracuda-warns-of-critical-flaws-allowing-root-access-to-devices/",
-      "source": "BleepingComputer",
-      "pubDate": "2026-11-03T15:06:16.000Z",
-      "snippet": "Cybersecurity company Barracuda Networks warned customers to patch two vulnerabilities that can let attackers run commands with root privileges. [...]"
-    },
-    {
-      "title": "Gartner Predicts SOCs Will Have 50% More Engineers Than Analysts by 2028",
-      "link": "https://www.bleepingcomputer.com/news/security/gartner-predicts-socs-will-have-50-percent-more-engineers-than-analysts-by-2028/",
-      "source": "BleepingComputer",
-      "pubDate": "2026-11-03T15:00:10.000Z",
-      "snippet": "Gartner predicts that security operations centers will have 50% more engineers than analysts by 2028 as AI agents take over routine alert handling. Prophet Security examines how AI is reshaping SOC roles, from analyst re…"
     },
     {
       "title": "3AM Affiliate Embraces AI-Like Loops in European School Attack",
@@ -406,20 +420,6 @@
       "source": "Dark Reading",
       "pubDate": "2026-11-02T14:00:00.000Z",
       "snippet": "Organizations in the region face growing cyberattacks from the known India-linked threat group, which leverages legitimate Windows functionality in three distinct attack chains."
-    },
-    {
-      "title": "Investors Dish on New Startups &amp; What They'd Back Next",
-      "link": "https://www.darkreading.com/cybersecurity-operations/investors-dish-new-startsup-what-back-next",
-      "source": "Dark Reading",
-      "pubDate": "2026-10-30T21:08:25.000Z",
-      "snippet": "The cybersecurity market is difficult to predict, but a glimpse into the annual DataTribe Challenge shows what's trending and what's not."
-    },
-    {
-      "title": "Devs Hit by Trojanized Claude Code Extension for Cursor",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/devs-trojanized-claude-code-extension-cursor",
-      "source": "Dark Reading",
-      "pubDate": "2026-10-30T20:05:58.000Z",
-      "snippet": "Two serious security issues hit Cursor on the same day, highlighting the risks for AI-powered integrated development environments (IDEs)."
     }
   ]
 }
