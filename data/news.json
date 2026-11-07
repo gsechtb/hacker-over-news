@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-11-07T06:00:30.562Z",
+  "generatedAt": "2026-11-07T13:04:16.260Z",
   "items": [
+    {
+      "title": "SonicWall Patches Exploited SonicOS Vulnerability That Weakens VPN Logins",
+      "link": "https://www.securityweek.com/sonicwall-patches-exploited-sonicos-bug-that-weakens-vpn-logins/",
+      "source": "SecurityWeek",
+      "pubDate": "2026-11-07T10:16:23.000Z",
+      "snippet": "CVE-2026-19868 can let attackers holding credentials for a different login method get past SAML checks, including SAML-enforced MFA. The post SonicWall Patches Exploited SonicOS Vulnerability That Weakens VPN Logins appe…"
+    },
+    {
+      "title": "Claude Code's “Don't Ask Again” File Exposes Passwords and Keys in 1,122 Public Copies on GitHub",
+      "link": "https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html",
+      "source": "The Hacker News",
+      "pubDate": "2026-11-07T06:44:17.000Z",
+      "snippet": "Passwords and API keys that developers typed into commands they approved in Claude Code are sitting in public GitHub repositories, where anyone can read them. When a user selects \"Yes, and don't ask again,\" Anthropic's A…"
+    },
     {
       "title": "SonicWall warns of new SSL-VPN MFA bypass flaw exploited in attacks",
       "link": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-new-ssl-vpn-mfa-bypass-flaw-exploited-in-attacks/",
@@ -254,13 +268,6 @@
       "snippet": "Two flaws in Barracuda's Email Security Gateway, an email-filtering appliance, can be chained to run commands on it as root, its highest level of access, with no login required. The company released patches on Monday, an…"
     },
     {
-      "title": "3 Charged in Scheme to Use AI to Impersonate CEOs and Attorneys to Steal $129 Million",
-      "link": "https://www.securityweek.com/3-charged-in-scheme-to-use-ai-to-impersonate-ceos-and-attorneys-to-steal-129-million/",
-      "source": "SecurityWeek",
-      "pubDate": "2026-11-06T03:03:29.000Z",
-      "snippet": "The trio, who have nicknames that include “Rocky Balboa,” “Superman Cash” and “Fat Boy,” often targeted the companies’ accounting departments. The post 3 Charged in Scheme to Use AI to Impersonate CEOs and Attorneys to S…"
-    },
-    {
       "title": "FBI, CISA warn of cyberattacks targeting refrigeration systems",
       "link": "https://www.bleepingcomputer.com/news/security/fbi-cisa-warn-of-cyberattacks-targeting-refrigeration-systems/",
       "source": "BleepingComputer",
@@ -371,13 +378,6 @@
       "source": "The Hacker News",
       "pubDate": "2026-11-05T12:08:54.000Z",
       "snippet": "OpenAI on Wednesday detailed a pipeline that employed an upcoming cyber-focused artificial intelligence (AI) model to validate and patch 948 local privilege escalation vulnerabilities in Linux for $1.2 million in API cos…"
-    },
-    {
-      "title": "5 Active Cyber Threats That Put US Enterprises at Risk in October 2026",
-      "link": "https://thehackernews.com/2026/11/5-active-cyber-threats-that-put-us.html",
-      "source": "The Hacker News",
-      "pubDate": "2026-11-05T10:06:19.000Z",
-      "snippet": "October 2026 brought another wave of cyber threats targeting US businesses, with attackers exploiting trusted platforms, legitimate authentication processes, and everyday business workflows. For enterprises, these campai…"
     },
     {
       "title": "Want to Rent an Internet Address at the White House?",
