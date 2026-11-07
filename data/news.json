@@ -1,6 +1,34 @@
 {
-  "generatedAt": "2026-11-06T19:26:27.334Z",
+  "generatedAt": "2026-11-07T06:00:30.562Z",
   "items": [
+    {
+      "title": "SonicWall warns of new SSL-VPN MFA bypass flaw exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-new-ssl-vpn-mfa-bypass-flaw-exploited-in-attacks/",
+      "source": "BleepingComputer",
+      "pubDate": "2026-11-07T00:00:55.000Z",
+      "snippet": "SonicWall has released security updates to fix seven vulnerabilities in SonicOS firewalls, including an SSL-VPN authentication bypass flaw exploited in attacks. [...]"
+    },
+    {
+      "title": "Runaway AI hacking agent behind WorkOS breach after escaping sandbox",
+      "link": "https://www.bleepingcomputer.com/news/security/runaway-ai-hacking-agent-behind-workos-breach-after-escaping-sandbox/",
+      "source": "BleepingComputer",
+      "pubDate": "2026-11-06T22:27:25.000Z",
+      "snippet": "WorkOS says an AI-powered hacking agent that breached its internal sales application and accessed customer information was operated by a security researcher who claims the tool escaped its testing environment and uninten…"
+    },
+    {
+      "title": "UK Wades Into Tech Sovereignty Amid AI Policy Changes",
+      "link": "https://www.darkreading.com/cybersecurity-operations/uk-tech-sovereignty-ai-policy",
+      "source": "Dark Reading",
+      "pubDate": "2026-11-06T21:27:36.000Z",
+      "snippet": "The UK is betting on domestic AI and cyber investment to reduce reliance on US tech — but security leaders question whether the funding is too fragmented and too late."
+    },
+    {
+      "title": "OpenAI's new GPT-6 Cyber AI finds 81 Firefox flaws, 948 Linux bugs",
+      "link": "https://www.bleepingcomputer.com/news/security/openais-new-gpt-6-cyber-ai-finds-81-firefox-flaws-948-linux-bugs/",
+      "source": "BleepingComputer",
+      "pubDate": "2026-11-06T20:24:19.000Z",
+      "snippet": "OpenAI has revealed GPT-6 Cyber, a new artificial intelligence model that has discovered 81 previously unknown high-severity Firefox vulnerabilities and developed working exploits for 948 distinct Linux kernel flaws. [..…"
+    },
     {
       "title": "Medical services company settles with 4 states over 2023 hack of sensitive patient records",
       "link": "https://therecord.media/medical-services-company-settles-with-4-state-ags",
@@ -247,6 +275,13 @@
       "snippet": "The European Commission accused TikTok on Friday of failing to prevent its recommendation algorithm from drawing users into “rabbit holes” of content about sadness, self-harm and body image."
     },
     {
+      "title": "Operação de influência russa tem como alvo generalizado a América Latina",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/opera-o-de-influ-ncia-russa-tem-como-alvo-generalizado-a-am-rica-latina",
+      "source": "Dark Reading",
+      "pubDate": "2026-11-05T22:13:23.000Z",
+      "snippet": "A operação, que contou com o uso de inteligência artificial, utilizou e-mails falsos, documentos governamentais falsificados e a criação de uma organização local para atacar escolas no Peru e no Equador, entre outras açõ…"
+    },
+    {
       "title": "US Government Email Systems Open to Abuse Thanks to Typos",
       "link": "https://www.darkreading.com/cybersecurity-operations/us-government-email-systems-abuse-typos",
       "source": "Dark Reading",
@@ -317,27 +352,6 @@
       "snippet": "Cybersecurity researchers have disclosed details of a now-patched vulnerability that could be exploited to bypass Lockdown Mode protections in OpenAI ChatGPT. Lockdown Mode was introduced by the artificial intelligence (…"
     },
     {
-      "title": "Hackers backdoor Linux servers using trojanized CWP web server",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-backdoor-linux-servers-using-trojanized-cwp-web-server/",
-      "source": "BleepingComputer",
-      "pubDate": "2026-11-05T16:24:26.000Z",
-      "snippet": "A new Linux malware called CWPdoor is being distributed through a trojanized version of cwpsrv, the web server behind the Control Web Panel (CWP) management interface. [...]"
-    },
-    {
-      "title": "DigiCert data breach exposes customer information, identity documents",
-      "link": "https://www.bleepingcomputer.com/news/security/digicert-data-breach-exposes-customer-information-identity-documents/",
-      "source": "BleepingComputer",
-      "pubDate": "2026-11-05T16:12:46.000Z",
-      "snippet": "DigiCert warns it suffered a data breach after a server migration mistakenly exposed an internal business system to the internet, allowing unauthorized access to customer information and identity documents. [...]"
-    },
-    {
-      "title": "Closing the Identity Gap at the Service Desk",
-      "link": "https://www.bleepingcomputer.com/news/security/closing-the-identity-gap-at-the-service-desk/",
-      "source": "BleepingComputer",
-      "pubDate": "2026-11-05T15:00:10.000Z",
-      "snippet": "Attackers target IT service desks to bypass MFA by impersonating employees and convincing staff to reset passwords or register new authentication devices. Specops Software explains why traditional identity verification m…"
-    },
-    {
       "title": "ThreatsDay: Apache OFBiz RCE, DreamHost Breach, DeFi Site Hijacks + 17 More Stories",
       "link": "https://thehackernews.com/2026/11/threatsday-apache-ofbiz-rce-dreamhost.html",
       "source": "The Hacker News",
@@ -406,20 +420,6 @@
       "source": "Dark Reading",
       "pubDate": "2026-11-04T01:05:40.000Z",
       "snippet": "The new YubiID service bridges identity verification with credential enrollment and recovery across existing identity platforms, closing an important authentication gap. Plus: post-quantum YubiKey beta."
-    },
-    {
-      "title": "Fresh European Fridge Attacks Put Cold-Chain Security in Focus",
-      "link": "https://www.darkreading.com/ics-ot-security/fresh-european-fridge-attacks-cold-chain-security",
-      "source": "Dark Reading",
-      "pubDate": "2026-11-03T22:16:49.000Z",
-      "snippet": "Beyond food storage, the same combination of Internet connectivity, remote access, and inadequate security practices can put temperature-controlled infrastructure across other critical sectors at risk."
-    },
-    {
-      "title": "Germany Busts 'Crime-as-a-Service' Investment Fraud Outfit",
-      "link": "https://www.darkreading.com/cybersecurity-operations/germany-crime-service-investment-fraud",
-      "source": "Dark Reading",
-      "pubDate": "2026-11-03T21:57:12.000Z",
-      "snippet": "Authorities seized more than 100 servers and arrested seven as part of a crackdown on a fraud network spanning more than 50 countries."
     }
   ]
 }
