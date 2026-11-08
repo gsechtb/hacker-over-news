@@ -1,6 +1,13 @@
 {
-  "generatedAt": "2026-11-08T06:04:15.326Z",
+  "generatedAt": "2026-11-08T13:27:39.327Z",
   "items": [
+    {
+      "title": "Brava Security Emerges From Stealth With $15 Million in Funding",
+      "link": "https://www.securityweek.com/brava-security-emerges-from-stealth-with-15-million-in-funding/",
+      "source": "SecurityWeek",
+      "pubDate": "2026-11-08T12:14:00.000Z",
+      "snippet": "Its multi-agent AI platform generates the telemetry an attack would produce to fix gaps in enterprise defenses. The post Brava Security Emerges From Stealth With $15 Million in Funding appeared first on SecurityWeek ."
+    },
     {
       "title": "Hackers pull off $133 million French bank heist via service provider",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-pull-off-133-million-french-bank-heist-via-service-provider/",
@@ -238,13 +245,6 @@
       "source": "The Hacker News",
       "pubDate": "2026-11-06T11:30:00.000Z",
       "snippet": "An update on Athena, and some unsolicited predictions on what's coming next On Saturday, Dario Amodei published We Must Pace the Frontier. I agree with him. Go read it if you haven't. I've spent the summer looking at wha…"
-    },
-    {
-      "title": "OpenAI Model Wrote Its Own Network Code to Get Around Sandbox Restrictions",
-      "link": "https://www.securityweek.com/openai-model-wrote-its-own-network-code-to-get-around-sandbox-restrictions/",
-      "source": "SecurityWeek",
-      "pubDate": "2026-11-06T09:33:51.000Z",
-      "snippet": "After its sandbox proxy failed, an internal OpenAI model crafted raw packets and probed AWS services trying to reach the internet. The post OpenAI Model Wrote Its Own Network Code to Get Around Sandbox Restrictions appea…"
     },
     {
       "title": "MetaMask says recent attack didn't affect wallet infrastructure",
