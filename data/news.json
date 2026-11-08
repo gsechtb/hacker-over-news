@@ -1,6 +1,13 @@
 {
-  "generatedAt": "2026-11-08T13:27:39.327Z",
+  "generatedAt": "2026-11-08T22:07:51.361Z",
   "items": [
+    {
+      "title": "Iris Ohyama data cloud breach exposes info of 7.7 million customers",
+      "link": "https://www.bleepingcomputer.com/news/security/iris-ohyama-data-cloud-breach-exposes-info-of-77-million-customers/",
+      "source": "BleepingComputer",
+      "pubDate": "2026-11-08T15:43:08.000Z",
+      "snippet": "Japanese manufacturer Iris Ohyama, the operator of the Iris Plaza shopping platform, disclosed that personal information belonging to about 7.7 million people may have been exposed after unauthorized access to a third-pa…"
+    },
     {
       "title": "Brava Security Emerges From Stealth With $15 Million in Funding",
       "link": "https://www.securityweek.com/brava-security-emerges-from-stealth-with-15-million-in-funding/",
@@ -322,13 +329,6 @@
       "source": "Dark Reading",
       "pubDate": "2026-11-05T21:00:47.000Z",
       "snippet": "In this video conversation, Dark Reading editors discuss some of the news they didn't get a chance to cover, from an ill-conceived phishing simulation to a hacktivist attack on a US government agency."
-    },
-    {
-      "title": "Nearly 1.5 million exposed secrets targeted in new revocation program",
-      "link": "https://www.bleepingcomputer.com/news/security/truffle-security-launches-program-to-revoke-14-million-live-secrets/",
-      "source": "BleepingComputer",
-      "pubDate": "2026-11-05T20:15:08.000Z",
-      "snippet": "Truffle Security has launched the Secrets Revocation Program, a free initiative that helps API key issuers revoke 1.4 million publicly exposed secrets that remain valid. [...]"
     },
     {
       "title": "APT29's Watering Holes Target Thousands of Mobile Users",
