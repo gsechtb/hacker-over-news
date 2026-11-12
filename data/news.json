@@ -1,6 +1,83 @@
 {
-  "generatedAt": "2026-11-11T19:38:04.956Z",
+  "generatedAt": "2026-11-12T07:13:35.893Z",
   "items": [
+    {
+      "title": "Critical Apache HTTP/2 Flaw Could Let Unauthenticated Attackers Execute Code Remotely",
+      "link": "https://thehackernews.com/2026/11/critical-apache-http2-flaw-could-let.html",
+      "source": "The Hacker News",
+      "pubDate": "2026-11-12T05:12:26.000Z",
+      "snippet": "A critical flaw in Apache HTTP Server's HTTP/2 module, mod_http2, can let a remote attacker run code on the server. Tracked as CVE-2026-119618, it affects versions 2.4.55 through 2.4.70 and is fixed in version 2.4.71, re…"
+    },
+    {
+      "title": "ScreenConnect Attacks Target at Least 288 Endpoints Across 48 Organizations With Rogue Clients",
+      "link": "https://thehackernews.com/2026/11/screenconnect-attacks-target-at-least.html",
+      "source": "The Hacker News",
+      "pubDate": "2026-11-12T04:39:48.000Z",
+      "snippet": "ConnectWise has taken the precautionary step of disabling five third-party extensions in partner environments following reports of unauthorized access. In an advisory posted on its site, the company said there is no evid…"
+    },
+    {
+      "title": "Chinese AI Project Scouts Spies in Taiwan Chip Industry",
+      "link": "https://www.darkreading.com/threat-intelligence/chinese-ai-project-scouts-spies-taiwan-chip-industry",
+      "source": "Dark Reading",
+      "pubDate": "2026-11-12T01:00:00.000Z",
+      "snippet": "The CCP built a Big Data system to scrape reams of information and learn about individuals abroad, to potentially target and exploit them. Think Alice Huang Lite."
+    },
+    {
+      "title": "Japan Pushes Emergency Funding for Cybersecurity as AI-Assisted Breaches Rise",
+      "link": "https://www.darkreading.com/cybersecurity-operations/japan-emergency-funding-cybersecurity-ai-assisted-breaches",
+      "source": "Dark Reading",
+      "pubDate": "2026-11-12T00:00:00.000Z",
+      "snippet": "The package adds public-private cyber responders, an AI-focused team run by the economic ministry, and more leeway to use the government's new active cyber-defense powers."
+    },
+    {
+      "title": "Baker Tilly notifies clients of data breach at third-party provider",
+      "link": "https://www.bleepingcomputer.com/news/security/baker-tilly-notifies-clients-of-data-breach-at-third-party-provider/",
+      "source": "BleepingComputer",
+      "pubDate": "2026-11-11T23:01:31.000Z",
+      "snippet": "The Baker Tilly Advisory Group is notifying clients that a data breach has compromised certain personal information about them and their dependents. [...]"
+    },
+    {
+      "title": "Active ScreenConnect attacks breach MSPs, impact dozens of organizations",
+      "link": "https://www.bleepingcomputer.com/news/security/active-screenconnect-attacks-breach-msps-impact-dozens-of-organizations/",
+      "source": "BleepingComputer",
+      "pubDate": "2026-11-11T22:56:21.000Z",
+      "snippet": "ConnectWise is investigating an active malware campaign targeting managed service providers (MSPs) that uses compromised ScreenConnect environments to deploy rogue remote-access clients to customer devices. [...]"
+    },
+    {
+      "title": "Attackers Say 'Hello' to a Different Scale of Cloud Attack",
+      "link": "https://www.darkreading.com/cloud-security/attackers-hello-scale-cloud-attack",
+      "source": "Dark Reading",
+      "pubDate": "2026-11-11T21:44:04.000Z",
+      "snippet": "Researchers dubbed an attack chain &quot;Greeter&quot; after discovering that attackers deliberately covered their trail by leaving &quot;hello&quot; messages in logs."
+    },
+    {
+      "title": "eMudhra revokes 8 more CA certificates after private key mishap",
+      "link": "https://www.bleepingcomputer.com/news/security/emudhra-revokes-8-more-ca-certificates-after-private-key-mishap/",
+      "source": "BleepingComputer",
+      "pubDate": "2026-11-11T21:27:40.000Z",
+      "snippet": "Certificate authority eMudhra has revoked eight additional intermediate CA certificates after an investigation into its recent certificate security incident found improper handling of private keys during the certificate-…"
+    },
+    {
+      "title": "AI Raises the Stakes for Cyber Resilience",
+      "link": "https://www.darkreading.com/cyber-risk/ai-raises-stakes-cyber-resilience",
+      "source": "Dark Reading",
+      "pubDate": "2026-11-11T21:20:41.000Z",
+      "snippet": "An organization's ability to quickly recover from a business disruption will be a competitive advantage in an era of AI-driven threats and business enablement."
+    },
+    {
+      "title": "Notion says Fireworks breach exposed customer AI chat transcripts",
+      "link": "https://www.bleepingcomputer.com/news/security/notion-says-fireworks-breach-exposed-customer-ai-chat-transcripts/",
+      "source": "BleepingComputer",
+      "pubDate": "2026-11-11T20:54:20.000Z",
+      "snippet": "Notion, the digital workspace platform, disclosed that a security breach at its AI infrastructure provider, Fireworks AI, exposed Notion AI chat transcripts in a small number of workspaces. [...]"
+    },
+    {
+      "title": "N-able Takes N-central Platform Offline After Discovery of 33 Flaws",
+      "link": "https://www.darkreading.com/endpoint-security/n-able-n-central-offline-33-flaws",
+      "source": "Dark Reading",
+      "pubDate": "2026-11-11T20:05:18.000Z",
+      "snippet": "The RMM provider also released a hotfix as one of recommended mitigations to address public exploits for the alleged zero-days that allow for attacker takeover."
+    },
     {
       "title": "Who Runs the Ransomware Group Qilin?",
       "link": "https://krebsonsecurity.com/2026/11/who-runs-the-ransomware-group-qilin/",
@@ -317,13 +394,6 @@
       "snippet": "An attacker exploited a remote code execution flaw in SGLang, an open-source inference engine, and ran code on one of NEAR AI's inference servers last Sunday. The attacker could also have seen requests being processed on…"
     },
     {
-      "title": "Microsoft November 2026 Patch Tuesday fixes 1,235 flaws, Outlook zero-day",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-november-2026-patch-tuesday-fixes-1-235-flaws-outlook-zero-day/",
-      "source": "BleepingComputer",
-      "pubDate": "2026-11-10T19:07:36.000Z",
-      "snippet": "Today is Microsoft's November 2026 Patch Tuesday, with security updates addressing a record-breaking 1,235 flaws, including one actively exploited Microsoft Outlook zero-day vulnerability. [...]"
-    },
-    {
       "title": "AI Coding Agents Leak Thousands of Secrets to GitHub",
       "link": "https://www.darkreading.com/cyber-risk/ai-coding-agents-leak-secrets-github",
       "source": "Dark Reading",
@@ -331,46 +401,11 @@
       "snippet": "A command in Claude Code inadvertently saves files with credentials and other sensitive data to public Git repositories, creating security gaps for organizations."
     },
     {
-      "title": "Windows 11 KB5132061 & KB5131087 cumulative updates released",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5132061-and-kb5131087-cumulative-updates-released/",
-      "source": "BleepingComputer",
-      "pubDate": "2026-11-10T18:33:26.000Z",
-      "snippet": "Microsoft has released the Patch Tuesday Windows 11 and cumulative updates for versions 26H2/25H2/24H2 and 23H2 to fix security vulnerabilities and bugs, and add new features. [...]"
-    },
-    {
       "title": "Hackers Exploit Critical Xen Orchestra Auth Bypass Flaw to Gain Admin Access",
       "link": "https://thehackernews.com/2026/11/hackers-exploit-critical-xen-orchestra.html",
       "source": "The Hacker News",
       "pubDate": "2026-11-10T18:12:21.000Z",
       "snippet": "French software company Vates VMS has warned of a critical security vulnerability in Xen Orchestra that it said is being actively exploited in the wild. The authentication bypass flaw, which does not yet have a CVE ident…"
-    },
-    {
-      "title": "Three China-Nexus Espionage Campaigns Linked Through Sparrow Malware Ecosystem",
-      "link": "https://thehackernews.com/2026/11/three-china-nexus-espionage-campaigns.html",
-      "source": "The Hacker News",
-      "pubDate": "2026-11-10T17:43:23.000Z",
-      "snippet": "Three distinct threat activity clusters with shared infrastructure and malware code similarities have been observed targeting telecommunications providers, government organizations, military entities, research institutio…"
-    },
-    {
-      "title": "Critical Xen Orchestra auth bypass flaw exploited to hijack VM servers",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-xen-orchestra-auth-bypass-flaw-exploited-to-hijack-vm-servers/",
-      "source": "BleepingComputer",
-      "pubDate": "2026-11-10T16:17:16.000Z",
-      "snippet": "A critical authentication bypass vulnerability in Xen Orchestra is being actively exploited in attacks that could grant administrator privileges and allow takeover of XCP-ng virtualization hosts. [...]"
-    },
-    {
-      "title": "Attackers Exploit AhsayCBS Flaws to Deploy Sandbox-Evading Python Backdoor",
-      "link": "https://thehackernews.com/2026/11/attackers-exploit-ahsaycbs-flaws-to.html",
-      "source": "The Hacker News",
-      "pubDate": "2026-11-10T16:00:55.000Z",
-      "snippet": "Cybersecurity researchers have disclosed details of an attack that exploited two now-patched vulnerabilities in AhsayCBS to deliver a Python-based implant. The activity, observed by Huntress in early October 2026, involv…"
-    },
-    {
-      "title": "Binance warns of iOS flaw that could leak crypto wallet secrets",
-      "link": "https://www.bleepingcomputer.com/news/security/binance-warns-of-ios-flaw-that-could-leak-crypto-wallet-secrets/",
-      "source": "BleepingComputer",
-      "pubDate": "2026-11-10T15:59:19.000Z",
-      "snippet": "Binance is warning about a vulnerability in Apple's iOS 26.7.1, 27.0.1, and 27.2 that could allow third-party apps to read private files stored by other apps, including cryptocurrency seed phrases, secret keys, and login…"
     },
     {
       "title": "AI Makes Reverse Engineering Mainstream Software &amp; Malware Far Easier",
@@ -385,41 +420,6 @@
       "source": "Dark Reading",
       "pubDate": "2026-11-09T23:06:22.000Z",
       "snippet": "Dark Reading Confidential Episode 22: You can love AI without being blind to cybersecurity being sacrificed for utility."
-    },
-    {
-      "title": "CISA Announces Enhanced Reporting Form for Cyber Incidents",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/cisa-announces-enhanced-reporting-form-cyber-incidents",
-      "source": "Dark Reading",
-      "pubDate": "2026-11-09T21:38:20.000Z",
-      "snippet": "New questionnaire captures critical data and information that improves the agency’s ability to assess incidents, identify trends and prioritize response actions."
-    },
-    {
-      "title": "Microsoft Fixes RCE Bug in Windows Paint After Weeks of Confusion",
-      "link": "https://www.darkreading.com/application-security/microsoft-rce-bug-windows-paint-confusion",
-      "source": "Dark Reading",
-      "pubDate": "2026-11-09T21:12:24.000Z",
-      "snippet": "Last month, Microsoft disclosed a vulnerability in Microsoft Paint, but messaging regarding a patch was unclear."
-    },
-    {
-      "title": "Black Hat India 2026 Makes a Landmark Debut in Bengaluru, Bringing the Global Cybersecurity Community to India",
-      "link": "https://www.darkreading.com/cybersecurity-operations/black-hat-india-2026-landmark-debut",
-      "source": "Dark Reading",
-      "pubDate": "2026-11-09T20:19:56.000Z",
-      "snippet": "Inaugural edition by Informa Markets in India brings together leading researchers, security practitioners and industry decision makers for four days of cutting-edge research, technical exchange and strategic dialogue."
-    },
-    {
-      "title": "Attackers Crash Claude's 'Office Party' Flaw to Run Malicious Code on Linux",
-      "link": "https://www.darkreading.com/endpoint-security/attackers-claude-office-party-flaw-malicious-code-linux",
-      "source": "Dark Reading",
-      "pubDate": "2026-11-09T18:08:30.000Z",
-      "snippet": "Attackers can exploit a flaw in Claude's document-processing tool by creating a temporary file that Anthropic's AI assistant can access and run on a user's machine."
-    },
-    {
-      "title": "PwC's CISO on AI, Robots &amp; What's Next for Security",
-      "link": "https://www.darkreading.com/cybersecurity-operations/pwc-ciso-ai-robots-security",
-      "source": "Dark Reading",
-      "pubDate": "2026-11-09T17:17:23.000Z",
-      "snippet": "As AI accelerates change across the enterprise, PwC's James Shira explains why security teams must rethink their approach to risk and adapt their strategies."
     }
   ]
 }
