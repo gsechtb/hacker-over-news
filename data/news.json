@@ -1,12 +1,75 @@
 {
-  "generatedAt": "2026-11-17T20:57:57.676Z",
+  "generatedAt": "2026-11-18T07:32:15.393Z",
   "items": [
     {
-      "title": "Uber says nearly 150,000 impacted by third-party breach",
-      "link": "https://therecord.media/uber-says-150000-impacted-third-party-breach",
+      "title": "Attackers Compromise Microsoft's Agent Framework PyPI Package to Steal Cloud Credentials",
+      "link": "https://thehackernews.com/2026/11/attackers-compromise-microsofts-agent.html",
+      "source": "The Hacker News",
+      "pubDate": "2026-11-18T06:45:26.000Z",
+      "snippet": "Threat actors have compromised Microsoft's agent-framework package to push a credential stealer, according to reports from Aikido, Endor Labs, OX Security, SafeDep, Socket, StepSecurity, and Google-owned Wiz. The malicio…"
+    },
+    {
+      "title": "Russian COLD RELIC Hackers Use Stolen Google Workspace Data to Breach Second U.S. Organization",
+      "link": "https://thehackernews.com/2026/11/russian-cold-relic-hackers-use-stolen.html",
+      "source": "The Hacker News",
+      "pubDate": "2026-11-18T05:58:04.000Z",
+      "snippet": "The Russia-linked cyber espionage group known as Cold Relic (formerly COLDRIVER and UNC4057) has been observed weaponizing a single cloud compromise into a launchpad for a series of linked intrusions resulting in third-p…"
+    },
+    {
+      "title": "Critical Java4Shell Flaw (CVE-2026-114938) Enables Pre-Auth RCE in Jira, Jenkins, Keycloak and More",
+      "link": "https://thehackernews.com/2026/11/java4shell-cve-2026-114938-enables-pre.html",
+      "source": "The Hacker News",
+      "pubDate": "2026-11-18T04:27:41.000Z",
+      "snippet": "A Java flaw called Java4Shell can let attackers without an account run their own code on Jira, Jenkins, Keycloak, and three other widely used applications, says Calif, the security research firm that disclosed it this we…"
+    },
+    {
+      "title": "Attackers Used Optimizely to A/B Test Malware on Top Websites",
+      "link": "https://krebsonsecurity.com/2026/11/attackers-used-optimizely-to-a-b-test-malware-on-top-websites/",
+      "source": "Krebs on Security",
+      "pubDate": "2026-11-18T02:52:04.000Z",
+      "snippet": "At least 178 top web destinations unwittingly served a variety of malware exploits against visitors over the past 24 hours thanks to a security vulnerability involving Optimizely, a company that helps websites customize…"
+    },
+    {
+      "title": "Classified Communications Network at the National Security Agency Goes Down, Defense Official Says",
+      "link": "https://www.securityweek.com/classified-communications-network-at-the-national-security-agency-goes-down-defense-official-says/",
+      "source": "SecurityWeek",
+      "pubDate": "2026-11-18T02:15:07.000Z",
+      "snippet": "The problem disrupted the operations of NSANet, a classified internal network used by employees of the agency. The post Classified Communications Network at the National Security Agency Goes Down, Defense Official Says a…"
+    },
+    {
+      "title": "Critical Java4Shell flaw allows RCE attacks on major Java applications",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-java4shell-flaw-allows-rce-attacks-on-major-java-applications/",
+      "source": "BleepingComputer",
+      "pubDate": "2026-11-17T23:04:21.000Z",
+      "snippet": "A critical vulnerability dubbed Java4Shell in OpenJDK, the open-source implementation of Java, can allow unauthenticated attackers to remotely execute code on popular enterprise applications, including Jenkins, Atlassian…"
+    },
+    {
+      "title": "Optimizely Malware Attacks Highlight Third-Party Vendor Risks",
+      "link": "https://www.darkreading.com/cyber-risk/optimizely-malware-attacks-third-party-vendor-risks",
+      "source": "Dark Reading",
+      "pubDate": "2026-11-17T22:34:22.000Z",
+      "snippet": "At least 178 organizations, including several major brands, unwittingly exposed website visitors to hydra-like malware via a third-party platform."
+    },
+    {
+      "title": "Cloud keys leaked in Docker Hub images are stolen within seconds",
+      "link": "https://www.bleepingcomputer.com/news/security/cloud-keys-leaked-in-docker-hub-images-are-stolen-within-seconds/",
+      "source": "BleepingComputer",
+      "pubDate": "2026-11-17T21:27:17.000Z",
+      "snippet": "Credentials and access secrets exposed in public Docker Hub images are being extracted and exploited by attackers within as little as eight seconds of publication. [...]"
+    },
+    {
+      "title": "Website management platform Optimizely confirms hackers put malicious code into customer sites",
+      "link": "https://therecord.media/optimizely-malicious-code-customer-sites",
       "source": "The Record",
-      "pubDate": "2026-11-18T01:20:00.000Z",
-      "snippet": "In breach notification letters, the rideshare company said it was notified by a third party service provider on October 9 that internal credentials were stolen and used to access Uber’s account."
+      "pubDate": "2026-11-17T21:20:00.000Z",
+      "snippet": "Researchers said they found malicious JavaScript code on 178 different widely visited websites run through the Optimizely Web experimentation platform. The company confirmed the breach."
+    },
+    {
+      "title": "'TheMailer' Phishing Kit Puts AI in the Driver's Seat",
+      "link": "https://www.darkreading.com/perimeter/themailer-phishing-kit-ai-drivers-seat",
+      "source": "Dark Reading",
+      "pubDate": "2026-11-17T20:58:13.000Z",
+      "snippet": "The commercial kit uses attacker-supplied AI models to personalize lures, evade spam filters, and scale campaigns to tens of thousands of targets."
     },
     {
       "title": "Japan takes Fugaku supercomputer offlline after cyberattack",
@@ -212,13 +275,6 @@
       "snippet": "Apple on Monday introduced new controls that allow Mac users to give more granular access to data they give to apps, including those that use artificial intelligence (AI) agents. The changes, currently previewed in macOS…"
     },
     {
-      "title": "Optimizely Vulnerability Exploited to Serve Malware on Major Websites",
-      "link": "https://www.securityweek.com/optimizely-vulnerability-exploited-to-serve-malware-on-major-websites/",
-      "source": "SecurityWeek",
-      "pubDate": "2026-11-17T10:22:20.000Z",
-      "snippet": "Affected organizations include BBC, CNN, Zoom, GitLab, Salesforce, Equifax, HSBC, and IKEA. The post Optimizely Vulnerability Exploited to Serve Malware on Major Websites appeared first on SecurityWeek ."
-    },
-    {
       "title": "Court clears brothers of $25 million Ethereum crypto heist charges",
       "link": "https://www.bleepingcomputer.com/news/security/court-clears-brothers-of-25-million-ethereum-crypto-heist-charges/",
       "source": "BleepingComputer",
@@ -289,20 +345,6 @@
       "snippet": "Google Project Zero will replace its \"90+30\" disclosure policy with shorter, fixed deadlines in response to AI-accelerated vulnerability discovery and exploitation. [...]"
     },
     {
-      "title": "California sues OpenAI over AI agents escaping sandboxes, hacking firms",
-      "link": "https://www.bleepingcomputer.com/news/security/california-sues-openai-over-ai-agents-escaping-sandboxes-hacking-firms/",
-      "source": "BleepingComputer",
-      "pubDate": "2026-11-16T20:59:44.000Z",
-      "snippet": "California Attorney General Rob Bonta sued OpenAI on Monday, alleging the company knowingly continued testing advanced artificial intelligence models despite repeated security failures that allowed autonomous AI agents t…"
-    },
-    {
-      "title": "Barracuda links cloud breach to ARTEX AI-powered cyberattack",
-      "link": "https://www.bleepingcomputer.com/news/security/barracuda-links-cloud-breach-to-artex-ai-powered-cyberattack/",
-      "source": "BleepingComputer",
-      "pubDate": "2026-11-16T19:57:13.000Z",
-      "snippet": "Hackers who breached the cloud environment of network and email security company Barracuda earlier this month used a stolen cloud access key and the ARTEX AI penetration testing framework. [...]"
-    },
-    {
       "title": "Ransomware Attacks Increase Behind AI, but Payments Decline",
       "link": "https://www.darkreading.com/threat-intelligence/ransomware-attacks-increase-ai-payments-decline",
       "source": "Dark Reading",
@@ -345,27 +387,6 @@
       "snippet": "A default password opened doors it never should have. A trusted update delivered malware. Even a security feature became a way to break in. Different stories, same problem: the things meant to protect us aren't always do…"
     },
     {
-      "title": "Six Unpatched Danfoss Refrigeration Controller Flaws Could Allow Remote Takeover Without Login",
-      "link": "https://thehackernews.com/2026/11/six-unpatched-danfoss-refrigeration.html",
-      "source": "The Hacker News",
-      "pubDate": "2026-11-16T12:34:21.000Z",
-      "snippet": "Six flaws in Danfoss AK-SM800A refrigeration controllers could let a remote attacker take over a controller without logging in, Dutch security consultancy Midnight Blue said earlier this week. No patch is available, and…"
-    },
-    {
-      "title": "Retadup Worm Resurfaces 7 Years After Takedown to Spread CoffeeLoader Malware",
-      "link": "https://thehackernews.com/2026/11/retadup-worm-resurfaces-7-years-after.html",
-      "source": "The Hacker News",
-      "pubDate": "2026-11-16T12:33:18.000Z",
-      "snippet": "Cybersecurity researchers have disclosed details of a new variant of CoffeeLoader, a malware designed to deliver additional payloads to infected machines. \"On launch, the NSIS-based installer executable dropped a file na…"
-    },
-    {
-      "title": "SANSAR Linux Cryptomining Malware Uses Modified NVIDIA Library to Hide GPU Activity",
-      "link": "https://thehackernews.com/2026/11/sansar-linux-cryptomining-malware-uses.html",
-      "source": "The Hacker News",
-      "pubDate": "2026-11-16T09:32:57.000Z",
-      "snippet": "A financially motivated threat activity cluster tracked as REF3364 has been attributed to a Linux-focused cryptocurrency mining operation that tampers with the readings used to detect high GPU workloads. Central to the i…"
-    },
-    {
       "title": "As Test Takers Turn to AI, Exam Security Plays Catch-Up",
       "link": "https://www.darkreading.com/cybersecurity-operations/test-takers-ai-exam-security-catch-up",
       "source": "Dark Reading",
@@ -399,27 +420,6 @@
       "source": "Dark Reading",
       "pubDate": "2026-11-12T21:18:52.000Z",
       "snippet": "Cybercriminals using agentic pen-testing tools is a proverbial genie out of the bottle at this point, so enterprises need to get a defense plan in place right away."
-    },
-    {
-      "title": "Extortion Group Luna Moth Flits Into Law Firms a Second Time",
-      "link": "https://www.darkreading.com/data-privacy/extortion-luna-moth-law-firms-second-time",
-      "source": "Dark Reading",
-      "pubDate": "2026-11-12T20:09:41.000Z",
-      "snippet": "The cybercriminals are retargeting law firms that refused to pay its first ransom, with a social engineering con aimed at stealing Microsoft access tokens."
-    },
-    {
-      "title": "Inside an AI Attack Against a US Retailer",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/inside-ai-attack-us-retailer",
-      "source": "Dark Reading",
-      "pubDate": "2026-11-12T11:00:00.000Z",
-      "snippet": "When hand-typed commands failed to breach a US retailer, the attacker turned to AI-generated scripts, achieving lateral movement in minutes."
-    },
-    {
-      "title": "Chinese AI Project Scouts Spies in Taiwan Chip Industry",
-      "link": "https://www.darkreading.com/threat-intelligence/chinese-ai-project-scouts-spies-taiwan-chip-industry",
-      "source": "Dark Reading",
-      "pubDate": "2026-11-12T01:00:00.000Z",
-      "snippet": "The CCP built a Big Data system to scrape reams of information and learn about individuals abroad, to potentially target and exploit them. Think Alice Huang Lite."
     }
   ]
 }
