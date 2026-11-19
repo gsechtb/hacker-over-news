@@ -1,6 +1,62 @@
 {
-  "generatedAt": "2026-11-18T20:33:49.997Z",
+  "generatedAt": "2026-11-19T07:28:15.835Z",
   "items": [
+    {
+      "title": "PHP Warns of Critical Security Flaws Affecting All Supported Versions, Fixes Coming November 19",
+      "link": "https://thehackernews.com/2026/11/php-warns-of-critical-security-flaws.html",
+      "source": "The Hacker News",
+      "pubDate": "2026-11-19T04:33:46.000Z",
+      "snippet": "The maintainers of the PHP programming language on Wednesday issued an advisory announcing an upcoming security release that addresses critical flaws. The release is scheduled for November 19, 2026, between 2 and 2:30 p.…"
+    },
+    {
+      "title": "Palo Alto Networks to Buy AI Startup Applied Compute for $4.5 Billion",
+      "link": "https://www.securityweek.com/palo-alto-networks-to-buy-ai-startup-applied-compute-for-4-5-billion/",
+      "source": "SecurityWeek",
+      "pubDate": "2026-11-19T03:25:23.000Z",
+      "snippet": "The all-stock deal will give the cybersecurity company a platform for fine-tuning and running open-weight AI models in public and sovereign clouds. The post Palo Alto Networks to Buy AI Startup Applied Compute for $4.5 B…"
+    },
+    {
+      "title": "Ukraine, FBI arrest ransomware gang members tied to $40M in ransoms",
+      "link": "https://www.bleepingcomputer.com/news/security/ukraine-fbi-arrest-ransomware-gang-members-tied-to-40m-in-ransoms/",
+      "source": "BleepingComputer",
+      "pubDate": "2026-11-18T23:08:33.000Z",
+      "snippet": "Ukrainian authorities, working with the FBI, have arrested four suspected members of an international ransomware organization linked to more than $40.5 million in ransom payments from at least 28 companies worldwide. [..…"
+    },
+    {
+      "title": "Russia's Cold Relic APT Turns One Cloud Breach Into Another",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/cold-relic-turns-one-cloud-breach-into-another",
+      "source": "Dark Reading",
+      "pubDate": "2026-11-18T21:59:46.000Z",
+      "snippet": "The Russia-linked threat group is using data stolen from one victim to target others via convincing impersonations and social engineering attacks."
+    },
+    {
+      "title": "Coinbase blocks $4.7 million in transfers to Elon Musk deepfake scam",
+      "link": "https://www.bleepingcomputer.com/news/security/coinbase-blocks-47-million-in-transfers-to-elon-musk-deepfake-scam/",
+      "source": "BleepingComputer",
+      "pubDate": "2026-11-18T20:49:32.000Z",
+      "snippet": "Coinbase says it blocked $4.7 million in cryptocurrency transfers to scammers promoting a fake giveaway using an AI-generated deepfake of Elon Musk during a Tesla livestream that attracted more than 500,000 viewers. [...…"
+    },
+    {
+      "title": "Strike Graph Launches Integration AI to Automate Continuous Compliance Evidence Using Any Existing Tool",
+      "link": "https://www.darkreading.com/cyber-risk/strike-graph-launches-integration-ai-to-automate-continuous-compliance-evidence-using-any-existing-tool",
+      "source": "Dark Reading",
+      "pubDate": "2026-11-18T20:45:49.000Z",
+      "snippet": "New agentic AI solution leverages APIs to collect compliance evidence from systems and applies it to over 30 frameworks with no duplicate work."
+    },
+    {
+      "title": "Judge signs off on sale of Spirit Airlines’ data to Google",
+      "link": "https://therecord.media/judge-signs-off-google-purchase-spirit-airlines-data",
+      "source": "The Record",
+      "pubDate": "2026-11-18T20:39:00.000Z",
+      "snippet": "Google can take possession of defunct Spirit Airlines' data for $10 million, a federal bankruptcy judge has ruled. The tech giant agreed to protections as it plans to use the data in AI projects."
+    },
+    {
+      "title": "AttackIQ Research Reveals How Iranian Cyber Groups Hand Off Network Access to Enable Destructive Attacks",
+      "link": "https://www.darkreading.com/threat-intelligence/attackiq-research-reveals-iranian-cyber-groups",
+      "source": "Dark Reading",
+      "pubDate": "2026-11-18T20:38:42.000Z",
+      "snippet": "Analysis of 20 Iranian state-sponsored threat groups details how espionage, ransomware, and hacktivism intersect in state-backed cyber campaigns."
+    },
     {
       "title": "Trump administration officials size-up a bad stretch for tech",
       "link": "https://therecord.media/tech-disruptions-house-homeland-committee-testimony",
@@ -84,13 +140,6 @@
       "source": "BleepingComputer",
       "pubDate": "2026-11-18T15:00:10.000Z",
       "snippet": "Attackers are using deepfakes, helpdesk impersonation, and fake IT support requests to deceive employees and gain unauthorized access to corporate systems. Specops Software examines real-world attacks and explains how st…"
-    },
-    {
-      "title": "British hacker gets 6 year sentence for $11.6M crypto theft scheme",
-      "link": "https://therecord.media/british-hacker-gets-six-year-sentence-scattered-spider",
-      "source": "The Record",
-      "pubDate": "2026-11-18T14:48:00.000Z",
-      "snippet": "Tyler Robert Buchanan, 24, of Dundee, Scotland, was previously described as the suspected ringleader of the hacking collective, which Microsoft called “one of the most dangerous financial criminal groups” around."
     },
     {
       "title": "New EggStreme Malware Variant Goes Silent to Evade Security Tools in Government Attacks",
@@ -233,13 +282,6 @@
       "snippet": "A leader of the Scattered Spider cybercrime collective has been sentenced to six years in prison in the United States for stealing millions in cryptocurrency and conspiring to hack a dozen companies. [...]"
     },
     {
-      "title": "Java4Shell Vulnerability Puts Enterprise Applications at Risk of Takeover",
-      "link": "https://www.securityweek.com/java4shell-vulnerability-puts-many-enterprise-applications-at-risk-of-takeover/",
-      "source": "SecurityWeek",
-      "pubDate": "2026-11-18T07:43:34.000Z",
-      "snippet": "Calif demonstrated remote code execution in Jira, Jenkins and Keycloak, while VulnCheck says real-world RCE requires per-target work The post Java4Shell Vulnerability Puts Enterprise Applications at Risk of Takeover appe…"
-    },
-    {
       "title": "Attackers Compromise Microsoft's Agent Framework PyPI Package to Steal Cloud Credentials",
       "link": "https://thehackernews.com/2026/11/attackers-compromise-microsofts-agent.html",
       "source": "The Hacker News",
@@ -331,32 +373,11 @@
       "snippet": "The Tor Project has released a security update for its network relay software to increase defenses against an ongoing distributed denial-of-service attack that it says has overwhelmed relays and affected most operators.…"
     },
     {
-      "title": "Flipper Devices launches $399 ‘Flipper One’ Linux-based multi-tool",
-      "link": "https://www.bleepingcomputer.com/news/hardware/flipper-devices-launches-399-flipper-one-linux-based-multi-tool/",
-      "source": "BleepingComputer",
-      "pubDate": "2026-11-17T16:00:00.000Z",
-      "snippet": "Flipper Devices, the company behind the popular Flipper Zero pentesting device, has launched a crowdfunding campaign for Flipper One, a portable Linux computer and networking multi-tool. [...]"
-    },
-    {
       "title": "Oracle to Patch 11 Java Flaws Today as Critical OpenJDK RCE (CVE-2026-114938) Report Emerges",
       "link": "https://thehackernews.com/2026/11/oracle-to-patch-11-java-flaws-today-as.html",
       "source": "The Hacker News",
       "pubDate": "2026-11-17T15:17:36.000Z",
       "snippet": "Oracle is preparing to release security patches for 11 vulnerabilities in Java SE on Tuesday, November 17, 2026, all of which may be exploited remotely without authentication, as separate reports warn of a potentially cr…"
-    },
-    {
-      "title": "Trigram Campaign Impersonates About 50 AI and Blockchain Brands to Target Devs with Infostealers",
-      "link": "https://thehackernews.com/2026/11/trigram-campaign-impersonates-about-50.html",
-      "source": "The Hacker News",
-      "pubDate": "2026-11-17T15:17:28.000Z",
-      "snippet": "Artificial intelligence (AI), blockchain, and logistics sectors across Europe and the U.S. have emerged as the target of a large-scale, industrialized campaign dubbed Trigram. \"Trigram is a large-scale campaign that impe…"
-    },
-    {
-      "title": "Inside Modern Phishing Kits Built to Steal Microsoft 365 Sessions",
-      "link": "https://www.bleepingcomputer.com/news/security/inside-modern-phishing-kits-built-to-steal-microsoft-365-sessions/",
-      "source": "BleepingComputer",
-      "pubDate": "2026-11-17T15:01:11.000Z",
-      "snippet": "Huntress researchers break down how EvilTokens, Knight Office, and Kali365 capture and replay M365 tokens, plus how defenders can detect and contain them. [...]"
     },
     {
       "title": "Grok Bots Attempt to Access Corporate Data Without User Approval",
@@ -399,27 +420,6 @@
       "source": "Dark Reading",
       "pubDate": "2026-11-16T14:22:15.000Z",
       "snippet": "The emerging technology will soon break the &quot;lock and key&quot; encryption currently protecting sensitive data. A new GAO report shows agencies are behind on building their defenses."
-    },
-    {
-      "title": "As Test Takers Turn to AI, Exam Security Plays Catch-Up",
-      "link": "https://www.darkreading.com/cybersecurity-operations/test-takers-ai-exam-security-catch-up",
-      "source": "Dark Reading",
-      "pubDate": "2026-11-13T22:27:00.000Z",
-      "snippet": "It's hard to detect whether someone is using artificial intelligence to cheat on IT certification exams, but new tools and processes are emerging to boost trust."
-    },
-    {
-      "title": "ArcticRAT Cybercrime Gang Profiles Victim Finances With AI",
-      "link": "https://www.darkreading.com/mobile-security/arcticrat-cybercrime-gang-profiles-victim-finances-ai",
-      "source": "Dark Reading",
-      "pubDate": "2026-11-13T20:20:27.000Z",
-      "snippet": "The Android malware has expanded from focusing on cryptocurrency theft to full device control, and the attackers have added advanced analysis of stolen information."
-    },
-    {
-      "title": "Attackers in Binance Breach Targeted Known Weakness, Missing Controls",
-      "link": "https://www.darkreading.com/cybersecurity-operations/attackers-binance-breach-targeted-weakness-missing-controls",
-      "source": "Dark Reading",
-      "pubDate": "2026-11-13T13:00:00.000Z",
-      "snippet": "Blockchain complexities, such as attacker-deployed sweepers, hobble security controls designed to limit the damage of an exchange compromise."
     }
   ]
 }
