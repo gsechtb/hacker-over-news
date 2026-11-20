@@ -1,6 +1,69 @@
 {
-  "generatedAt": "2026-11-19T20:40:10.587Z",
+  "generatedAt": "2026-11-20T07:18:33.150Z",
   "items": [
+    {
+      "title": "China-Linked Hackers Exploit Critical VMware vCenter Zero-Day to Gain Admin Access and Steal Data",
+      "link": "https://thehackernews.com/2026/11/china-linked-hackers-exploit-critical.html",
+      "source": "The Hacker News",
+      "pubDate": "2026-11-20T06:33:31.000Z",
+      "snippet": "The suspected China-nexus cyber espionage group known as Armory Castle (formerly UNC5221) has been attributed to the zero-day exploitation of a critical security flaw in VMware vCenter Server in early September 2026. The…"
+    },
+    {
+      "title": "New Unpatched Windows 0-Day FastUnlock Lets Someone Holding a Locked PC Run Programs on It",
+      "link": "https://thehackernews.com/2026/11/new-unpatched-windows-0-day-fastunlock.html",
+      "source": "The Hacker News",
+      "pubDate": "2026-11-20T05:30:01.000Z",
+      "snippet": "A newly disclosed unpatched zero-day technique called FastUnlock lets someone with physical access to a locked Windows computer start programs without signing in. Whoever uses it gets only a limited account, not administ…"
+    },
+    {
+      "title": "VMware patches vCenter zero-day exploited in attacks since September",
+      "link": "https://www.bleepingcomputer.com/news/security/vmware-patches-vcenter-zero-day-exploited-in-attacks-since-september/",
+      "source": "BleepingComputer",
+      "pubDate": "2026-11-20T00:26:25.000Z",
+      "snippet": "Broadcom has released security updates to fix a critical VMware vCenter Server authentication bypass vulnerability that Chinese-linked hackers have exploited in zero-day attacks since September 2026. [...]"
+    },
+    {
+      "title": "Qwen Incidents Show Self-Hosted AI Models Need Stronger Steering",
+      "link": "https://www.darkreading.com/cyber-risk/qwen-incidents-self-hosted-ai-models-stronger-steering",
+      "source": "Dark Reading",
+      "pubDate": "2026-11-19T22:40:03.000Z",
+      "snippet": "Companies deploying AI agents have the illusion of control, but several incidents demonstrate that businesses need to be ready to enforce directions."
+    },
+    {
+      "title": "Hackers steal data of 1.6 million SBC Medical Group customers",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-steal-data-of-16-million-sbc-medical-group-customers/",
+      "source": "BleepingComputer",
+      "pubDate": "2026-11-19T22:25:42.000Z",
+      "snippet": "SBC Medical Group has warned in a filing with the U.S. Securities and Exchange Commission (SEC) that two cybersecurity incidents exposed sensitive customer and employee information, including personal data belonging to 1…"
+    },
+    {
+      "title": "Lawmakers launch new AI safety caucus amid rising security concerns",
+      "link": "https://therecord.media/lawmakers-launch-new-ai-safety-caucus",
+      "source": "The Record",
+      "pubDate": "2026-11-19T21:19:00.000Z",
+      "snippet": "Seven of 26 founding members of the caucus are Republicans, a notable number given the White House’s steadfast opposition to regulating AI."
+    },
+    {
+      "title": "ASUS warns of critical hard-coded key flaw in Control Center Express",
+      "link": "https://www.bleepingcomputer.com/news/security/asus-warns-of-critical-hard-coded-key-flaw-in-control-center-express/",
+      "source": "BleepingComputer",
+      "pubDate": "2026-11-19T21:15:59.000Z",
+      "snippet": "ASUS released Control Center Express v1.7.29 to fix three critical vulnerabilities that could let remote attackers gain administrative control of the management console and the devices it manages. [...]"
+    },
+    {
+      "title": "Second Norwegian Energy Company Breached in Two Days",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/second-norwegian-energy-company-breached",
+      "source": "Dark Reading",
+      "pubDate": "2026-11-19T20:14:15.000Z",
+      "snippet": "No specific link has been drawn between the two incidents, though they certainly sing the same notes."
+    },
+    {
+      "title": "Critical PHP Flaws Allow Code Execution, But Don't Panic 'PHP2Shell'-Style",
+      "link": "https://www.darkreading.com/application-security/critical-php-flaws-code-execution-panic-php2shell",
+      "source": "Dark Reading",
+      "pubDate": "2026-11-19T19:57:31.000Z",
+      "snippet": "November's monthly security release patches seven critical PHP flaws that should be addressed ASAP, though experts say exploitability varies and depends heavily on configuration."
+    },
     {
       "title": "Navigating Vulnerability Hysteria in the AI Era",
       "link": "https://www.darkreading.com/vulnerabilities-threats/navigating-vulnerability-hysteria-ai-era",
@@ -86,7 +149,7 @@
       "snippet": "POLITICO had reported CERT-EU had identified the attackers’ use of ARTEX, an open-source AI hacking platform that the FBI last week warned was being used both by criminals and state-sponsored groups."
     },
     {
-      "title": "Critical VMware vCenter Flaw (CVSS 9.8) Lets Network Attackers Bypass Authentication",
+      "title": "Critical VMware vCenter Zero-Day Flaw Lets Network Attackers Bypass Authentication",
       "link": "https://thehackernews.com/2026/11/critical-vmware-vcenter-flaw-cvss-98.html",
       "source": "The Hacker News",
       "pubDate": "2026-11-19T15:11:06.000Z",
@@ -126,13 +189,6 @@
       "source": "Dark Reading",
       "pubDate": "2026-11-19T14:00:00.000Z",
       "snippet": "Bot-driven fraud and holiday social engineering attacks stretch across many weeks, straining security teams and small businesses alike."
-    },
-    {
-      "title": "Ukraine exposes ransomware network extorting US oil, healthcare firms",
-      "link": "https://therecord.media/ukraine-ransomware-arrests-cyber",
-      "source": "The Record",
-      "pubDate": "2026-11-19T13:30:00.000Z",
-      "snippet": "Ukrainian authorities arrested four suspected members of an international ransomware network accused of extorting more than $40 million from companies around the world."
     },
     {
       "title": "Hackers Exploit Cisco Expressway Vulnerability Soon After PoC Release",
@@ -317,13 +373,6 @@
       "snippet": "Six critical vulnerabilities in F5 BIG-IP allow an attacker to crash the Traffic Management Microkernel (TMM) without logging in, disrupting traffic until the TMM restarts. Each flaw needs a specific setup on a virtual s…"
     },
     {
-      "title": "Critical Apache Roller RCE Flaw Under Active Exploitation, No Authentication Required",
-      "link": "https://thehackernews.com/2026/11/critical-apache-roller-rce-flaw-under.html",
-      "source": "The Hacker News",
-      "pubDate": "2026-11-18T17:10:45.000Z",
-      "snippet": "A critical security flaw in Apache Roller, an open-source, Java-based blogging platform, has come under active exploitation in the wild, according to the Apache Software Foundation (ASF) The vulnerability, tracked as CVE…"
-    },
-    {
       "title": "Microsoft’s Agent Framework PyPI package compromised to steal credentials",
       "link": "https://www.bleepingcomputer.com/news/security/microsofts-agent-framework-pypi-package-compromised-to-steal-credentials/",
       "source": "BleepingComputer",
@@ -338,39 +387,11 @@
       "snippet": "Discovered using AI, the memory corruption vulnerability affects the OpenJDK runtime and could allow unauthenticated attackers to take over systems."
     },
     {
-      "title": "From Deepfakes to Helpdesk Impersonation: Why Stronger Verification Matters",
-      "link": "https://www.bleepingcomputer.com/news/security/from-deepfakes-to-helpdesk-impersonation-why-stronger-verification-matters/",
-      "source": "BleepingComputer",
-      "pubDate": "2026-11-18T15:00:10.000Z",
-      "snippet": "Attackers are using deepfakes, helpdesk impersonation, and fake IT support requests to deceive employees and gain unauthorized access to corporate systems. Specops Software examines real-world attacks and explains how st…"
-    },
-    {
-      "title": "New EggStreme Malware Variant Goes Silent to Evade Security Tools in Government Attacks",
-      "link": "https://thehackernews.com/2026/11/eggstreme-hackers-rebuild-malware-with.html",
-      "source": "The Hacker News",
-      "pubDate": "2026-11-18T14:11:28.000Z",
-      "snippet": "The suspected Chinese advanced persistent threat (APT) group behind the sophisticated EggStreme malware has rebuilt its toolkit as it continues to target government organizations in the Philippines. \"When attackers are e…"
-    },
-    {
       "title": "Major Brazilian Signature Apps Enable RCE &amp; Fraud",
       "link": "https://www.darkreading.com/vulnerabilities-threats/major-brazilian-signature-app-rce-fraud",
       "source": "Dark Reading",
       "pubDate": "2026-11-18T14:00:00.000Z",
       "snippet": "Government-sanctioned authentication middleware is used for exceptionally important legal documents, yet it's often rife with RCE bugs."
-    },
-    {
-      "title": "Dizigom illegal streaming service with 21M monthly visits shuts down",
-      "link": "https://www.bleepingcomputer.com/news/security/dizigom-illegal-streaming-service-with-21m-monthly-visits-shuts-down/",
-      "source": "BleepingComputer",
-      "pubDate": "2026-11-18T11:50:25.000Z",
-      "snippet": "The Alliance for Creativity and Entertainment (ACE) has announced the shutdown of Dizigom, one of Turkey's largest piracy sites, after a settlement agreement with the site's operators. [...]"
-    },
-    {
-      "title": "Apache warns of Roller RCE vulnerability exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/apache-warns-of-roller-rce-vulnerability-exploited-in-attacks/",
-      "source": "BleepingComputer",
-      "pubDate": "2026-11-18T10:35:05.000Z",
-      "snippet": "Apache has released security updates to address a critical Roller flaw that threat actors are exploiting to gain code execution on vulnerable servers. [...]"
     },
     {
       "title": "Attackers Used Optimizely to A/B Test Malware on Top Websites",
@@ -399,27 +420,6 @@
       "source": "Dark Reading",
       "pubDate": "2026-11-17T18:38:37.000Z",
       "snippet": "A compromised key issued to AI infrastructure provider Fireworks was used by threat actors to access Cursor data and credentials."
-    },
-    {
-      "title": "Grok Bots Attempt to Access Corporate Data Without User Approval",
-      "link": "https://www.darkreading.com/application-security/grok-bots-corporate-data-without-user-approval",
-      "source": "Dark Reading",
-      "pubDate": "2026-11-17T13:12:56.000Z",
-      "snippet": "Two AI agents, separately over a five-day period, autonomously tried to access connected applications, including Google Calendar, Gmail, Slack, and GitHub, without account owner permission."
-    },
-    {
-      "title": "Google Project Zero Slashes Bug Disclosure Deadlines, Splitting Experts",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/google-project-zero-bug-disclosure-deadlines",
-      "source": "Dark Reading",
-      "pubDate": "2026-11-16T22:08:20.000Z",
-      "snippet": "One of the oldest running bug disclosure programs announced it would shorten public disclosure timelines to vendors from 120 days to 30 over the next 14 months."
-    },
-    {
-      "title": "Ransomware Attacks Increase Behind AI, but Payments Decline",
-      "link": "https://www.darkreading.com/threat-intelligence/ransomware-attacks-increase-ai-payments-decline",
-      "source": "Dark Reading",
-      "pubDate": "2026-11-16T19:56:05.000Z",
-      "snippet": "Large language models and other AI systems allow a growing number of ransomware groups to create convincing phishing emails and identify sensitive data quickly."
     }
   ]
 }
