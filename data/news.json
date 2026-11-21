@@ -1,6 +1,34 @@
 {
-  "generatedAt": "2026-11-20T20:23:51.276Z",
+  "generatedAt": "2026-11-21T07:10:58.343Z",
   "items": [
+    {
+      "title": "CTO of &#8216;RansomwareHelp&#8217; Indicted for Wire Fraud",
+      "link": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
+      "source": "Krebs on Security",
+      "pubDate": "2026-11-21T00:36:39.000Z",
+      "snippet": "The chief technology officer and co-founder of ransomwarehelp.com, a six year old Florida business that claimed to use \"advanced cryptographic tools\" to restore data locked by ransomware, has been charged with wire fraud…"
+    },
+    {
+      "title": "West Virginia Legislature hit with cyber incident affecting IT systems",
+      "link": "https://therecord.media/west-virginia-legislature-cyberattack",
+      "source": "The Record",
+      "pubDate": "2026-11-20T21:34:36.000Z",
+      "snippet": "A cybersecurity incident that began Thursday was still ongoing Friday in the West Virginia Legislature. A spokesperson said the disruption did not spread to other government entities."
+    },
+    {
+      "title": "China's 'Armory Castle' Lays Siege to VMware vCenter Zero-Day",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/china-armory-castle-vmware-vcenter-zero-day",
+      "source": "Dark Reading",
+      "pubDate": "2026-11-20T21:03:27.000Z",
+      "snippet": "During the last wave of major VMware vCenter security updates, a China-nexus threat group likely already had its next zero-day up its sleeve."
+    },
+    {
+      "title": "US companies’ use of Chinese open weight AI draws rebuke from House chairmen",
+      "link": "https://therecord.media/chinese-open-weight-AI-use-by-US-companies-house-investigation",
+      "source": "The Record",
+      "pubDate": "2026-11-20T20:25:00.000Z",
+      "snippet": "An investigation led by the House Homeland Security Committee focused on the dangers of U.S. companies using lower-cost open weight AI models for certain projects."
+    },
     {
       "title": "Container Store restores systems after cyberattack",
       "link": "https://therecord.media/container-store-restores-systems-cyberattack",
@@ -91,20 +119,6 @@
       "source": "SecurityWeek",
       "pubDate": "2026-11-20T14:56:23.000Z",
       "snippet": "Noteworthy stories that might have slipped under the radar: EU adds NoName057(16) to cyber sanctions list, malware targets CACs left in personal computers, Gemini agents targeted Epoch AI. The post In Other News: Norwegi…"
-    },
-    {
-      "title": "Cyber Director Cairncross out as White House resets cyber leadership",
-      "link": "https://therecord.media/sean-cairncross-out-as-national-cyber-director",
-      "source": "The Record",
-      "pubDate": "2026-11-20T14:30:00.000Z",
-      "snippet": "Sean Cairncross is leaving the White House as Kirsten Davies, the Pentagon’s chief information officer, has been named the acting cyber czar."
-    },
-    {
-      "title": "Dozens of credit unions hit by supplier breach that went unnoticed for six weeks",
-      "link": "https://therecord.media/dozens-of-credit-unions-hit-by-supplier-breach",
-      "source": "The Record",
-      "pubDate": "2026-11-20T14:24:00.000Z",
-      "snippet": "Ireland’s Data Protection Commission told Recorded Future News on Thursday it had received more than 40 breach notifications from credit unions that used the Belfast-based company as a data processor."
     },
     {
       "title": "N-able says recent security breach led to major service outage",
@@ -406,20 +420,6 @@
       "source": "Dark Reading",
       "pubDate": "2026-11-18T14:00:00.000Z",
       "snippet": "Government-sanctioned authentication middleware is used for exceptionally important legal documents, yet it's often rife with RCE bugs."
-    },
-    {
-      "title": "Attackers Used Optimizely to A/B Test Malware on Top Websites",
-      "link": "https://krebsonsecurity.com/2026/11/attackers-used-optimizely-to-a-b-test-malware-on-top-websites/",
-      "source": "Krebs on Security",
-      "pubDate": "2026-11-18T02:52:04.000Z",
-      "snippet": "At least 178 top web destinations unwittingly served a variety of malware exploits against visitors over the past 24 hours thanks to a security vulnerability involving Optimizely, a company that helps websites customize…"
-    },
-    {
-      "title": "Optimizely Malware Attacks Highlight Third-Party Vendor Risks",
-      "link": "https://www.darkreading.com/cyber-risk/optimizely-malware-attacks-third-party-vendor-risks",
-      "source": "Dark Reading",
-      "pubDate": "2026-11-17T22:34:22.000Z",
-      "snippet": "At least 178 organizations, including several major brands, unwittingly exposed website visitors to hydra-like malware via a third-party platform."
     }
   ]
 }
