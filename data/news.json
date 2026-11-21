@@ -1,6 +1,69 @@
 {
-  "generatedAt": "2026-11-21T07:10:58.343Z",
+  "generatedAt": "2026-11-21T19:17:57.711Z",
   "items": [
+    {
+      "title": "Microsoft Entra Connect Health flaw exploited to steal tenant data",
+      "link": "https://www.bleepingcomputer.com/news/security/microsoft-entra-connect-health-flaw-exploited-to-steal-tenant-data/",
+      "source": "BleepingComputer",
+      "pubDate": "2026-11-21T18:01:58.000Z",
+      "snippet": "Microsoft is warning organizations that it suffered a data breach after attackers exploited a vulnerability in its Entra Connect Health service to gain unauthorized access to administrator email addresses and tenant conf…"
+    },
+    {
+      "title": "BADBOX botnet returns with record-breaking 40 billion daily ad requests",
+      "link": "https://www.bleepingcomputer.com/news/security/badbox-30-botnet-returns-with-record-breaking-40-billion-daily-ad-requests/",
+      "source": "BleepingComputer",
+      "pubDate": "2026-11-21T15:17:27.000Z",
+      "snippet": "The BADBOX malware found in a broad range of generic Android TV boxes has returned to large-scale ad-fraud operations following last year's disruptions. [...]"
+    },
+    {
+      "title": "FBI reportedly hacked again, this time targeting nationwide police database",
+      "link": "https://www.bleepingcomputer.com/news/security/fbi-reportedly-hacked-again-this-time-targeting-nationwide-police-database/",
+      "source": "BleepingComputer",
+      "pubDate": "2026-11-21T14:26:04.000Z",
+      "snippet": "FBI systems have reportedly been breached for the second time in two months, this time targeting the agency's National Crime Information Center (NCIC), which is used to share information between local, state, and federal…"
+    },
+    {
+      "title": "Amazon: China-Linked Hackers&#8217; AI Agents Exploited Medical Software Zero-Day",
+      "link": "https://www.securityweek.com/amazon-china-linked-hackers-ai-agents-exploited-medical-software-zero-day/",
+      "source": "SecurityWeek",
+      "pubDate": "2026-11-21T12:08:50.000Z",
+      "snippet": "A threat actor used autonomous Cairn AI agents to discover and exploit a critical MONAI Label vulnerability. The post Amazon: China-Linked Hackers&#8217; AI Agents Exploited Medical Software Zero-Day appeared first on Se…"
+    },
+    {
+      "title": "A Single Malicious Webpage Let Researchers Hijack Meta Muse and Access Private Chats",
+      "link": "https://thehackernews.com/2026/11/a-single-malicious-webpage-let.html",
+      "source": "The Hacker News",
+      "pubDate": "2026-11-21T11:53:07.000Z",
+      "snippet": "A malicious webpage could extract a Meta Muse user's private conversations and stored memories from the assistant without triggering any approval prompt, researchers have shown. The same attack could be extended to reach…"
+    },
+    {
+      "title": "GnuPG Warns Critical GPGME Flaw Could Expose App Data via Malicious OpenPGP Keys",
+      "link": "https://thehackernews.com/2026/11/gnupg-warns-critical-gpgme-flaw-could.html",
+      "source": "The Hacker News",
+      "pubDate": "2026-11-21T11:05:53.000Z",
+      "snippet": "A malicious OpenPGP key with an unusually long user ID can trigger a critical memory bug in GPGME, the standard library that programs use to work with GnuPG. The GnuPG project warned yesterday that the flaw could be used…"
+    },
+    {
+      "title": "Attackers' AI Agents Found a Zero-Day in Medical-Imaging Software and Gained Root Access",
+      "link": "https://thehackernews.com/2026/11/attackers-ai-agents-found-zero-day-in.html",
+      "source": "The Hacker News",
+      "pubDate": "2026-11-21T11:03:17.000Z",
+      "snippet": "Suspected China-linked hackers used autonomous AI agents to find a previously unknown flaw in MONAI Label, an open-source medical imaging server, and gain root access to a university server, Amazon Threat Intelligence sa…"
+    },
+    {
+      "title": "Signal Blocks AI Agents From Reading Private Chats via Screenshots on Android and iOS",
+      "link": "https://thehackernews.com/2026/11/signal-blocks-ai-agents-from-reading.html",
+      "source": "The Hacker News",
+      "pubDate": "2026-11-21T08:49:20.000Z",
+      "snippet": "Signal has announced that it will restrict screenshots by default to stop artificial intelligence (AI) agents from reading private chats on Android and iOS devices, but conceded that the protection is \"incomplete.\" The f…"
+    },
+    {
+      "title": "Hackers Exploit Critical VMware, Cisco, and Apache Flaws as Espionage Attacks Emerge",
+      "link": "https://thehackernews.com/2026/11/hackers-exploit-critical-vmware-cisco.html",
+      "source": "The Hacker News",
+      "pubDate": "2026-11-21T08:49:13.000Z",
+      "snippet": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added four flaws impacting Apache Roller, Cisco Expressway, SAP NetWeaver, and Broadcom VMware vCenter to its Known Exploited Vulnerabilities (KE…"
+    },
     {
       "title": "CTO of &#8216;RansomwareHelp&#8217; Indicted for Wire Fraud",
       "link": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
@@ -55,7 +118,7 @@
       "link": "https://thehackernews.com/2026/11/whatsapp-patches-3-security-flaws.html",
       "source": "The Hacker News",
       "pubDate": "2026-11-20T17:57:20.000Z",
-      "snippet": "Meta-owned WhatsApp has addressed security vulnerabilities, including one impacting its Android app that it suspects may have been exploited in connection with scam messages. The vulnerability, tracked as CVE-2026-23871,…"
+      "snippet": "Meta-owned WhatsApp has addressed security vulnerabilities, including one impacting its Android app that it suspects may have been exploited in connection with scam messages. The vulnerability, tracked as CVE-2026-23871…"
     },
     {
       "title": "Hackers use autonomous AI tool Cairn to find zero-day, take over server",
@@ -310,74 +373,11 @@
       "snippet": "Transport for London (TfL) has announced that around 265,000 Oyster photocard customers may have had their account details exposed in a data breach. [...]"
     },
     {
-      "title": "phpAfterShell Explained: How Hackers Could Turn a PHP Session Flaw Into Code Execution",
-      "link": "https://thehackernews.com/2026/11/phpaftershell-explained-how-hackers.html",
-      "source": "The Hacker News",
-      "pubDate": "2026-11-19T16:59:56.000Z",
-      "snippet": "PHP's default file-based session storage can be made to return objects an attacker chose, by cutting off a session write at the right moment. When combined with a second weakness, such as a suitable gadget chain in the a…"
-    },
-    {
-      "title": "PHP security updates fix 18 flaws, including critical RCE bugs",
-      "link": "https://www.bleepingcomputer.com/news/security/php-security-updates-fix-18-flaws-including-critical-rce-bugs/",
-      "source": "BleepingComputer",
-      "pubDate": "2026-11-19T16:28:23.000Z",
-      "snippet": "The PHP development team released security updates addressing 18 vulnerabilities, including critical flaws that could allow unauthenticated attackers to remotely execute code on vulnerable servers. [...]"
-    },
-    {
-      "title": "PHP Patches Seven Critical RCE Vulnerabilities",
-      "link": "https://www.securityweek.com/php-patches-seven-critical-rce-vulnerabilities/",
-      "source": "SecurityWeek",
-      "pubDate": "2026-11-19T15:54:20.000Z",
-      "snippet": "Successful exploitation could allow attackers to crash the worker process and execute code with the PHP worker’s privileges. The post PHP Patches Seven Critical RCE Vulnerabilities appeared first on SecurityWeek ."
-    },
-    {
-      "title": "PHP Fixes 7 Critical Flaws, Including Bugs That Could Allow Remote Code Execution",
-      "link": "https://thehackernews.com/2026/11/php-fixes-7-critical-flaws-including.html",
-      "source": "The Hacker News",
-      "pubDate": "2026-11-19T15:18:07.000Z",
-      "snippet": "The PHP Foundation has released security updates to address multiple critical security flaws that could be exploited to achieve remote code execution on affected deployments, including CVE-2026-115560. The release of the…"
-    },
-    {
-      "title": "Critical VMware vCenter Zero-Day Flaw Lets Network Attackers Bypass Authentication",
-      "link": "https://thehackernews.com/2026/11/critical-vmware-vcenter-flaw-cvss-98.html",
-      "source": "The Hacker News",
-      "pubDate": "2026-11-19T15:11:06.000Z",
-      "snippet": "A critical flaw in VMware vCenter lets an attacker with network access bypass authentication and gain unauthorized access to the system, Broadcom, which owns VMware, said in an advisory published today. Fixed versions ar…"
-    },
-    {
-      "title": "Five warning signs of ransomware breach before encryption or data theft",
-      "link": "https://www.bleepingcomputer.com/news/security/five-warning-signs-of-ransomware-breach-before-encryption-or-data-theft/",
-      "source": "BleepingComputer",
-      "pubDate": "2026-11-19T15:00:10.000Z",
-      "snippet": "Ransomware attacks often involve credential theft, lateral movement, and attempts to disable security controls long before encryption begins. Acronis examines five warning signs that can help defenders detect intrusions…"
-    },
-    {
-      "title": "Critical NGINX ‘NGINX2Root’ bugs let attackers hijack servers",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-nginx-nginx2root-bugs-let-attackers-hijack-servers/",
-      "source": "BleepingComputer",
-      "pubDate": "2026-11-19T14:57:24.000Z",
-      "snippet": "Two critical NGINX vulnerabilities dubbed \"nginx2root\" allow unauthenticated attackers to execute code remotely on vulnerable web servers, with researchers demonstrating how the flaws can be chained with a Linux kernel b…"
-    },
-    {
-      "title": "Drupal Patches Critical Installer Flaw That Could Give Unauthenticated Attackers Control of Sites",
-      "link": "https://thehackernews.com/2026/11/drupal-patches-critical-installer-flaw.html",
-      "source": "The Hacker News",
-      "pubDate": "2026-11-19T14:33:06.000Z",
-      "snippet": "Under specific conditions, a critical vulnerability in Drupal core can allow an attacker without login credentials to use the built-in installer to attempt to reinstall a site. That can lead to a site takeover or remote…"
-    },
-    {
       "title": "Why Holiday Security Can't Wait for Black Friday",
       "link": "https://www.darkreading.com/cybersecurity-operations/why-holiday-security-cant-wait-black-friday",
       "source": "Dark Reading",
       "pubDate": "2026-11-19T14:00:00.000Z",
       "snippet": "Bot-driven fraud and holiday social engineering attacks stretch across many weeks, straining security teams and small businesses alike."
-    },
-    {
-      "title": "Everything Is a Web Application, Including Your Firewall",
-      "link": "https://thehackernews.com/2026/11/everything-is-web-application-including.html",
-      "source": "The Hacker News",
-      "pubDate": "2026-11-19T11:52:23.000Z",
-      "snippet": "One of the early targets of PHP2Shell exploitation was the firewall. On October 28, Palo Alto Networks confirmed that attackers were exploiting the two PHP vulnerabilities, CVE-2026-109618 and CVE-2026-109619, against PA…"
     },
     {
       "title": "Africa Retakes Top Spot as Most Attacked Region, Led by Nigeria Surge",
