@@ -1,6 +1,34 @@
 {
-  "generatedAt": "2026-11-21T19:17:57.711Z",
+  "generatedAt": "2026-11-22T06:52:00.798Z",
   "items": [
+    {
+      "title": "OpenRouter Drops 3 Providers After Researchers Catch Months of Prompt Theft at AI Hosting Firms",
+      "link": "https://thehackernews.com/2026/11/openrouter-drops-3-providers-after.html",
+      "source": "The Hacker News",
+      "pubDate": "2026-11-22T05:06:55.000Z",
+      "snippet": "Attackers stole data from inside three AI inference providers for months, and none of the three knew until researchers told them, the industrial cybersecurity company Dragos said this week. Some of the stolen requests we…"
+    },
+    {
+      "title": "Researchers Demonstrate Ghostscript Sandbox-Escape RCE via Crafted File Uploads in Popular Apps",
+      "link": "https://thehackernews.com/2026/11/researchers-demonstrate-ghostscript.html",
+      "source": "The Hacker News",
+      "pubDate": "2026-11-22T05:03:41.000Z",
+      "snippet": "A now-patched flaw in Ghostscript allows a crafted file to escape the program's security sandbox and run commands on the server that processes it. Ghostscript is the interpreter that many Linux servers use to convert upl…"
+    },
+    {
+      "title": "FBI Investigating Apparent Hack of Its Key National Criminal Justice Database, AP Source Says",
+      "link": "https://www.securityweek.com/fbi-investigating-apparent-hack-of-its-key-national-criminal-justice-database-ap-source-says/",
+      "source": "SecurityWeek",
+      "pubDate": "2026-11-22T00:53:02.000Z",
+      "snippet": "The FBI is investigating an apparent hack of a national law enforcement database that it maintains. The post FBI Investigating Apparent Hack of Its Key National Criminal Justice Database, AP Source Says appeared first on…"
+    },
+    {
+      "title": "Rackspace Spot breach let hackers access customer Kubernetes secrets",
+      "link": "https://www.bleepingcomputer.com/news/security/rackspace-spot-breach-let-hackers-access-customer-kubernetes-secrets/",
+      "source": "BleepingComputer",
+      "pubDate": "2026-11-21T22:59:58.000Z",
+      "snippet": "Rackspace warned customers that hackers breached its Rackspace Spot cloud platform using compromised credentials, allowing them to deploy unauthorized workloads and access Kubernetes secrets in customer clusters. [...]"
+    },
     {
       "title": "Microsoft Entra Connect Health flaw exploited to steal tenant data",
       "link": "https://www.bleepingcomputer.com/news/security/microsoft-entra-connect-health-flaw-exploited-to-steal-tenant-data/",
@@ -21,6 +49,13 @@
       "source": "BleepingComputer",
       "pubDate": "2026-11-21T14:26:04.000Z",
       "snippet": "FBI systems have reportedly been breached for the second time in two months, this time targeting the agency's National Crime Information Center (NCIC), which is used to share information between local, state, and federal…"
+    },
+    {
+      "title": "President Trump Taps Kirsten Davies as National Cyber Director",
+      "link": "https://www.securityweek.com/president-trump-taps-kirsten-davies-as-national-cyber-director/",
+      "source": "SecurityWeek",
+      "pubDate": "2026-11-21T13:00:00.000Z",
+      "snippet": "White House says the battle-tested cyber leader will drive an America First cyber strategy. The post President Trump Taps Kirsten Davies as National Cyber Director appeared first on SecurityWeek ."
     },
     {
       "title": "Amazon: China-Linked Hackers&#8217; AI Agents Exploited Medical Software Zero-Day",
@@ -282,25 +317,11 @@
       "snippet": "The incident affected Mail Assure and SpamExperts Hosted Cloud and could have led to credential theft. The post N-able Blames Service Disruption on Cyberattack appeared first on SecurityWeek ."
     },
     {
-      "title": "JPMorgan, Visa, Mastercard Cite Third-Party Incidents Amid Data Leak",
-      "link": "https://www.securityweek.com/jpmorgan-visa-mastercard-cite-third-party-incidents-amid-data-leak/",
-      "source": "SecurityWeek",
-      "pubDate": "2026-11-20T07:35:46.000Z",
-      "snippet": "The companies point to third-party providers after the N0n extortion group leaked data allegedly tied to their customers. The post JPMorgan, Visa, Mastercard Cite Third-Party Incidents Amid Data Leak appeared first on Se…"
-    },
-    {
       "title": "ROMULUS ClickFix Attacks Deliver RAT That Can Spy on Users and Control PCs",
       "link": "https://thehackernews.com/2026/11/romulus-clickfix-attacks-deliver-rat.html",
       "source": "The Hacker News",
       "pubDate": "2026-11-20T07:11:39.000Z",
       "snippet": "Threat actors have been observed using the ROMULUS ClickFix malware delivery platform to deliver a previously undocumented remote access trojan (RAT) that shares similarities with CNCMachineRMS. \"ROMULUS likely operates…"
-    },
-    {
-      "title": "New Unpatched Windows 0-Day FastUnlock Lets Someone Holding a Locked PC Run Programs on It",
-      "link": "https://thehackernews.com/2026/11/new-unpatched-windows-0-day-fastunlock.html",
-      "source": "The Hacker News",
-      "pubDate": "2026-11-20T05:30:01.000Z",
-      "snippet": "A newly disclosed unpatched zero-day technique called FastUnlock lets someone with physical access to a locked Windows computer start programs without signing in. Whoever uses it gets only a limited account, not administ…"
     },
     {
       "title": "VMware patches vCenter zero-day exploited in attacks since September",
@@ -350,27 +371,6 @@
       "source": "Dark Reading",
       "pubDate": "2026-11-19T19:46:44.000Z",
       "snippet": "This installment of the Reporters' Notebook video series examines the fallout from recent high-severity flaw disclosures, exploring how fears of AI-assisted exploits trigger widespread panic, operational disruptions, and…"
-    },
-    {
-      "title": "Newly Patched VMware vCenter Flaw Exploited as Zero-Day by Chinese APT",
-      "link": "https://www.securityweek.com/newly-patched-vmware-vcenter-flaw-exploited-as-zero-day-by-chinese-apt/",
-      "source": "SecurityWeek",
-      "pubDate": "2026-11-19T19:21:06.000Z",
-      "snippet": "Google says a China-linked espionage group exploited a critical VMware vCenter authentication bypass before Broadcom released a patch. The post Newly Patched VMware vCenter Flaw Exploited as Zero-Day by Chinese APT appea…"
-    },
-    {
-      "title": "ThreatsDay: GPT-6.2 Jailbreak Flaws, BubbleLoader PNG Malware, $500M Ransom Demands + 17 More Stories",
-      "link": "https://thehackernews.com/2026/11/threatsday-gpt-62-jailbreak-flaws.html",
-      "source": "The Hacker News",
-      "pubDate": "2026-11-19T18:47:58.000Z",
-      "snippet": "The easiest way to fool someone is to give them something they already expect. A job offer. A message about a service outage. A familiar app. Nothing looks strange at first. And that's the problem. This week's stories sh…"
-    },
-    {
-      "title": "Transport for London breach exposes 265,000 Oyster card users' data",
-      "link": "https://www.bleepingcomputer.com/news/security/transport-for-london-breach-exposes-265-000-oyster-card-users-data/",
-      "source": "BleepingComputer",
-      "pubDate": "2026-11-19T18:20:01.000Z",
-      "snippet": "Transport for London (TfL) has announced that around 265,000 Oyster photocard customers may have had their account details exposed in a data breach. [...]"
     },
     {
       "title": "Why Holiday Security Can't Wait for Black Friday",
