@@ -1,6 +1,34 @@
 {
-  "generatedAt": "2026-11-23T23:55:23.969Z",
+  "generatedAt": "2026-11-24T09:56:56.483Z",
   "items": [
+    {
+      "title": "OpenAI and Cisco Unveil AI-Assisted Linux Security Tool to Block Exploits Before Patching",
+      "link": "https://thehackernews.com/2026/11/openai-and-cisco-unveil-ai-assisted.html",
+      "source": "The Hacker News",
+      "pubDate": "2026-11-24T06:02:57.000Z",
+      "snippet": "OpenAI and Cisco have teamed up to launch Shirudo (meaning \"shield\" in Japanese), an open-source Linux runtime that allows artificial intelligence (AI) agents to defend systems without downtime. \"It lets agents write dyn…"
+    },
+    {
+      "title": "Hackers Exploit N-able MailAssure Flaw While AI Agents Exploit MONAI Label Zero-Day",
+      "link": "https://thehackernews.com/2026/11/hackers-exploit-n-able-mailassure-flaw.html",
+      "source": "The Hacker News",
+      "pubDate": "2026-11-24T06:02:45.000Z",
+      "snippet": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added two flaws impacting N-able MailAssure and MONAI Label to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active explo…"
+    },
+    {
+      "title": "LaLiga hacked: Spain’s top football league confirms theft of fans’ personal data",
+      "link": "https://therecord.media/laliga-hacked-spain-top-professional-league-confirms-cyber-incident",
+      "source": "The Record",
+      "pubDate": "2026-11-24T00:00:00.000Z",
+      "snippet": "Spain’s professional soccer league LaLiga said Monday hackers stole personal information belonging to fans in a cyberattack affecting its digital services and those of several Spanish clubs."
+    },
+    {
+      "title": "‘Grand Theft Auto VI’ hacker sentenced to seven years, released the same day",
+      "link": "https://therecord.media/gta-vi-hacker-arion-kurtaj-released-on-license",
+      "source": "The Record",
+      "pubDate": "2026-11-24T00:00:00.000Z",
+      "snippet": "A British cybercriminal who hacked Rockstar Games and leaked footage of Grand Theft Auto VI was sentenced Monday to seven years in prison, and then released on license because of time served."
+    },
     {
       "title": "Hackers breach Austrian Foreign Ministry website, access diplomats' contact details",
       "link": "https://therecord.media/austrian-foreign-ministry-says-website-hacked",
@@ -86,13 +114,6 @@
       "snippet": "The China-aligned threat actor known as Webworm is suspected to be using a custom version of the open-source SoftEther VPN Bridge tool in an attempt to remove recognizable detection fingerprints, while disguising it as n…"
     },
     {
-      "title": "CrowdStrike to purchase Zscaler for $43.9 billion",
-      "link": "https://therecord.media/crowdstrike-zscaler",
-      "source": "The Record",
-      "pubDate": "2026-11-23T17:14:00.000Z",
-      "snippet": "“We see a path to become the largest AI safety and security company the world has ever seen,” CrowdStrike CEO George Kurtz said."
-    },
-    {
       "title": "GlobeTopper loses $2.5 million after hackers steal $70k in gift cards",
       "link": "https://www.bleepingcomputer.com/news/security/globetopper-loses-25-million-after-hackers-steal-70k-in-gift-cards/",
       "source": "BleepingComputer",
@@ -114,13 +135,6 @@
       "snippet": "Microsoft closed an Azure API Management flaw exploited to target secrets at Norwegian energy companies, with other sectors also affected. The post Azure Flaw Exploited to Target Secrets at Norwegian Energy Firms appeare…"
     },
     {
-      "title": "Norway says hackers exploited Microsoft security flaw to attack energy firms Equinor, Skagerak Energi",
-      "link": "https://therecord.media/norway-microsoft-cyberattack-equinor",
-      "source": "The Record",
-      "pubDate": "2026-11-23T15:45:00.000Z",
-      "snippet": "Norwegian energy companies Equinor and Skagerak Energi were affected by a Microsoft cloud security vulnerability that hackers have exploited to target sensitive credentials, Norway's cybersecurity authorities said."
-    },
-    {
       "title": "⚡ Weekly Recap: VMware 0-Day, Java4Shell, NGINX2Root, Ruby2Shell, and a Whole Lot of Shell Trouble",
       "link": "https://thehackernews.com/2026/11/weekly-recap-vmware-0-day-java4shell.html",
       "source": "The Hacker News",
@@ -128,11 +142,11 @@
       "snippet": "A stolen key. A trusted message. A routine update. None of these looks like the start of a major security problem. That's partly why they work. Attackers don't always need to break down a door. Sometimes they just use on…"
     },
     {
-      "title": "N-able Patches Critical Flaw Disclosed After Mail Assure Cyberattack",
+      "title": "N-able Patches Critical Flaw Discovered After Mail Assure Cyberattack",
       "link": "https://www.securityweek.com/n-able-patches-critical-flaw-disclosed-after-mail-assure-cyberattack/",
       "source": "SecurityWeek",
       "pubDate": "2026-11-23T15:06:49.000Z",
-      "snippet": "The company has restored access to the affected services and continues to monitor the affected environments. The post N-able Patches Critical Flaw Disclosed After Mail Assure Cyberattack appeared first on SecurityWeek ."
+      "snippet": "The company has restored access to the affected services and continues to monitor the affected environments. The post N-able Patches Critical Flaw Discovered After Mail Assure Cyberattack appeared first on SecurityWeek ."
     },
     {
       "title": "AI Agents Are Creating a Shared Responsibility Gap",
@@ -336,20 +350,6 @@
       "source": "The Hacker News",
       "pubDate": "2026-11-21T11:03:17.000Z",
       "snippet": "Suspected China-linked hackers used autonomous AI agents to find a previously unknown flaw in MONAI Label, an open-source medical imaging server, and gain root access to a university server, Amazon Threat Intelligence sa…"
-    },
-    {
-      "title": "Signal Blocks AI Agents From Reading Private Chats via Screenshots on Android and iOS",
-      "link": "https://thehackernews.com/2026/11/signal-blocks-ai-agents-from-reading.html",
-      "source": "The Hacker News",
-      "pubDate": "2026-11-21T08:49:20.000Z",
-      "snippet": "Signal has announced that it will restrict screenshots by default to stop artificial intelligence (AI) agents from reading private chats on Android and iOS devices, but conceded that the protection is \"incomplete.\" The f…"
-    },
-    {
-      "title": "Hackers Exploit Critical VMware, Cisco, and Apache Flaws as Espionage Attacks Emerge",
-      "link": "https://thehackernews.com/2026/11/hackers-exploit-critical-vmware-cisco.html",
-      "source": "The Hacker News",
-      "pubDate": "2026-11-21T08:49:13.000Z",
-      "snippet": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added four flaws impacting Apache Roller, Cisco Expressway, SAP NetWeaver, and Broadcom VMware vCenter to its Known Exploited Vulnerabilities (KE…"
     },
     {
       "title": "How Security Vendors Are Tackling Access-Control Challenges for AI Agents",
