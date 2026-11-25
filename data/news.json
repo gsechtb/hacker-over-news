@@ -1,6 +1,62 @@
 {
-  "generatedAt": "2026-11-24T22:28:49.824Z",
+  "generatedAt": "2026-11-25T08:37:50.208Z",
   "items": [
+    {
+      "title": "Cyber Insurers See New Divide: AI Defense 'Haves' &amp; 'Have Nots'",
+      "link": "https://www.darkreading.com/cybersecurity-operations/cyber-insurers-see-new-ai-divide",
+      "source": "Dark Reading",
+      "pubDate": "2026-11-25T15:00:00.000Z",
+      "snippet": "Dark Reading Confidential Episode 23: Cyber insurers share their view of the AI-driven threat landscape and how mounting challenges are putting pressure on both sides of the policy, leaving the current model unsustainabl…"
+    },
+    {
+      "title": "Palo Alto Networks Patches Fragnesia Flaw Used to Root Firewalls",
+      "link": "https://www.securityweek.com/palo-alto-networks-patches-fragnesia-flaw-used-to-root-firewalls/",
+      "source": "SecurityWeek",
+      "pubDate": "2026-11-25T08:12:24.000Z",
+      "snippet": "A China-linked hacking group chained PHP2Shell with Fragnesia in AI-assisted attacks that hit 25 servers. The post Palo Alto Networks Patches Fragnesia Flaw Used to Root Firewalls appeared first on SecurityWeek ."
+    },
+    {
+      "title": "Drupal Flaw Found by Anthropic Scanner Exploited in Attacks",
+      "link": "https://www.securityweek.com/drupal-flaw-found-by-anthropic-scanner-exploited-in-attacks/",
+      "source": "SecurityWeek",
+      "pubDate": "2026-11-25T08:01:06.000Z",
+      "snippet": "CISA has added the vulnerability to its KEV catalog and instructed federal agencies to patch it within three days. The post Drupal Flaw Found by Anthropic Scanner Exploited in Attacks appeared first on SecurityWeek ."
+    },
+    {
+      "title": "Hackers reportedly breached CIA intelligence analysis system",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-reportedly-breached-cia-intelligence-analysis-system/",
+      "source": "BleepingComputer",
+      "pubDate": "2026-11-25T07:45:03.000Z",
+      "snippet": "Unknown attackers have reportedly breached an open-source intelligence analysis system at the US Central Intelligence Agency (CIA) [...]"
+    },
+    {
+      "title": "Hackers Compromise 24 Check Point Management Servers in Suspected AI-Driven Attack Campaign",
+      "link": "https://thehackernews.com/2026/11/hackers-compromise-24-check-point.html",
+      "source": "The Hacker News",
+      "pubDate": "2026-11-25T06:50:19.000Z",
+      "snippet": "An unknown threat actor has been using artificial intelligence (AI)-driven offensive tooling in a campaign targeting Check Point Security Management servers, impacting 22 distinct organizations across the world. The intr…"
+    },
+    {
+      "title": "Com-Affiliated Hackers Hijack Cloud Accounts via Vishing for Data Theft and Extortion",
+      "link": "https://thehackernews.com/2026/11/com-affiliated-hackers-hijack-cloud.html",
+      "source": "The Hacker News",
+      "pubDate": "2026-11-25T06:37:06.000Z",
+      "snippet": "Palo Alto Networks Unit 42 has disclosed that it's tracking and has responded to \"numerous waves of vishing attacks\" orchestrated by Com-affiliated threat actors since August 2026 that have led to data theft and extortio…"
+    },
+    {
+      "title": "WordPress Blocks Six Backdoored WP Connect Plugins Before Malicious Releases Go Live",
+      "link": "https://thehackernews.com/2026/11/wordpress-blocks-six-backdoored-wp.html",
+      "source": "The Hacker News",
+      "pubDate": "2026-11-25T06:21:12.000Z",
+      "snippet": "WordPress has removed six WordPress plugins developed by WP Connect after they were backdoored on November 22, 2026, to enable arbitrary code execution on sites that have them installed, following a suspected compromise…"
+    },
+    {
+      "title": "An Unclassified CIA System Was Breached in a Cyberattack, AP Source Says",
+      "link": "https://www.securityweek.com/an-unclassified-cia-system-was-breached-in-a-cyberattack-ap-source-says/",
+      "source": "SecurityWeek",
+      "pubDate": "2026-11-24T22:41:58.000Z",
+      "snippet": "It was not clear what specific information was compromised or who was responsible. The post An Unclassified CIA System Was Breached in a Cyberattack, AP Source Says appeared first on SecurityWeek ."
+    },
     {
       "title": "Satellites Have a Ground-Level Cybersecurity Problem",
       "link": "https://www.darkreading.com/cyber-risk/satellites-ground-level-cybersecurity-problem",
@@ -233,13 +289,6 @@
       "snippet": "Critical Bluetooth flaws in Elecbrakes controllers could let nearby attackers force trailer braking, potentially causing accidents. The post Elecbrakes Bluetooth Vulnerabilities Expose Trailers to Forced Braking appeared…"
     },
     {
-      "title": "Peninsula Energy Halts Trading After Cyber Incident Hits US Uranium Mine",
-      "link": "https://www.securityweek.com/peninsula-energy-halts-trading-after-cyber-incident-hits-us-uranium-mine/",
-      "source": "SecurityWeek",
-      "pubDate": "2026-11-24T10:35:04.000Z",
-      "snippet": "The company told the ASX that a cybersecurity incident at its Wyoming uranium project would temporarily affect operations. The post Peninsula Energy Halts Trading After Cyber Incident Hits US Uranium Mine appeared first…"
-    },
-    {
       "title": "WHMCS SQL Injection Could Expose Customer Data and Admin Password Hashes without Login",
       "link": "https://thehackernews.com/2026/11/whmcs-sql-injection-flaw-could-expose.html",
       "source": "The Hacker News",
@@ -303,13 +352,6 @@
       "snippet": "Microsoft is warning customers that a security vulnerability in Azure API Management (APIM) Classic tiers was exploited to steal stored API credentials, with Norwegian authorities linking the flaw to cyberattacks against…"
     },
     {
-      "title": "Spanish LaLiga confirms hackers stole soccer fans’ personal data",
-      "link": "https://www.bleepingcomputer.com/news/security/spanish-laliga-confirms-hackers-stole-soccer-fans-personal-data/",
-      "source": "BleepingComputer",
-      "pubDate": "2026-11-23T18:38:40.000Z",
-      "snippet": "LaLiga, Spain's top men's football league, disclosed a data breach that exposed personal information belonging to users of its services and those of some affiliated clubs. [...]"
-    },
-    {
       "title": "Behind the Alias: How One Researcher Unmasked a Decade of Ransomware Actors",
       "link": "https://www.darkreading.com/cybersecurity-operations/alias-researcher-unmasked-ransomware-actors",
       "source": "Dark Reading",
@@ -331,46 +373,11 @@
       "snippet": "A China-nexus actor used the Cairn penetration testing tool in attacks against East Asian universities, exploiting a zero-day in a medical imaging app."
     },
     {
-      "title": "Azure Flaw Exploited to Target Secrets at Norwegian Energy Firms",
-      "link": "https://www.securityweek.com/azure-flaw-exploited-to-target-secrets-at-norwegian-energy-firms/",
-      "source": "SecurityWeek",
-      "pubDate": "2026-11-23T15:47:40.000Z",
-      "snippet": "Microsoft closed an Azure API Management flaw exploited to target secrets at Norwegian energy companies, with other sectors also affected. The post Azure Flaw Exploited to Target Secrets at Norwegian Energy Firms appeare…"
-    },
-    {
       "title": "⚡ Weekly Recap: VMware 0-Day, Java4Shell, NGINX2Root, Ruby2Shell, and a Whole Lot of Shell Trouble",
       "link": "https://thehackernews.com/2026/11/weekly-recap-vmware-0-day-java4shell.html",
       "source": "The Hacker News",
       "pubDate": "2026-11-23T15:10:48.000Z",
       "snippet": "A stolen key. A trusted message. A routine update. None of these looks like the start of a major security problem. That's partly why they work. Attackers don't always need to break down a door. Sometimes they just use on…"
-    },
-    {
-      "title": "N-able Patches Critical Flaw Discovered After Mail Assure Cyberattack",
-      "link": "https://www.securityweek.com/n-able-patches-critical-flaw-disclosed-after-mail-assure-cyberattack/",
-      "source": "SecurityWeek",
-      "pubDate": "2026-11-23T15:06:49.000Z",
-      "snippet": "The company has restored access to the affected services and continues to monitor the affected environments. The post N-able Patches Critical Flaw Discovered After Mail Assure Cyberattack appeared first on SecurityWeek ."
-    },
-    {
-      "title": "Critical binary-parser Flaw Enables JavaScript Injection via Malicious Parser Definitions",
-      "link": "https://thehackernews.com/2026/11/critical-binary-parser-flaw-enables.html",
-      "source": "The Hacker News",
-      "pubDate": "2026-11-23T13:22:20.000Z",
-      "snippet": "A critical security flaw has been disclosed in the popular binary-parser library that could allow an attacker who controls parser definitions to execute arbitrary code. The vulnerability, tracked as CVE-2026-134814 (CVSS…"
-    },
-    {
-      "title": "Hackers Exploit Critical ScreenConnect Flaw to Hijack MSP Technician PCs Without Warning",
-      "link": "https://thehackernews.com/2026/11/hackers-exploit-critical-screenconnect.html",
-      "source": "The Hacker News",
-      "pubDate": "2026-11-23T12:41:04.000Z",
-      "snippet": "Threat actors are exploiting a now-patched security flaw in ConnectWise ScreenConnect to target managed service provider (MSP) servers. The activity revolves around CVE-2026-84869 (CVSS score: 9.9), a critical ScreenConn…"
-    },
-    {
-      "title": "N-able Discloses Critical Mail Assure Vulnerability Found During Breach Investigation",
-      "link": "https://thehackernews.com/2026/11/n-able-discloses-critical-mail-assure.html",
-      "source": "The Hacker News",
-      "pubDate": "2026-11-23T12:28:09.000Z",
-      "snippet": "N-able yesterday disclosed a critical flaw it found while investigating the breach of its Mail Assure and SpamExperts Hosted Cloud, an email filtering service it runs for managed service providers. The bug, tracked as CV…"
     },
     {
       "title": "How Security Vendors Are Tackling Access-Control Challenges for AI Agents",
@@ -413,13 +420,6 @@
       "source": "Dark Reading",
       "pubDate": "2026-11-20T17:04:04.000Z",
       "snippet": "In this video, Dark Reading editors discuss some of the news they didn't get a chance to cover, from Jensen Huang's resignation from Nvidia to Microsoft's recent cloud outage."
-    },
-    {
-      "title": "Microsoft Debuts Offensive, Defensive Security Tools for the AI Era",
-      "link": "https://www.darkreading.com/endpoint-security/microsoft-offense-defense-ai-security-tools",
-      "source": "Dark Reading",
-      "pubDate": "2026-11-20T13:51:30.000Z",
-      "snippet": "At its Ignite technical conference, Microsoft announced AI agent security tools and transparency standards to protect enterprise systems."
     }
   ]
 }
